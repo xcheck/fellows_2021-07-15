@@ -6,11 +6,13 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
 
 current status‥
 
-|₁₁basis |subscription |project |
-|--- |-- |-- |
-|[x] |invitee (private) |theme of elements |
-|[-] |pseudonym |kudos |
-|[-] |anonym |levelling |
+|₁₁basis |subscription |project |rel |
+|--- |-- |-- |--|
+|[x] |invitee (private) |fellows |[xcheck/fellows/wikis](https://gitlab.com/xcheck/fellows/wikis/home) |
+|[-] |pseudonym |kudos | |
+|[-] |anonym |levelling |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows/) |
+
+
 
 
 ---
