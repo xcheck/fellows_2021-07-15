@@ -8,9 +8,9 @@ current status‥
 
 |₁₁basis |subscription |project |rel |
 |--- |-- |-- |--|
-|[_] |invitee (private) |theme-of-elements | |
+|[=] |invitee (private) |theme-of-elements | |
 |[x] |pseudonym [kudos] |fellows |[xcheck/fellows/wikis](https://gitlab.com/xcheck/fellows/wikis/home) |
-|[_] |anonym /link ex\ |levelling |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows) |
+|[=] |anonym /link ex\ |levelling |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows) |
 
 
 
