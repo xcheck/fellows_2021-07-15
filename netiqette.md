@@ -6,6 +6,7 @@
 * `mo✓` dom; mod
 * `✓is` vanilla; v il/ ^an \ₗₐ; vis
 
+Qua ^**simodo** nur halt rückwärts…
 
 ---
 [Link ∷ README](./README.md)
