@@ -10,7 +10,7 @@ current status‥
 |--- |-- |-- |--|
 |☐ |invitee (private) :file_folder: |theme-of-elements |[∷](https://gitlab.com/xcheck/theme-of-elements/wikis/home) |
 |☒ |pseudonym [kudos] :footprints: |fellows |[xcheck/fellows/wikis](https://gitlab.com/xcheck/fellows/wikis/home) |
-|☐ |anonym /link ex\ :bouquet: |levelling |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows) |
+|☐ |anonym /link ex\ :bouquet: |_levelling_ |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows) |
 
 
 
