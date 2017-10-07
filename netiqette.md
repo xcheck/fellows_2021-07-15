@@ -8,7 +8,7 @@
 
 Qua ^**simodo** nur halt rückwärts…
 
-:link:
+:keyboard:
 
 
 ### alternativ mainstream :8ball:
