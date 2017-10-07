@@ -13,9 +13,9 @@ Qua ^**simodo** nur halt rückwärts…
 
 ### alternativ mainstream :8ball:
 
-|:repeat_one: o |r |f :leftwards_arrow_with_hook: |
+|o :repeat_one: |r :checkered_flag: |f :leftwards_arrow_with_hook: |
 |--- |-- |-- |
-|f ᵐ4 | |:checkered_flag: |
+|f ᵐ4 | | |
 |f ^m→ 4 | | |
 |fm4 | f ^nu 4 | f ④ |
 
