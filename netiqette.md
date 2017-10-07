@@ -15,8 +15,8 @@ Qua ^**simodo** nur halt rückwärts…
 
 |o :repeat_one: |r :checkered_flag: |f :leftwards_arrow_with_hook: |
 |--- |-- |-- |
-|f ᵐ4 | | |
-|f ^m→ 4 | | |
+|f ᵐ4 | |[f]ₘ |
+|f ^m→ 4 |f 4ₘ | |
 |fm4 | f ^nu 4 | f ④ |
 
 
