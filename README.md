@@ -1,4 +1,4 @@
-## RE ^↲AD↵ ME
+# RE ^↲AD↵ ME
 
 Q: why a MIT License  
 A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
@@ -13,7 +13,12 @@ current status‥
 |☐ |anonym /link ex\ :bouquet: |_levelling_ |[Balaganten Fellows](https://www.facebook.com/groups/balaganten.fellows) |
 
 
+### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakt
 
+1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
+2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
+
+LINK ∷ [Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik _« zu finden unter rel ^t-o-e_](https://www.gesetze-im-internet.de/bgb/__630g.html)
 
 ---
 **[Link ∷ README](./README.md)**
