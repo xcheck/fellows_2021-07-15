@@ -4,7 +4,7 @@
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
 
-### Sonderzeichen
+# Sonderzeichen
 
 ¦	☛	ℹ	↯	⛓	⛳	⛱
 
@@ -54,16 +54,16 @@
 :telephone:    :fax:
 
 ---
-### Backround
+# Backround
 
-**Dose Adapter DE>AR**
+### Dose Adapter DE>AR
 
 |Entity |Scope |
 |--- |-- |
 |DEᴬᴿ |RADICAL |
 |ᴬᴿDE |ISOTOP |
-|ar DE |ORDNUNG |
-|DE ar |BASIS |
+|arDE |ORDNUNG |
+|DEar |BASIS |
 
 
 |pD |oI |lM |
@@ -76,7 +76,7 @@
 inherit \<DE\>[AR] « optional cycles to arDE
 
 
-**IfThisThanThat (ITTT)**
+### IfThisThanThat (ITTT)
 
 ITTT  
 T ^¬1 TT  
