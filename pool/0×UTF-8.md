@@ -52,3 +52,34 @@
 ### \:substitent\: :information_source:
 
 :telephone:    :fax:
+
+---
+### Backround
+
+**Dose Adapter DE>AR**
+
+|Entity |Scope |
+|--- |-- |
+|DEᴬᴿ |RADICAL |
+|ᴬᴿDE |ISOTOP |
+|ar DE |ORDNUNG |
+|DE ar |BASIS |
+
+
+|pD |oI |lM |
+| :---: | :--: | :--: |
+|ISOTOP | |RADICAL |
+| |Delta | |
+|ORDNUNG | |BASIS |
+
+
+inherit \<DE\>[AR] « optional cycles to arDE
+
+
+**IfThisThanThat (ITTT)**
+
+ITTT  
+T ^¬1 TT  
+▽  
+∵  
+|∴| scoop schöpfen
