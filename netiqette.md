@@ -21,6 +21,13 @@ Qua ^**simodo** nur halt rückwärts…
 
 
 ---
+> :chains:
+
+# Glossar :information_source:
+
+:pregnant_woman: [Symbole — Sprachregelung](./pool/0×UTF-8.md)
+
+---
 [Link ∷ README](./README.md)
 
 **[Link ∷ netiqette](./netiqette.md)**
