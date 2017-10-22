@@ -67,22 +67,20 @@
 
 ### Dose Adapter DE>AR
 
-|Entity |Scope |
-|--- |-- |
-|DEᴬᴿ |RADICAL |
-|ᴬᴿDE |ISOTOP |
-|arDE |ORDNUNG |
-|DEar |BASIS |
-
-
-|pD |oI |lM |
-| :---: | :--: | :--: |
+|D ^P |I ^O |M ^L |
+| :--: | :--: | :--: |
 |ISOTOP | |RADICAL |
 | |Delta | |
 |ORDNUNG | |BASIS |
 
-
 inherit \<DE\>[AR] « optional cycles to arDE
+
+|Entity |Scope |
+|--- |-- |
+|arDE |ORDNUNG |
+|DEar |BASIS |
+|ᴬᴿDE |ISOTOP |
+|DEᴬᴿ |RADICAL |
 
 
 ### IfThisThanThat (ITTT)
