@@ -49,9 +49,18 @@
 ᵀ	ᵁ	ᵂ	
 
 ---
-### \:substitent\: :information_source:
+### AutoCorre ^ction :{+substitent+}: :information_source:
 
-:telephone:    :fax:
+|popuent |:{+substituent+}: |
+| :--: | :--- |
+|:phone: |`:phone:` |
+|:phone2: |`:phone2:` |
+|:telephone: |`:telephone:` |
+|:telephone2: |`:telephone2:` |
+|:fax: |`:fax:` |
+|:footprints: |footprints |
+|:chains: |chains |
+
 
 ---
 # Backround
