@@ -88,7 +88,7 @@ inherit \<DE\>[AR] « optional cycles to arDE
 ### IfThisThanThat (ITTT)
 
 ITTT  
-T ^¬1 TT  
+T ^-1 TT  
 ▽  
 ∵  
 |∴| scoop schöpfen
