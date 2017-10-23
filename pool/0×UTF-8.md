@@ -70,7 +70,7 @@
 |D ^P |I ^O |M ^L |
 | :--: | :--: | :--: |
 |ISOTOP | |RADICAL |
-| |Delta | |
+| |ₛDelta | |
 |ORDNUNG | |BASIS |
 
 inherit \<DE\>[AR] « optional cycles to arDE
