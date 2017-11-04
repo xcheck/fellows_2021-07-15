@@ -1,4 +1,14 @@
 # RE ^↲AD↵ ME
+> * Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
+> → [Statistik eh…][Upnetload-B]
+> * Opendata Transparency Request  
+> to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
+> * Post your findings and thoughts ^Te ^das ^cuenta [ISBN 978-3-492-30410-9][Upnetload-A]  
+
+
+[Upnetload-A]: https://gitlab.com/xcheck/fellows/snippets/1680925
+[Upnetload-B]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
+
 
 Q: why a MIT License  
 A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
