@@ -1,3 +1,6 @@
+#!/Rollout _« shebang desp. hashbang_  
+https://rollparc.com/Kontakt  
+
 ☏	Schauen  
 ⚽	Sport  
 🤰    Embarrassed Prägend Lock-In please continue here…  
