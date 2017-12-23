@@ -33,6 +33,6 @@ L ^in K ∷ [Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik _«
 ---
 **[ LiNK ∷ README ](./README.md)**
 
-[ L ^i NK ∷ droppin ^Latest ^incidents ](./droppin.md)
+[ L ^i NK ∷ droppin _« Latest incidents_ ](./droppin.md)
 
 [ L ^i NK ∷ netiqette ](./netiqette.md)
