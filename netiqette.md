@@ -28,6 +28,6 @@ Qua ^**simodo** nur halt rückwärts…
 :pregnant_woman: [Symbole — Sprachregelung](./pool/0×UTF-8.md)
 
 ---
-[Link ∷ README](./README.md)
+[L ^i NK ∷ README](./README.md)
 
-**[Link ∷ netiqette](./netiqette.md)**
+**[LiNK ∷ netiqette](./netiqette.md)**
