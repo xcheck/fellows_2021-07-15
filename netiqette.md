@@ -27,7 +27,10 @@ Qua ^**simodo** nur halt rückwärts…
 
 :pregnant_woman: [Symbole — Sprachregelung](./pool/0×UTF-8.md)
 
+
 ---
 [L ^i NK ∷ README](./README.md)
+
+[ L ^i NK ∷ droppin _« Latest incidents_ ](./droppin.md)
 
 **[LiNK ∷ netiqette](./netiqette.md)**
