@@ -1,7 +1,7 @@
 #!/Rollout _« shebang desp. hashbang_  
 https://rollparc.com/Kontakt  
 
-### better ^read-the-code ^· ^provide ^example ^w/ ^source ^· ^rel ord ^base
+### better ^read-the-code · provide example w/ source · rel ord ^base
 
 
 ☏	Schauen  
@@ -15,6 +15,8 @@ LiNK _« stay onna page ↷ anchory ℅_
 
 
 ¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
+∵ ^needle ^on ^the ^record _« \[∵\]( ink:high^lighter ) mouse over 
+∴ ^resolves  
 
 
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
