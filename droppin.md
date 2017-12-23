@@ -7,7 +7,7 @@
 more to come… ^in ^spe ^auf… [ ^L ^^in ^K ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
 
 
---  
+---
 [ L ^i NK ∷ README ](./README.md)
 
 **[ LiNK ∷ droppin _« Latest incidents_ ](./droppin.md)**
