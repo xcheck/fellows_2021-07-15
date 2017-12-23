@@ -1,9 +1,22 @@
 #!/Rollout _« shebang desp. hashbang_  
 https://rollparc.com/Kontakt  
 
+### better ^read-the-code ^· ^provide ^example ^w/ ^source ^· ^rel ord ^base
+
+
 ☏	Schauen  
 ⚽	Sport  
 🤰    Embarrassed Prägend Lock-In please continue here…  
+
+
+L ^in K _« leave profile ↷ outra_  
+L ^i NK _« leave this ↷ intra ℆_  
+LiNK _« stay onna page ↷ anchory ℅_  
+
+
+¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
+
+
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
 
