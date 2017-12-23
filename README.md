@@ -31,6 +31,8 @@ current status‥
 L ^in K ∷ [Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik _« zu finden unter rel ^t-o-e_](https://www.gesetze-im-internet.de/bgb/__630g.html)
 
 ---
-**[LiNK ∷ README](./README.md)**
+**[ LiNK ∷ README ](./README.md)**
 
-[L ^i NK ∷ netiqette](./netiqette.md)
+[ L ^i NK ∷ Latest incidents ](./droppin.md)
+
+[ L ^i NK ∷ netiqette ](./netiqette.md)
