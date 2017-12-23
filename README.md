@@ -28,9 +28,9 @@ current status‥
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-LINK ∷ [Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik _« zu finden unter rel ^t-o-e_](https://www.gesetze-im-internet.de/bgb/__630g.html)
+L ^in K ∷ [Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik _« zu finden unter rel ^t-o-e_](https://www.gesetze-im-internet.de/bgb/__630g.html)
 
 ---
-**[Link ∷ README](./README.md)**
+**[LiNK ∷ README](./README.md)**
 
-[Link ∷ netiqette](./netiqette.md)
+[L ^i NK ∷ netiqette](./netiqette.md)
