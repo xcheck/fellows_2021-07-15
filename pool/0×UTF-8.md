@@ -4,7 +4,7 @@
 https://rollparc.com/Kontakt  
 
 
-☏	Schauen  
+☏	Schauen ñ  
 ⚽	Sport  
 🤰    Embarrassed Prägend Lock-In please continue here…  
 
@@ -23,7 +23,7 @@ LiNK ∷ _« stay onna page ↷ anchory ℅_
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
 
-# ñ Sonderzeichen
+# Sonderzeichen
 
 ¦	☛	ℹ	↯	⛓	⛳	⛱
 
