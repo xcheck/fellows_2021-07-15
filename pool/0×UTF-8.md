@@ -67,6 +67,27 @@ LiNK ∷ _« stay onna page ↷ anchory ℅_
 
 ᵀ	ᵁ	ᵂ	
 
+```
+·0  
+·1  ᴬ   ᴹ
+·2  ᴮ   ᴺ
+·3      ᴼ
+·4  ᴰ   ᴾ
+·5  ᴱ   
+·6      ᴿ
+·7  ᴳ   
+·8  ᴴ   ᵀ
+·9  ᴵ   ᵁ
+10  ᴶ   
+11  ᴷ   ᵂ
+12  ᴸ   
+13  
+14  
+15  
+16  
+```
+
+
 ---
 ### AutoCorre ^ction :{+substitent+}: :information_source:
 
