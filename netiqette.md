@@ -31,6 +31,6 @@ Qua ^**simodo** nur halt rückwärts…
 ---
 [L ^i NK ∷ README](./README.md)
 
-[ L ^i NK ∷ droppin _« Latest incidents_ ](./droppin.md)
+[ L ^i NK ∷ drop_in _« Latest incidents_ ](./drop_in.md)
 
 **[LiNK ∷ netiqette](./netiqette.md)**
