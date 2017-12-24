@@ -23,7 +23,7 @@ LiNK ∷ _« stay onna page ↷ anchory ℅_
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
 
-# Sonderzeichen
+# ñ Sonderzeichen
 
 ¦	☛	ℹ	↯	⛓	⛳	⛱
 
