@@ -1,4 +1,8 @@
 # RE ^↲AD↵ ME
+
+Q: why a MIT License  
+A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
+
 > * Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
 > → [ Statistik eh… ][Upnetload-B]
 > * Opendata Transparency Request  
@@ -10,9 +14,7 @@
 [Upnetload-B]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
 
 
-Q: why a MIT License  
-A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
-
+Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
 
 current status‥
 
