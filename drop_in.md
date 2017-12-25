@@ -2,6 +2,8 @@
 
 ### Abführung n. Polizeiniederschlag vom 2017-11-28
 
+…online connected seit 2017-12-08 ^Handy erweitert zum 2017-12-22 ^Netbook
+
 [ LⁱⁿK ∷ Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ^per ^2017-12-17 ][pol28-mmailAnzPoli2AG]  
 [ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
 [ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → RAin Familienrecht ^als ^HTML-Archiv ^per ^2017-12-22 ][pol28-mmailRapFami2RAin]  
