@@ -2,16 +2,21 @@
 
 ### Abführung n. Polizeiniederschlag vom 2017-11-28
 
-[ L ^in K ∷ Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ](https://rollparc.com/include/0ffSite/Mobile-Webmail--HametnerUwe-2017-12-17-PolizeiniederschlagAnzeige/)  
-[ L ^in K ∷ Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ](https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-2017-12-23-Quotes/) [ → Twitter ^als ^PDF-Auszug ](https://rollparc.com/include/0ffSite/Twitter--HamenterUwe-2017-12-23-Quotes-ic.pdf)  
+[ LⁱⁿK ∷ Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ][pol23-mmailAnzPol2AG]  
+[ LⁱⁿK ∷ Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ][pol23-twitterHTML] [ → Twitter ^als ^PDF-Auszug ][pol23-twitterPDFic]  
+[ LⁱⁿK ∷ Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-Zuverlässig ^als ^HTML-Archiv ][pol23-mmailaPflegeset2kbo]  
 
+[pol23-mmailAnzPol2AG]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-2017-12-17-AnzeigePolizeiniederschlag/
+[pol23-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-2017-12-23-Quotes/
+[pol23-twitterPDFic]: https://rollparc.com/include/0ffSite/Twitter--HamenterUwe-2017-12-23-Quotes-ic.pdf
+[pol23-mmailaPflegeset2kbo]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-2017-12-24-VerwehrtPflegeset/
 
-more to come… ^in ^spe ^auf… [ ^L ^^in ^K ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
+more in spe auf… [ ^LⁱⁿK ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
 
 
 ---
-[ L ^i NK ∷ README ](./README.md)
+[ LⁱNK ∷ README ](./README.md)
 
-**[ LiNK ∷ drop_in _« Latest incidents_ ](./droppin.md)**
+**[ LiNK ∷ drop.in _« Latest incidents_ ](./droppin.md)**
 
-[ L ^i NK ∷ netiqette ](./netiqette.md)
+[ LⁱNK ∷ netiqette ](./netiqette.md)
