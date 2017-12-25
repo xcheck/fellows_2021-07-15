@@ -4,13 +4,13 @@
 https://rollparc.com/Kontakt  
 
 
-☏	Schauen ñ  
+☏	Schauen‥ ñ ˽  
 ⚽	Sport  
 🤰    Embarrassed Prägend Lock-In please continue here…  
 
 
-L ^in K ∷ _« leave profile ↷ outra_  
-L ^i NK ∷ _« leave this ↷ intra ℆_  
+LⁱⁿK ∷ _« leave profile ↷ outra_  
+LⁱNK ∷ _« leave this ↷ intra ℆_  
 LiNK ∷ _« stay onna page ↷ anchory ℅_  
 
 
@@ -24,6 +24,12 @@ LiNK ∷ _« stay onna page ↷ anchory ℅_
 
 
 # Sonderzeichen
+
+←↑→↓↔↕↨  
+○●◘◙  
+˽°¹²³ªº  
+↓ₐₑₕᵢₖₗₘₙₒₚᵣₛₜᵤᵥₓ  
+↑ᵃᵇᶜᵈᵉᶠᵍʰʲᵏˡᵐᵑᵒᵖᶢʳˢᵗᵘᵛʷʸᶻ  
 
 ¦	☛	ℹ	↯	⛓	⛳	⛱
 
