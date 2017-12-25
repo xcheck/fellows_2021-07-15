@@ -13,11 +13,11 @@ Qua ^**simodo** nur halt rückwärts…
 
 ### alternativ mainstream :8ball:
 
-|o :repeat_one: |r :checkered_flag: |f :leftwards_arrow_with_hook: |
-|--- |-- |-- |
-|f ᵐ4 | |[f]ₘ |
-|f ^m→ 4 |f 4ₘ | |
-|fm4 | f ^nu 4 | f ④ |
+| o :repeat_one: | r :checkered_flag: | f :leftwards_arrow_with_hook: |
+| --- | -- | -- |
+| f ᵐ4 | | [f]ₘ |
+| f ^m→ 4 | f 4ₘ | |
+| fm4 | f ^nu 4 | f ④ |
 
 
 ---
@@ -25,12 +25,12 @@ Qua ^**simodo** nur halt rückwärts…
 
 # Glossar :information_source:
 
-:pregnant_woman: [Symbole — Sprachregelung](./pool/0×UTF-8.md)
+:pregnant_woman: [ Symbole — Sprachregelung ](./pool/0×UTF-8.md)
 
 
 ---
-[L ^i NK ∷ README](./README.md)
+[ LⁱNK ∷ README ](./README.md)
 
-[ L ^i NK ∷ drop_in _« Latest incidents_ ](./drop_in.md)
+[ LⁱNK ∷ drop.in _« Latest incidents_ ](./drop_in.md)
 
-**[LiNK ∷ netiqette](./netiqette.md)**
+**[ LiNK ∷ netiqette ](./netiqette.md)**
