@@ -14,7 +14,7 @@
 
 …siehe auch mein Gesprächsaufruf vom 2017-10-23:
 
-[ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung cc ^Print Nachbarn/Stadt/Polizei ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ → Print Aushang ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+[ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ → Anhang ^Print in Papier an Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
 more in spe auf… [ ^LⁱⁿK ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
 
@@ -26,8 +26,8 @@ more in spe auf… [ ^LⁱⁿK ^∷ ^www.rollator-parcours.com ](https://www.rol
 [pol28-mmailAnzPoli2AG]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
 [pol28-mmailRapBetr2LRA]: https://rollparc.com/include/0ffSite/IMG_20171220_162942461_Schwellwert127.png
 [pol28-mmailRapFami2RAin]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
-[pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-20171223-Quotes/
-[pol28-twitterPDFic]: https://rollparc.com/include/0ffSite/Twitter--HamenterUwe-20171223-Quotes-ic.pdf
+[pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-2017-12-23-Quotes/
+[pol28-twitterPDFic]: https://rollparc.com/include/0ffSite/Twitter--HamenterUwe-2017-12-23-Quotes-ic.pdf
 [pol28-mmailaPflegeset2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
 
 [pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
