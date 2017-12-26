@@ -14,7 +14,7 @@
 
 …siehe auch mein Gesprächsaufruf vom 2017-10-23:
 
-[ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+[ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
 more in spe auf… [ ^LⁱⁿK ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
 
