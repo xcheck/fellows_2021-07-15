@@ -6,10 +6,10 @@
 > to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
 > * Post your findings and thoughts ^Te ^das ^cuenta  
 
+Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
+
 [ LⁱⁿK ∷ Du wirst tun, was ich will ^ISBN ^978-3-492-30410-8 ][hypnose]  
 [ LⁱⁿK ∷ Versteckte Botschaften ^ISBN ^978-3-95788-103-8 ][steganographie]  
-
-Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
 
 
 [netupload]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
