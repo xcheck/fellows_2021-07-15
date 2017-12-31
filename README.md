@@ -1,10 +1,11 @@
-# RE ^↲AD↵ ME – Macht die Akten öffentlich ^Unterlagen/Gutachten/Anzeigen/Beschwerden
-
 Q: why a MIT License  
 A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
 
+
+# RE ^↲AD↵ ME – Macht die Akten öffentlich ^Unterlagen/Gutachten/Anzeigen/Beschwerden
+
 > * Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
-> → [ Statistik eh… ][netuplaoad]
+> → [ Statistik eh… ][netupload]
 > * [ Opendata Transparency Request ][pamflete] 
 > to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
 > * Post your findings and thoughts ^Te ^das ^cuenta [ ISBN 978-3-492-30410-8 ][hypnose]  
