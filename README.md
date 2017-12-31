@@ -1,11 +1,3 @@
-[ LⁱⁿK ∷ Du wirst tun, was ich will ^ISBN ^978-3-492-30410-8 ][hypnose]  
-[ LⁱⁿK ∷ Versteckte Botschaften ^ISBN ^978-3-95788-103-8 ][steganographie]  
-
-[hypnose]: https://www.piper.de/buecher/du-wirst-tun-was-ich-will-isbn-978-3-492-30410-8
-[steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
-
-
-
 # RE ^↲AD↵ ME – Macht die Akten öffentlich ^Unterlagen/Gutachten/Anzeigen/Beschwerden
 
 > * Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
@@ -14,12 +6,17 @@
 > to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
 > * Post your findings and thoughts ^Te ^das ^cuenta  
 
+[ LⁱⁿK ∷ Du wirst tun, was ich will ^ISBN ^978-3-492-30410-8 ][hypnose]  
+[ LⁱⁿK ∷ Versteckte Botschaften ^ISBN ^978-3-95788-103-8 ][steganographie]  
+
+Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
+
 
 [netupload]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
 [pamflete]: https://gitlab.com/xcheck/fellows/snippets/1680925
+[hypnose]: https://www.piper.de/buecher/du-wirst-tun-was-ich-will-isbn-978-3-492-30410-8
+[steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
-
-Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
 
 current status‥
 
