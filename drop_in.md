@@ -8,7 +8,7 @@
 [ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
 [ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → RAin Familienrecht ^als ^HTML-Archiv ^per ^2017-12-22 ][pol28-mmailRapFami2RAin]  
 [ LⁱⁿK ∷ Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ^per ^2017-12-23 ][pol28-twitterHTML] [ → Twitter ^als ^PDF-Auszug ][pol28-twitterPDFic]  
-[ LⁱⁿK ∷ Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-Zuverlässig ^als ^HTML-Archiv ^per ^2017-12-24 ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
+[ LⁱⁿK ∷ Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ ^als ^HTML-Archiv ^per ^2017-12-24 ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
 [ LⁱⁿK ∷ Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
 
