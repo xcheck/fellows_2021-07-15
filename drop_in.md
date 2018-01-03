@@ -1,6 +1,6 @@
 # Latest incidents
 
-### Abführung n. Polizeiniederschlag vom 2017-11-28
+### Abführung n. Polizeiniederschlag vom 2017-11-28 _« fordert die Dokumente zur Anzeige_
 
 …online connected seit 2017-12-08 ^Handy erweitert zum 2017-12-22 ^Netbook
 
@@ -16,7 +16,7 @@
 
 [ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
-more in spe auf… [ ^LⁱⁿK ^∷ ^www.rollator-parcours.com ](https://www.rollator-parcours.com/de/)
+`Fordert die Dokumente und Unterlagen zur Polizeianzeige!`
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
