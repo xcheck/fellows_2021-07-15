@@ -18,7 +18,7 @@
 
 `Fordert die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_
 
-_:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a. ^jetzt ^^per ^^2017-12-29 ^mit ^Zwangsmedikation_
+_:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a. ^jetzt ^^seit ^^2017-12-29 ^mit ^Zwangsmedikation ^^trotz ^^Patientenverfügung_
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
