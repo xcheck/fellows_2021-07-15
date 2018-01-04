@@ -18,7 +18,7 @@
 
 `Fordert die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_
 
-_:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a. ^jetzt ^^seit ^^2017-12-29 ^mit ^Zwangsmedikation ^^trotz ^^Notar-Patientenverfügung_
+_:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a. ^jetzt ^^seit ^^2017-12-29 ^mit [ ^Zwangsmedikation ^^trotz ^^Notar-Patientenverfügung ][pol28-notarPatverf]_
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
@@ -33,6 +33,7 @@ _:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Ober�
 [pol28-mmailaPflegeset2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
 
 [pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
+[pol28-notarPatverf]: https://www.mehler-vierling.de/kontakt/
 
 
 ---
