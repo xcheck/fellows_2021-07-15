@@ -16,9 +16,11 @@
 
 [ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
-`Fordert die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_
+`Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
 
-_:arrow_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a. ^jetzt ^^seit ^^2017-12-29 [ ^mit ^Zwangsmedikation ^^trotz ^^Notar-Patientenverfügung ][pol28-notarPatverf]_
+:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a.  
+
+:arrow_lower_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ][pol28-notarPatverf]  
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
