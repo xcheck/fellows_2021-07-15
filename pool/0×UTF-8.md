@@ -9,8 +9,8 @@ https://rollparc.com/Kontakt
 🤰    Embarrassed Prägend Lock-In please continue here…  
 
 
-LⁱⁿK ∷ _« leave profile ↷ outra_ :arrow_up_down:  
-LⁱNK ∷ _« leave this ↷ intra ℆_ :left_right_arrow:  
+LⁱⁿK ∷ _« leave profile ↷ outra_ :left_right_arrow: :arrow_up_down:  
+LⁱNK ∷ _« leave this ↷ intra ℆_ :arrow_right_hook:   
 LiNK ∷ _« stay onna page ↷ anchory ℅_  :leftwards_arrow_with_hook:  
 
 
