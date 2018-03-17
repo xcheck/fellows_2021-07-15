@@ -101,6 +101,7 @@ LiNK ∷ _« stay onna page ↷ anchory ℅_  :leftwards_arrow_with_hook:
 |:telephone: |`:telephone:` |
 |:telephone2: |`:telephone2:` |
 |:fax: |`:fax:` |
+| :printer: | `:printer:` |
 |:footprints: |footprints |
 |:chains: |chains |
 
