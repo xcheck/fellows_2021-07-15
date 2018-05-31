@@ -18,7 +18,7 @@
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
 
-:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Adler ^adiós ^Geldbörse ^u.a.  
+:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a.  
 
 :arrow_lower_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(aka ^notarieller\) ][pol28-notarPatverf]  
 
