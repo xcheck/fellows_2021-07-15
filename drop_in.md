@@ -9,10 +9,6 @@
 
 Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
 
-> Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
-
-Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch.
-
 
 #### …online connected seit 2017-12-08 ^Handy erweitert zum 2017-12-22 ^Netbook
 
@@ -29,6 +25,10 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 [ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
+
+> Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
+
+Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch.
 
 
 ## Verletzung des Selbsbestimmungsrechts – Zwangsmedikation
