@@ -3,12 +3,13 @@
 :arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a.  
 
 
+:call\_me\_hand:
+
 ## Erlogener Polizeibericht n. Polizeiniederschlagung vom 2017-11-28 
 
 > Die POLIZEI erlügt in ihrem Bericht ich hätte, mit einem Stock hinter dem Rücken versteckt, barfuß und in Socken über die Treppen und Asphalt fliehen wollen.
 
 Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
-
 
 #### …online connected seit 2017-12-08 ^Handy erweitert zum 2017-12-22 ^Netbook
 
@@ -30,6 +31,8 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch.
 
+
+:call\_me\_hand\_tone1:
 
 ## Verletzung des Selbsbestimmungsrechts – Zwangsmedikation
 
