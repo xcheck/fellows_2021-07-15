@@ -1,11 +1,11 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a. ^gekalut ^und ^weg
+:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a. ^geklaut ^und ^weg
 
 
 :call\_me\_hand:
 
-### Erlogener Polizeibericht n. Polizeiniederschlagung vom 2017-11-28 
+### Erlogener Polizeibericht _« Polizeiniederschlagung vom 2017-11-28_
 
 > Die POLIZEI erlügt in ihrem Bericht ich hätte, mit einem Stock hinter dem Rücken versteckt, barfuß und in Socken über die Treppen und Asphalt fliehen wollen.
 
@@ -21,20 +21,30 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 [ LⁱⁿK ∷ Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
 
-##### …siehe auch mein Gesprächsaufruf vom 2017-10-23:
+##### …siehe auch mein Gesprächsaufruf vom 2017-10-23
 
 [ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+
+
+:call\_me\_hand\_tone1:
+
+### Erdichteter Entlassungsbrief _« kbo-Falschdarstellung_
 
 > Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
 
 Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch.
 
 
-:call\_me\_hand\_tone1:
+:call\_me\_hand\_tone2:
 
-### Verletzung des Selbsbestimmungsrechts – Zwangsmedikation
+### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
 :arrow_lower_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(aka ^notarieller\) ][pol28-notarPatverf]  
+
+
+:call\_me\_hand\_tone3:
+
+### Mein Aufruf
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
 
