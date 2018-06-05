@@ -4,7 +4,6 @@
 
 
 :call\_me\_hand:
-
 ### Erlogener Polizeibericht _« Polizeiniederschlagung vom 2017-11-28_
 
 > Die POLIZEI erlügt in ihrem Bericht ich hätte, mit einem Stock hinter dem Rücken versteckt, barfuß und in Socken über die Treppen und Asphalt fliehen wollen.
@@ -27,7 +26,6 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 
 :call\_me\_hand\_tone1:
-
 ### Erdichteter Entlassungsbrief _« kbo-Falschdarstellung_
 
 > Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
@@ -36,15 +34,13 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 
 :call\_me\_hand\_tone2:
-
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
 :arrow_lower_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(aka ^notarieller\) ][pol28-notarPatverf]  
 
 
-:call\_me\_hand\_tone3:
-
-### Mein Aufruf
+:chains:
+## To Do List _« Mein Aufruf_
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
 
