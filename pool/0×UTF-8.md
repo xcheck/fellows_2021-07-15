@@ -10,7 +10,7 @@ https://rollparc.com/Kontakt
 
 
 LⁱⁿK ∷ _« leave profile ↷ outra_ :arrow\_up\_down: :left\_right\_arrow: :arrow\_up\_small:  
-LⁱNK ∷ _« leave this ↷ intra ℆_ :arrow\_light\_look:   
+LⁱNK ∷ _« leave this ↷ intra ℆_ :arrow\_right\_look:   
 LiNK ∷ _« stay onna page ↷ anchory ℅_  :leftwards\_arrow\_with\_hook:  
 
 
