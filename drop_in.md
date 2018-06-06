@@ -1,6 +1,6 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a. ^geklaut ^und ^weg
+:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a. ^geklaut ^und ^weg
 
 
 :call\_me\_hand:
@@ -36,7 +36,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 :call\_me\_hand\_tone2:
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow_lower_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(aka ^notarieller\) ][pol28-notarPatverf]  
+:arrow\_lower\_right: jetzt ^seit ^2017-12-29 [ mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(aka ^notarieller\) ][pol28-notarPatverf]  
 
 
 :chains:
