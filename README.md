@@ -13,7 +13,7 @@ Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
 
 
 [netupload]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
-[pamflete]: https://gitlab.com/xcheck/fellows/snippets/1680925
+[pamflete]: https://gitlab.com/xcheck/fellows/wikis/«-email-2-board-broad-with-annotidion-annotation-↲-↵
 [hypnose]: https://www.piper.de/buecher/du-wirst-tun-was-ich-will-isbn-978-3-492-30410-8
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
