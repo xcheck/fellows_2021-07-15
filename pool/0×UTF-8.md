@@ -9,9 +9,9 @@ https://rollparc.com/Kontakt
 🤰    Embarrassed Prägend Lock-In please continue here…  
 
 
-LⁱⁿK ∷ _« leave profile ↷ outra_ :left_right_arrow: :arrow_up_down:  
-LⁱNK ∷ _« leave this ↷ intra ℆_ :arrow_right_hook:   
-LiNK ∷ _« stay onna page ↷ anchory ℅_  :leftwards_arrow_with_hook:  
+LⁱⁿK ∷ _« leave profile ↷ outra_ :arrow\_up\_down: :left\_right\_arrow: :arrow\_up\_small:  
+LⁱNK ∷ _« leave this ↷ intra ℆_ :arrow\_light\_look:   
+LiNK ∷ _« stay onna page ↷ anchory ℅_  :leftwards\_arrow\_with\_hook:  
 
 
 ¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
