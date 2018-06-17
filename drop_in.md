@@ -36,7 +36,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 :call\_me\_hand\_tone2:
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow\_lower\_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(also ^notarieller\)  
+:arrow\_lower\_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(gemeint ^notarieller\)  
 
 
 :chains:
