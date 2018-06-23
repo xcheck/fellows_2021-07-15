@@ -1,6 +1,6 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^u.a. ^geklaut ^und ^weg
+:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg
 
 
 :call\_me\_hand:
@@ -10,7 +10,7 @@
 
 Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
 
-##### …online connected seit 2017-12-08 ^Handy erweitert zum 2017-12-22 ^Netbook
+##### …aus der Geschlossenen online connected seit 2017-12-08 ^Handy plus erweitert ab 2017-12-22 ^Netbook
 
 [ LⁱⁿK ∷ Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ^per ^2017-12-17 ][pol28-mmailAnzPoli2AG]  
 [ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
@@ -20,7 +20,7 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 [ LⁱⁿK ∷ Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
 
-##### …siehe auch mein Gesprächsaufruf vom 2017-10-23
+##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
 [ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
@@ -42,7 +42,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 :chains:
 ## To Do List _« Mein Aufruf_
 
-`Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Was.Wie.Wo.Warum_  
+`Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
