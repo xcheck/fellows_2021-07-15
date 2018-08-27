@@ -1,6 +1,6 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^Verbleib ^der ^Dokumente
+:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^den ^Verbleib ^der ^Dokumente
 
 
 :call\_me\_hand:
