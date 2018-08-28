@@ -2,7 +2,7 @@
 
 :arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^den ^Verbleib ^der ^Dokumente.
 
-NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen.
+NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Einen fünften Termin nicht vereinbart.
 
 
 :call\_me\_hand:
