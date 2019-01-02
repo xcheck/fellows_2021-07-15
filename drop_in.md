@@ -68,6 +68,6 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 ---
 [ :arrow_right_hook: README ](./README.md)
 
-**[ :leftwards_arrow_with_hook: drop.in _« Latest incidents_ ](./drop_in.md)**
+**[ :leftwards_arrow_with_hook: drop.in ](./drop_in.md) _« Latest incidents_**
 
 [ :arrow_right_hook: netiqette ](./netiqette.md)
