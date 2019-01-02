@@ -9,12 +9,12 @@ https://rollparc.com/Kontakt
 🤰    Embarrassed Prägend Lock-In please continue here…  
 
 
-:arrow\_up\_down: :left\_right\_arrow: :arrow\_up\_small: LⁱⁿK ∷ _« leave profile ↷ outra_  
-:arrow\_right\_hook: LⁱNK ∷ _« leave this ↷ intra ℆_  
-:leftwards\_arrow\_with\_hook: LiNK ∷ _« stay onna page ↷ anchory ℅_   
-\:arrow\_up\_down\: \:left\_right\_arrow\: \:arrow\_up\_small\:  
-\:arrow\_right\_hook\:  
-\:leftwards\_arrow\_with\_hook\:
+:arrow_up_down: :left_right_arrow: :arrow_up_small: LⁱⁿK ∷ _« leave profile ↷ outra_  
+:arrow_right_hook: LⁱNK ∷ _« leave this ↷ intra ℆_  
+:leftwards_arrow_with_hook: LiNK ∷ _« stay onna page ↷ anchory ℅_   
+:arrow\_up\_down: :left\_right\_arrow: \:arrow\\\_up\\\_small\:  
+\:arrow\\\_right\\\_hook\:  
+\:leftwards\\\_arrow\\\_with\\\_hook\:
 
 ¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
 
