@@ -35,6 +35,6 @@ Qua ^**simodo** nur halt rückwärts…
 ---
 [ :arrow_right_hook: README ](./README.md)
 
-[ :arrow_right_hook: drop.in _« Latest incidents_ ](./drop_in.md)
+[ :arrow_right_hook: drop.in ](./drop_in.md) _« Latest incidents_
 
 **[ :leftwards_arrow_with_hook: netiqette ](./netiqette.md)**
