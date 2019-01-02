@@ -24,10 +24,10 @@ Qua ^**simodo** nur halt rückwärts…
 | fm4 | f ^nu 4 | f ④ |
 
 
----
-:chains:
+…  
+:keyboard:
 
-# Glossar :information_source:
+### Glossar :information_source:
 
 :pregnant_woman: [ Symbole — Sprachregelung ](./pool/0×UTF-8.md)
 
