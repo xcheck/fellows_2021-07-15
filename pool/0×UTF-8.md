@@ -10,9 +10,11 @@ https://rollparc.com/Kontakt
 
 
 :arrow\_up\_down: :left\_right\_arrow: :arrow\_up\_small: LⁱⁿK ∷ _« leave profile ↷ outra_  
-:arrow\_right\_hook:  LⁱNK ∷ _« leave this ↷ intra ℆_  
+:arrow\_right\_hook: LⁱNK ∷ _« leave this ↷ intra ℆_  
 :leftwards\_arrow\_with\_hook: LiNK ∷ _« stay onna page ↷ anchory ℅_   
-
+\:arrow\_up\_down\: \:left\_right\_arrow\: \:arrow\\\_up\\\_small\:  
+\:arrow\\\_right\\\_hook\:  
+\:leftwards\\\_arrow\\\_with\\\_hook\:
 
 ¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
 
