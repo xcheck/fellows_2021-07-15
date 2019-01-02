@@ -1,11 +1,12 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow\_lower\_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^den ^Verbleib ^der ^Dokumente.
+:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^den ^Verbleib ^der ^Dokumente.
 
 NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
 
-:call\_me\_hand:
+:call_me_hand:
+
 ### Erlogener Polizeibericht _« Polizeiniederschlagung vom 2017-11-28_
 
 > Die POLIZEI erlügt in ihrem Bericht ich hätte einen Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen.
@@ -14,20 +15,21 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 ^Handy plus erweitert ab 2017-12-22 ^Netbook
 
-[ LⁱⁿK ∷ Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ^per ^2017-12-17 ][pol28-mmailAnzPoli2AG]  
-[ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
-[ LⁱⁿK ∷ Polizeiniederschlag ff. cold rapport → RAin Familienrecht ^als ^HTML-Archiv ^per ^2017-12-22 ][pol28-mmailRapFami2RAin]  
-[ LⁱⁿK ∷ Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ^per ^2017-12-23 ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
-[ LⁱⁿK ∷ Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ ^als ^HTML-Archiv ^per ^2017-12-24 ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
+[ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ^per ^2017-12-17 ][pol28-mmailAnzPoli2AG]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → RAin Familienrecht ^als ^HTML-Archiv ^per ^2017-12-22 ][pol28-mmailRapFami2RAin]  
+[ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ^per ^2017-12-23 ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
+[ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ ^als ^HTML-Archiv ^per ^2017-12-24 ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
-[ LⁱⁿK ∷ Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
+[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
-[ LⁱⁿK ∷ Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ :arrow_up_small: cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
 
-:call\_me\_hand\_tone1:
+:call_me_hand_tone1:
+
 ### Erdichteter Entlassungsbrief _« kbo-Falschdarstellung_
 
 > Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
@@ -35,13 +37,15 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch und nicht mal im Polizeibericht zu finden.
 
 
-:call\_me\_hand\_tone2:
+:call_me_hand_tone2:
+
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow\_lower\_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(gemeint ^notarieller\)  
+:arrow_lower_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(gemeint ^notarieller\)  
 
 
 :chains:
+
 ## To Do List _« Mein Aufruf_
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
@@ -62,8 +66,8 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 
 ---
-[ LⁱNK ∷ README ](./README.md)
+[ :arrow_right_hook: README ](./README.md)
 
-**[ LiNK ∷ drop.in _« Latest incidents_ ](./droppin.md)**
+**[ :leftwards_arrow_with_hook: drop.in _« Latest incidents_ ](./droppin.md)**
 
-[ LⁱNK ∷ netiqette ](./netiqette.md)
+[ :arrow_right_hook: netiqette ](./netiqette.md)
