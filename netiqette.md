@@ -12,8 +12,8 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
 
 Qua ^**simodo** nur halt rückwärts…
 
-:keyboard:
 
+:keyboard:
 
 ### alternativ mainstream :8ball:
 
@@ -25,7 +25,7 @@ Qua ^**simodo** nur halt rückwärts…
 
 
 ---
-> :chains:
+:chains:
 
 # Glossar :information_source:
 
@@ -33,8 +33,8 @@ Qua ^**simodo** nur halt rückwärts…
 
 
 ---
-[ LⁱNK ∷ README ](./README.md)
+[ :arrow_right_hook: README ](./README.md)
 
-[ LⁱNK ∷ drop.in _« Latest incidents_ ](./drop_in.md)
+[ :arrow_right_hook: drop.in _« Latest incidents_ ](./drop_in.md)
 
-**[ LiNK ∷ netiqette ](./netiqette.md)**
+**[ :leftwards_arrow_with_hook: netiqette ](./netiqette.md)**
