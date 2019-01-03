@@ -13,8 +13,6 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
 Qua ^**simodo** nur halt rückwärts…
 
 
-:keyboard:
-
 ### alternativ mainstream :8ball:
 
 | o :repeat_one: | r :checkered_flag: | f :leftwards_arrow_with_hook: |
@@ -23,9 +21,6 @@ Qua ^**simodo** nur halt rückwärts…
 | f ^m→ 4 | f 4ₘ | |
 | fm4 | f ^nu 4 | f ④ |
 
-
-…  
-:keyboard:
 
 ### Glossar :information_source:
 
