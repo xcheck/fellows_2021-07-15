@@ -44,9 +44,9 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 :arrow_lower_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(gemeint ^notarieller\)  
 
 
-:chains:
+:call_me_hand_tone3:
 
-## To Do List _« Mein Aufruf_
+### To Do List _« Mein Aufruf_
 
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
 
