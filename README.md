@@ -6,7 +6,7 @@
 > to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
 > * Post your findings and thoughts ^Te ^das ^cuenta  
 
-Volksweiheit: „In der Regel besteht der Ausnahmezustand.”
+Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
 [ :arrow_up_small: Du wirst tun, was ich will ^ISBN ^978-3-492-30410-8 ][hypnose]  
 [ :arrow_up_small: Versteckte Botschaften ^ISBN ^978-3-95788-103-8 ][steganographie]  
