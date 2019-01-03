@@ -4,11 +4,6 @@
 https://rollparc.com/Kontakt  
 
 
-☏	Schauen‥ ñ ˽  
-⚽	Sport  
-🤰    Embarrassed Prägend Lock-In please continue here…  
-
-
 :eject:  
 :arrow_up_small: :link: LⁱⁿK ∷ _« leave profile ↷ outra (regular link)_  
 :arrow_right_hook: :left_right_arrow: LⁱNK ∷ _« leave this ↷ intra ℆_  
@@ -23,7 +18,12 @@ https://rollparc.com/Kontakt
 ¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
 
 [∵]( ink:mouse over ) _« needle on the record_ ^\[∵\]( ^ink:mouse ^over ^) _high^-lighter_  
-∴ _« …resolves!_  
+∴ _« …resolves!_
+
+
+☏	Schauen‥ ñ ˽  
+⚽	Sport  
+🤰    Embarrassed Prägend Idee Lock-In please continue here…
 
 
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
