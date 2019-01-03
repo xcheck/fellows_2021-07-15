@@ -22,9 +22,8 @@ https://rollparc.com/Kontakt
 
 
 ☏	Schauen‥ ñ ˽  
-⚽	Sport  
-🤰    Embarrassed Prägend Idee Lock-In please continue here…
-
+:soccer: Sport  
+:pregnant_woman: Embarrassed Prägend Idee Lock-In please continue here…
 
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
