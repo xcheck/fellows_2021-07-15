@@ -24,7 +24,7 @@ Qua ^**simodo** nur halt rückwärts…
 
 ### Glossar :information_source:
 
-:pregnant_woman: [ Symbole — Sprachregelung ](./pool/0×UTF-8.md)
+:arrow_right_hook: [ Symbole \(:pregnant_woman:\) — Zeichengebung ](./pool/0×UTF-8.md)
 
 
 ---
