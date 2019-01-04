@@ -21,7 +21,7 @@ https://rollparc.com/Kontakt
 ∴ _« …resolves!_
 
 
-☏	Schauen‥ ñ ˽  
+☏ ☎	Schauen‥ ñ ˽  
 :soccer: :football: :rugby_football: Sports Kick-Off Start Spacer  
 :dancer:  
 :chains: :keyboard: divider regular header footer  
