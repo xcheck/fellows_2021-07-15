@@ -24,8 +24,8 @@ https://rollparc.com/Kontakt
 ☏	Schauen‥ ñ ˽  
 :soccer: :football: :rugby_football: Sports Kick-Off Start Spacer  
 :dancer:  
-:keyboard: :chains: divider regular header footer  
-:pregnant_woman: Embarrassed Prägend Idee Lock-In please continue here…
+:chains: :keyboard: divider regular header footer  
+:pregnant_woman: :golfer: Embarrassed Prägend Idee Lock-In please continue here…
 
 ↹ ⛳⛟⛴✈👣🚗🚙🛣🛤
 
