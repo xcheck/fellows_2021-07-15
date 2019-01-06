@@ -2,8 +2,9 @@ Q: why a MIT License
 A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
 
 
-# …Netiqette
+<br>
 
+# …Netiqette
 ### ∵ (‥) ∴ ☛ a44 ≛ 44-1 ≛ ₄₃Tc ≛ Te.g. ≛ get :popcorn:
 
 * `do✓` add; dad; dod
