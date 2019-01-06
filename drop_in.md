@@ -1,6 +1,9 @@
-# Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
-
 :arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler <sup>adiós Geldbörse geklaut und weg – und kein Nachweis über den Verbleib der Dokumente.</sup>
+
+
+<br>
+
+# Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
 NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
