@@ -1,10 +1,15 @@
-# RE <sup>↲AD↵</sup> ME – Macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
+Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
+→ [ :arrow_up_small: Statistik eh… ][netupload]
 
-* Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
-  → [ :arrow_up_small: Statistik eh… ][netupload]
-* [ :arrow_right_hook: Opendata Transparency Request ][pamflete]  
-  to whomwhoever hereby i grant the permission to access my <sup>in other terms our</sup> data from your <sup>in other terms our</sup> government
-* Post your findings and thoughts <sup>Te das cuenta</sup>
+[ :arrow_right_hook: Opendata Transparency Request ][pamflete]  
+to whomwhoever hereby i grant the permission to access my <sup>in other terms our</sup> data from your <sup>in other terms our</sup> government
+
+Post your findings and thoughts <sup>Te das cuenta</sup>
+
+
+<br>
+
+# RE <sup>↲AD↵</sup> ME – Macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
 
 Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
