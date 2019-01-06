@@ -1,15 +1,15 @@
-# RE ^↲AD↵ ME – Macht die Akten öffentlich ^Unterlagen/Gutachten/Anzeigen/Beschwerden
+# RE <sup>↲AD↵</sup> ME – Macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
 
-> * Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
-> → [ :arrow_up_small: Statistik eh… ][netupload]
-> * [ :arrow_right_hook: Opendata Transparency Request ][pamflete] 
-> to whomwhoever hereby i grant the permission to access my ^in ^other ^terms ^our data from your ^in ^other ^terms ^our government
-> * Post your findings and thoughts ^Te ^das ^cuenta  
+* Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
+  → [ :arrow_up_small: Statistik eh… ][netupload]
+* [ :arrow_right_hook: Opendata Transparency Request ][pamflete]  
+  to whomwhoever hereby i grant the permission to access my <sup>in other terms our</sup> data from your <sup>in other terms our</sup> government
+* Post your findings and thoughts <sup>Te das cuenta</sup>
 
 Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
-[ :arrow_up_small: Du wirst tun, was ich will ^ISBN ^978-3-492-30410-8 ][hypnose]  
-[ :arrow_up_small: Versteckte Botschaften ^ISBN ^978-3-95788-103-8 ][steganographie]  
+[ :arrow_up_small: Du wirst tun, was ich will <sup>ISBN 978-3-492-30410-8</sup> ][hypnose]  
+[ :arrow_up_small: Versteckte Botschaften <sup>ISBN 978-3-95788-103-8</sup> ][steganographie]  
 
 
 [netupload]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
@@ -32,7 +32,7 @@ current status‥
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim ^2016-02-15 ^Chromik ]($1680829) _« mit ref ^t-o-e_
+[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829) _« mit ref <sup>t-o-e</sup>_
 
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
