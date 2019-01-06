@@ -1,6 +1,6 @@
 # Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
-:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler ^adiós ^Geldbörse ^geklaut ^und ^weg ^– ^und ^kein ^Nachweis ^über ^den ^Verbleib ^der ^Dokumente.
+:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler <sup>adiós Geldbörse geklaut und weg – und kein Nachweis über den Verbleib der Dokumente.</sup>
 
 NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
@@ -13,19 +13,19 @@ NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenhe
 
 Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
 
-##### …aus der Geschlossenen online connected seit 2017-12-08 ^Handy plus erweitert ab 2017-12-22 ^Netbook
+##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
 
-[ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS ^als ^HTML-Archiv ^per ^2017-12-17 ][pol28-mmailAnzPoli2AG]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → LRA TS Betreuung ^als ^PNG-Foto ^von ^Niederschrift ^per ^2017-12-20 ][pol28-mmailRapBetr2LRA]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → RAin Familienrecht ^als ^HTML-Archiv ^per ^2017-12-22 ][pol28-mmailRapFami2RAin]  
-[ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter ^als ^HTML-Archiv ^per ^2017-12-23 ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
-[ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ ^als ^HTML-Archiv ^per ^2017-12-24 ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
+[ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → LRA TS Betreuung <sup>als PNG-Foto von Niederschrift per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → RAin Familienrecht <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
+[ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
+[ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
-[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte ^als ^HTML-Archiv ^per ^2017-12-25 ][pol28-mmailRundmailAufruf2Kontakte]  
+[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]  
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
-[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte ^als ^HTML-Archiv ^per ^2017-10-23 ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] [ :arrow_up_small: cc Anhang in Papier → Nachbarn/Stadt/Polizei ^als ^PDF ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] plus [ :arrow_up_small: Anhang in Papier → Nachbarn/Stadt/Polizei <sup>als PDF</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
 
 
 :call_me_hand_tone1:
@@ -41,7 +41,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow_lower_right: jetzt ^seit ^2017-12-29 mit Zwangsmedikation ^trotz ^Notar-Patientenverfügung ^\(gemeint ^notarieller\)  
+:arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Notar-Patientenverfügung \(gemeint notarieller\)</sup>
 
 
 :call_me_hand_tone3:
