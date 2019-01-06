@@ -8,9 +8,9 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
 
 * `do✓` add; dad; dod
 * `mo✓` dom; mod
-* `✓is` vanilla; v il/ ^an \ₗₐ; vis
+* `✓is` vanilla; v il/ <sup>an</sup> \ₗₐ; vis
 
-Qua ^**simodo** nur halt rückwärts…
+Qua<sup>**simodo**</sup> nur halt rückwärts…
 
 
 ### alternativ mainstream :8ball:
@@ -18,8 +18,8 @@ Qua ^**simodo** nur halt rückwärts…
 | o :repeat_one: | r :checkered_flag: | f :leftwards_arrow_with_hook: |
 | --- | -- | -- |
 | f ᵐ4 | | [f]ₘ |
-| f ^m→ 4 | f 4ₘ | |
-| fm4 | f ^nu 4 | f ④ |
+| f <sup>m→</sup> 4 | f 4ₘ | |
+| fm4 | f <sup>nu</sup> 4 | f ④ |
 
 
 ### Glossar :information_source:
