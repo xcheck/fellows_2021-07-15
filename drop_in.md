@@ -61,7 +61,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 [pol28-mmailAnzPoli2AG]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
 [pol28-mmailRapBetr2LRA]: https://rollparc.com/include/0ffSite/IMG_20171220_162942461_Schwellwert127.png
 [pol28-mmailRapFami2RAin]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
-[pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-2017-12-23-Quotes/
+[pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-20171223-Quotes/
 [pol28-mmailaPflegeset2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
 
 [pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
