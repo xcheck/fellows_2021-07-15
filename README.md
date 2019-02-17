@@ -42,6 +42,6 @@ current status‥
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
 
-[ :arrow_right_hook: drop.in ](./drop_in.md) _« Latest incidents_
+[ :arrow_right_hook: drop.in ](./drop_in.md) _« Incident in 2017_
 
 [ :arrow_right_hook: netiqette ](./netiqette.md)
