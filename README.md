@@ -1,4 +1,4 @@
-Leserlaubnis f. Staat Geheimdienste j. A. inkl.  
+Leserlaubnis f. Staat Geheimdienste jeder Art inkl.  
 → [ :arrow_up_small: Statistik eh… ][netupload]
 
 [ :arrow_right_hook: Opendata Transparency Request ][pamflete]  
@@ -9,7 +9,7 @@ Post your findings and thoughts <sup>Te das cuenta</sup>
 
 <br>
 
-# RE <sup>↲AD↵</sup> ME – Macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
+# RE <sup>↲AD↵</sup> ME – macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
 
 Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
@@ -32,7 +32,7 @@ current status‥
 | ☐ | anonym /link ex\ :bouquet: | _levelling_ | [ :arrow_up_small: Di-Stammtisch ](https://www.facebook.com/groups/DiStammtisch/) |
 
 
-### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakt
+### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakte
 
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
