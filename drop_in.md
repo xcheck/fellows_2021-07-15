@@ -3,7 +3,7 @@
 
 <br>
 
-# Latest incidents _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
+# Incident in 2017 _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
 
 NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
