@@ -54,6 +54,13 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 `Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
 
 
+<br>
+
+# Updates
+
+**2019-03-12** Rechtsanwälte Manuel Tschofen II & **Julian Praun** lehnen ab trotz eindeutigem Sachverhalts _« Mietrechtsverfahren Hametner ./. Inninge-Seibt_
+
+
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/Fahrerlaubnis_2017-10-23_fo_°E-Mail_¬FeV-PamfleteAushang-GitlabFellows.pdf
 
