@@ -56,7 +56,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 <br>
 
-# Updates
+# Letzte Neuigkeiten
 
 **2019-03-12** Rechtsanwälte Manuel Tschofen II & **Julian Praun** lehnen ab trotz eindeutigem Sachverhalts _« Mietrechtsverfahren Hametner ./. Inninge-Seibt_
 
