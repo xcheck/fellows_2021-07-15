@@ -28,7 +28,7 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
-[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] plus [ :arrow_up_small: Anhang in Papier → Nachbarn/Stadt/Polizei <sup>als PDF</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]  
+[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] plus [ :arrow_up_small: Anhang in Papier → Nachbarn/Stadt/Polizei <sup>als PDF</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang] _« nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt_  
 
 
 :call_me_hand_tone1:
