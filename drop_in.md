@@ -58,7 +58,8 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 # Letzte Neuigkeiten
 
-**2019-03-12** Kanzlei Tschofen II (RA Julian Praun) lehnt ab trotz eindeutigem Sachverhalts _« Rechtsverfahren Hametner ./. Inninger-Seibt_
+**2019-03-12** [ Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-12</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Apple/) _« Rechtsverfahren Hametner ./. Inninger-Seibt_  
+**2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. trotz eindeutigem Sachverhalts _« Rechtsverfahren Hametner ./. Inninger-Seibt_
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
