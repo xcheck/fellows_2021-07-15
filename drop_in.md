@@ -44,7 +44,8 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Notar-Patientenverfügung \(gemeint notarieller\)</sup>
+:arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Notar-Patientenverfügung \(gemeint notarieller\)</sup>  
+[ :arrow_up_small: Missachtung der Patientenverfügung <!-- explizit --> → Notare, Amtsgericht, ISK-Wasserburg, Cc <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
 
 
 :call_me_hand_tone3:
@@ -58,8 +59,8 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 
 # Letzte Neuigkeiten
 
-**2019-03-12** [ Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-12</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Apple/) _« Rechtsverfahren Hametner ./. Inninger-Seibt_  
-**2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. trotz eindeutigem Sachverhalts _« Rechtsverfahren Hametner ./. Inninger-Seibt_
+**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-12</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Apple/) _« Rechtsverfahren Hametner ./. Inninger-Seibt_  
+**2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren Hametner ./. Inninger-Seibt_
 
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
