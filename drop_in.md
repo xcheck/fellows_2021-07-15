@@ -68,6 +68,8 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 [drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
 [drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
 
+…in der Geschlossenen offline seit Anfang Januar 2018 da Handy und Netbook vom Personal konfisziert.
+
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/Fahrerlaubnis_2017-10-23_fo_°E-Mail_¬FeV-PamfleteAushang-GitlabFellows.pdf
