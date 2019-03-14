@@ -62,6 +62,12 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 **2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Apple/) _« Rechtsverfahren Hametner ./. Inninger-Seibt in spe_  
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren Hametner ./. Inninger-Seibt in spe_
 
+**2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht <sup>als PDF</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_  
+**2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF</sup> ][drop_farceproto] _« FAX-Eingang (Zeitstempel) an ISK-Wasserburg von Betreuer Dennis Holl_
+
+[drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
+[drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
+
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/Fahrerlaubnis_2017-10-23_fo_°E-Mail_¬FeV-PamfleteAushang-GitlabFellows.pdf
