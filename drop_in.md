@@ -18,11 +18,11 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
 
-[ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht, Cc Florian Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
-[ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
-[ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
+[ :arrow_up_small: Polizeiniederschlag, Polizeidiebstahl zur Anzeige → Amtsgericht TS, ~~Polizei-Wasserburg,~~ ISK-Wasserburg, Cc Hias Florian Karin <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
+[ :arrow_up_small: Polizeiniederschlag… cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht TS, Cc Florian Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
+[ :arrow_up_small: Polizeiniederschlag… cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht TS, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
+[ :arrow_up_small: Polizeiniederschlag… in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
+[ :arrow_up_small: Polizeiniederschlag… ¬Pflegeset → ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
 [ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]  
 
@@ -45,7 +45,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
 :arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Notar-Patientenverfügung \(gemeint notarieller\)</sup>  
-[ :arrow_up_small: Missachtung der Patientenverfügung explizit → Notare, Amtsgericht, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
+[ :arrow_up_small: Missachtung der Patientenverfügung explizit → Notare, Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
 
 
 :call_me_hand_tone3:
@@ -62,7 +62,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 **2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Apple/) _« Rechtsverfahren Hametner ./. Inninger-Seibt in spe_  
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren Hametner ./. Inninger-Seibt in spe_
 
-**2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_  
+**2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_  
 **2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Dennis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_
 
 [drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
