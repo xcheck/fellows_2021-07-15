@@ -12,7 +12,7 @@ NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenhe
 
 ### Erlogener Polizeibericht _« Polizeiniederschlagung, Polizeidiebstahl vom 2017-11-28_
 
-> Die POLIZEI erlügt in ihrem Bericht ich hätte einen Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen. Weiters fehlt ein Nachweis über den Verbleib meiner Dokumente.
+> Die POLIZEI erlügt in ihrem Bericht ich hätte einen Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen. Weiters fehlt ein Nachweis über den Verbleib meiner Dokumente. Adios Geldbörse.
 
 Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
 
