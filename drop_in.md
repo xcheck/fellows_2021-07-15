@@ -19,8 +19,8 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
 
 [ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → LRA TS Betreuung <sup>als PNG-Foto von Niederschrift per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport → RAin Familienrecht <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Hr. Wegfahrt → dito LRA TS Betreuung <sup>als PNG-Foto von Gesprächsnotiz per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Fr. Ehrlicher → dito RAin Familienrecht <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
 [ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
 [ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
@@ -77,6 +77,7 @@ Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenk
 [pol28-mmailMelGeld2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171214-MeldungGeldboerse2InnSalzachKlinik/
 [pol28-mmailAnzPoli2AG]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
 [pol28-mmailRapBetr2LRA]: https://rollparc.com/include/0ffSite/IMG_20171220_162942461_Schwellwert127.png
+[pol28-mmailRapBetr2LRAScan]: https://rollparc.com/include/0ffSite/Protokoll--ColdRapportLRABetreuung-Wegfahrt-20171220Scan.pdf
 [pol28-mmailRapFami2RAin]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
 [pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-20171223-Quotes/
 [pol28-mmailaPflegeset2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
