@@ -28,8 +28,8 @@ current status‥
 | ₁₁basis | subscription | project | rel |
 | --- | -- | -- | --|
 | ☐ | invitee (private) :file_folder: | theme-of-elements | [ :arrow_right_hook: ∷ ](https://gitlab.com/xcheck/theme-of-elements/wikis/home) |
-| ☒ | pseudonym [kudos] :footprints: | fellows | [ :arrow_right_hook: xcheck/fellows/wikis ](https://gitlab.com/xcheck/fellows/wikis/home) |
-| ☐ | anonym /link ex\ :bouquet: | _levelling_ | [ :arrow_up_small: Di-Stammtisch ](https://www.facebook.com/groups/DiStammtisch/) |
+| ☒ | pseudonym [kudos] :footprints: | fellows | [ :arrow_right_hook: gitlab.com/xcheck/fellows/wikis/home ](https://gitlab.com/xcheck/fellows/wikis/home) |
+| ☐ | anonym /link ex\ :bouquet: | _levelling_ | [ :arrow_up_small: fb.com/groups/DiStammtisch ](https://www.facebook.com/groups/DiStammtisch/) |
 
 
 ### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakte
