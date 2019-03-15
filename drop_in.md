@@ -19,7 +19,7 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
 
 [ :arrow_up_small: Polizeiniederschlag zur Anzeige → Amtsgesicht TS <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
-[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht, Cc Florina Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
+[ :arrow_up_small: Polizeiniederschlag ff. cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht, Cc Florian Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
 [ :arrow_up_small: Polizeiniederschlag ff. cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
 [ :arrow_up_small: Polizeiniederschlag ff. in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
 [ :arrow_up_small: Polizeiniederschlag ff. ¬Pflegeset → Zentralstelle kbo-~~Zuverlässig~~ <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
