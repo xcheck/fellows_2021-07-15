@@ -21,7 +21,7 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 [ :arrow_up_small: Polizeiniederschlag, Polizeidiebstahl zur Anzeige → Amtsgericht TS, ~~Polizei-Wasserburg,~~ ISK-Wasserburg, Cc Hias Florian Karin <sup>als HTML-Archiv per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
 [ :arrow_up_small: Polizeiniederschlag… cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht TS, Cc Florian Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
 [ :arrow_up_small: Polizeiniederschlag… cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht TS, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
-[ :arrow_up_small: Polizeiniederschlag… in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-23</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
+[ :arrow_up_small: Polizeiniederschlag… in der Geschlossenen → Twitter <sup>als HTML-Archiv per 2017-12-09 bis 2017-12-23 inkl.</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
 [ :arrow_up_small: Polizeiniederschlag… ¬Pflegeset → ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
 [ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]  
