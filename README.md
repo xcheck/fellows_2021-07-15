@@ -1,5 +1,5 @@
 Leserlaubnis f. Staat Geheimdienste jeder Art inkl.  
-→ [ :arrow_up_small: Statistik eh… ][netupload]
+→ [ :arrow_up_small: Statistik eh… <sup>als CSV</sup>][netupload]
 
 [ :arrow_right_hook: Opendata Transparency Request ][pamflete]  
 to whomwhoever hereby i grant the permission to access my <sup>in other terms our</sup> data from your <sup>in other terms our</sup> government
