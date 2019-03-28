@@ -37,7 +37,7 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 > Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
 
-Eine Verneinung und Richtigstellung wrude erstellt… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch und nicht mal im Polizeibericht zu finden.
+Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch und nicht mal im Polizeibericht zu finden.
 
 
 :call_me_hand_tone2:
