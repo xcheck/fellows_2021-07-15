@@ -33,18 +33,18 @@ Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis 
 
 :call_me_hand_tone1:
 
-### Erdichteter Entlassungsbrief _« kbo-Falschdarstellung_
+### Erdichteter Entlassungsbrief _« Falschdarstellung ISK-Wasserburg_
 
 > Die Nervenklink GABERSEE erdichtet im Entlassungsbrief ich wäre mit dem Stock auf die Polizei losgegangen.
 
-Eine Verneinung und Richtigstellung ist in Arbeit… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch und nicht mal im Polizeibericht zu finden.
+Eine Verneinung und Richtigstellung wrude erstellt… die Lügen haben ein Eigenkreislauf entwickelt. Obige Darstellung ist komplett falsch und nicht mal im Polizeibericht zu finden.
 
 
 :call_me_hand_tone2:
 
 ### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
 
-:arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Notar-Patientenverfügung \(gemeint notarieller\)</sup>  
+:arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Patientenverfügung vom Notar</sup>  
 [ :arrow_up_small: Notruf wegen Missachtung der Patientenverfügung! → Notar, Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
 
 
