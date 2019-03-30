@@ -59,7 +59,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 # Letzte Neuigkeiten
 
-**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190312-RechtswegInninger2Appel/) _« Rechtsverfahren gegen Vermieterin Inninger-Seibt in spe_  
+**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv … 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« Rechtsverfahren gegen Vermieterin Inninger-Seibt in spe_  
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren gegen Vermieterin Inninger-Seibt in spe_
 
 **2019-01-14** Ende der Zwangsmedikation _« innerhalb der Compliance_  
