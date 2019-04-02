@@ -68,7 +68,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 **2018-07-13** Polizei TS erklärt: "Es Existiert kein Nachweis über den Verbleib der Dokumente." _« zum Polizeidiebstahl_  
 **2018-03-22** Oberstaatsanwältin Greim (München): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
 **2018-02-26** Staatsanwältin Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
-**2018-02-08** Richterin Dr. Grundmann (Landgericht TS ) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung!_
+**2018-02-08** Richterin Dr. Grundmann (Landgericht TS ) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
 **2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_  
 **2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Dennis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_
