@@ -12,7 +12,7 @@ Am 28.11.2017 kam es zu einem Polizeiverbrechen — gegen mich — nach Beschwer
 
 ### Erlogener Polizeibericht _« fordert alle Dokumente zur Polizeianzeige m. Beweisen und auch davor_
 
-> Die POLIZEI erlügt in ihrem Bericht ich hätte einen Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen. Weiters fehlt ein Nachweis über den Verbleib meiner Dokumente. Adiós Geldbörse.
+> Die POLIZEI erlügt in ihrem Bericht ich hätte einen 100cm Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen. Weiters fehlt ein Nachweis über den Verbleib meiner Dokumente. Adiós Geldbörse.
 
 Der Stock misst 140cm und schon aus diesem Grund ist ein Verstecken physikalisch-praktisch unmöglich.
 
