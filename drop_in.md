@@ -3,18 +3,23 @@
 
 <br>
 
-# Incident in 2017 _« fordert die Dokumente zur Polizeianzeige m. Beweisen_
+# Incident in 2017 _« Polizei-Niederschlag, Polizei-Diebstahl und in Folge Abtransport und Zwangsmedikation… Verfahren schwebend._
 
-NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
+Am 28.11.2017 kam es zu einem Polizeiverbrechen — gegen mich — nach Beschwerde von Nachbarin Fr. Karin Allegrini über zu laute Musik. Die Musik war aktuell auf Aus und in der Hand hielt ich einen Stock zwecks Rückengymnastik. Die Bitte um ein Gespräch wie Mediation wurde mit meiner Niederschlagung etc. beantwortet.
 
 
 :call_me_hand:
 
-### Erlogener Polizeibericht _« Polizeiniederschlagung, Polizeidiebstahl vom 2017-11-28_
+### Erlogener Polizeibericht _« fordert alle Dokumente zur Polizeianzeige m. Beweisen und auch davor_
 
 > Die POLIZEI erlügt in ihrem Bericht ich hätte einen Stock hinter dem Rücken versteckt gehalten, und in Socken die Treppen hinab über den Asphalt fliehen wollen. Weiters fehlt ein Nachweis über den Verbleib meiner Dokumente. Adiós Geldbörse.
 
-Seit 2011 (Autounfall) ist wie dokumentiert eine derart geschilderte Flucht bis dato leider nicht möglich – ich arbeite daran.
+Der Stock misst 140cm und schon aus diesem Grund ist ein Verstecken physikalisch-praktisch unmöglich.
+
+Seit einem Autounfall in 2011 (wie polizeilich dokumentiert) ist die geschilderte Flucht, auch über diesen Zeitpunkt hinaus nicht machbar gewesen  – ich arbeite daran.
+
+NB. Die Polizeistation Traunreut verweigert eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
+
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
 
