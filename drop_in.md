@@ -1,4 +1,4 @@
-:arrow_lower_right: beteiligt Polizist Hr. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler <sup>adiós Geldbörse geklaut und weg – und kein Nachweis über den Verbleib der Dokumente.</sup>
+:arrow_lower_right: beteiligt Polizist Hr. N. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler <sup>adiós Geldbörse geklaut und weg – und kein Nachweis über den Verbleib der Dokumente.</sup>
 
 
 <br>
@@ -18,7 +18,7 @@ Der Stock misst 140cm und schon aus diesem Grund ist ein Verstecken physikalisch
 
 Seit einem Autounfall in 2011 (wie polizeilich dokumentiert) ist die geschilderte Flucht, auch über diesen Zeitpunkt hinaus nicht machbar gewesen  – ich arbeite daran.
 
-NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
+NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM N. Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup>
