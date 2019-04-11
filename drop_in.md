@@ -64,6 +64,8 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 # Letzte Neuigkeiten
 
+Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUwe)
+
 **2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker_  
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren gegen Vermieterin Inninger-Seibt_
 
