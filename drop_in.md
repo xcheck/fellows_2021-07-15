@@ -48,7 +48,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 :call_me_hand_tone2:
 
-### Verletzung des Selbsbestimmungsrechts _« Zwangsmedikation_
+### Missachtung der Patientenverfügung _« Zwangsmedikation statt Selbstbestimmungsrecht_
 
 :arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Patientenverfügung vom Notar</sup>  
 [ :arrow_up_small: Notruf bezüglich Missachtung der Patientenverfügung! → Notar (ink. Tel), Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
