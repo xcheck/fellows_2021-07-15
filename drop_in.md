@@ -31,7 +31,9 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 [ :arrow_up_small: Polizeiniederschlag… in der Geschlossenen → Twitter <sup>als HTML-Archiv in \[2017-12-09; 2017-12-23\]</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
 [ :arrow_up_small: Polizeiniederschlag… ¬Pflegeset → ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
-[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]  
+[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]
+
+{+(Kurzform)+}
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
