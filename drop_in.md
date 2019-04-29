@@ -2,6 +2,7 @@
 
 [ :arrow_right_hook: drop.in in Kenntnis von Personen und Instanzen ]($1846453)  
 [ :arrow_right_hook: drop.in Gedankenfetzen ]($1850418)
+<!-- extra Record IF SUM EXCEEDS DETAILS -->
 
 <br>
 
