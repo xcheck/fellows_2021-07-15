@@ -93,7 +93,7 @@ Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUw
 
 > Denoted at Police – preceding from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}. {-Fakten! Strukturi!! → Staatsfeind 01-}. Dokumente und Unterlagen. Richterin Dr. Grundmann mit eingespieltem Standardverhalten.
 >
-> Vorgenanntes fällt nicht mehr unter Statistischem Rauschen.
+> Vorgenanntes fällt nicht mehr unter Statistischem Rauschen. Vorlauf inklusive.
 
 …in der Geschlossenen offline seit Anfang Januar 2018 da Handy und Netbook vom Personal konfisziert.
 
