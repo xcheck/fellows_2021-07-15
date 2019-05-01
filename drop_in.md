@@ -91,7 +91,7 @@ Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUw
 [drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
 [drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
 
-> Denoted at Police – preceding from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
+> Denoted at Police – preceding from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}. {-Fakten! Strukturi!! → Staatsfeind 01-}. Dokumente und Unterlagen. Richterin Dr. Grundmann mit eingespieltem Standardverhalten.
 
 …in der Geschlossenen offline seit Anfang Januar 2018 da Handy und Netbook vom Personal konfisziert.
 
