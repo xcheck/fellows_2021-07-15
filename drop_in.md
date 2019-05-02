@@ -67,7 +67,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 <br>
 
-# Letzte Neuigkeiten
+# Letzte Neuigkeiten _« höhere Strategie Kollektivschuld… braun wie Artikel 11._
 
 Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUwe)
 
