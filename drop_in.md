@@ -74,8 +74,8 @@ Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUw
 **2019-04-21** [ :arrow_up_small: Enquête zur Patientenverfügung → www.test.de <sup>als Kommentar</sup> ](https://www.test.de/nutzerprofil/xcheck/) _« zum Special "Vorsorgevollmacht & Patientenverfügung So sorgen Sie rechtlich vor"_  
 **2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML Archiv per 2019-05-06</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_
 
-**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker_  
-**2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« Rechtsverfahren gegen Vermieterin Inninger-Seibt_
+**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_  
+**2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt~~_
 
 **2019-01-14** Ende der Zwangsmedikation _« innerhalb der Compliance_  
 **2018-11-27** Ende der Zwangs-Betreuung _« per Beschluss_
