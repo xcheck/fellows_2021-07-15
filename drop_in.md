@@ -85,7 +85,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 …in der Geschlossenen **offline seit 07.01.2018** da Handy und Netbook vom Personal konfisziert.
 
-**2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Dennis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
+**2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Denis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
 **2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_
 
 > Denoted at Police – preceding from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
