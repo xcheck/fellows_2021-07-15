@@ -76,7 +76,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 ### To Do List _« Mein Aufruf_
 
-`Fordert inkl. die Dokumente und Unterlagen zur Polizeianzeige!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
+`Fordert die Offenlegung des Anklageverfahrens – da weiterhin unter Verschluss!` _« Intention, Auftrag, Auftraggeber als Abschriften ← Wer.Wo.Was.Wie.Warum_  
 
 
 <br>
@@ -88,14 +88,14 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 **2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Denis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
 **2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_
 
-> Denoted at Police – preceding from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
+> Me, denoted at Police – first from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
 
 [drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
 [drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
 
 **2018-02-08** Richterin Dr. Grundmann (Landgericht TS ) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 28.12.2017 in reverse to Dr. Grundmann I submitted my police & lawsuit appeal per FAX – due to her denial of filing my appeal per e-mail. ¡LINK-WILL-BE-ADDED!
+> On 2018-01-03 in reverse to Dr. Grundmann anew I did submit my police & lawsuit appeal <sup>per FAX</sup> – due to her denial of filing my appeal per e-mail. ¡LINK-WILL-BE-ADDED!
 
 **2018-02-26** Staatsanwältin Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
 **2018-03-22** Oberstaatsanwältin Greim (München): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
@@ -104,7 +104,9 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 **2018-11-27** Ende der Zwangs-Betreuung _« per Beschluss_  
 **2019-01-14** Ende der Zwangsmedikation _« innerhalb der Compliance_
 
+<!--
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt~~_  
+-->
 **2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_
 
 **2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML Archiv per 2019-05-06</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_  
