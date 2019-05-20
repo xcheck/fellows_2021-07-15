@@ -97,9 +97,10 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 > On 2018-01-03 in reverse to Dr. Grundmann anew I did submit my police & lawsuit appeal <sup>per FAX</sup> – due to her denial of filing my appeal <sup>per e-mail.</sup> ¡LINK-WILL-BE-ADDED!
 
-**2018-02-26** Staatsanwältin Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
-**2018-03-22** Oberstaatsanwältin Greim (München): Ermittlungen eingestellt gegen Polizisten Steinmetz _« keine Erwähnung zum Polizeidiebstahl_  
-**2018-07-13** Polizei TS erklärt: "Es Existiert kein Nachweis über den Verbleib der Dokumente." _« zum Polizeidiebstahl_
+**2018-03-02** Staatsanwältin Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« keine Erwähnung zum Polizei-Diebstahl_  
+**2018-03-29** Oberstaatsanwältin Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« keine Erwähnung zum Polizei-Diebstahl_
+
+> Zum Polizei-Diebstahl erklärt am 2018-07-13 die Polizeiinspektion Traunstein: "Es Existiert kein Nachweis über den Verbleib der Dokumente."
 
 **2018-11-27** Ende der Zwangs-Betreuung _« per Beschluss_  
 **2019-01-14** Ende der Zwangsmedikation _« innerhalb der Compliance_
