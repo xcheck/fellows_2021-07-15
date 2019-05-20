@@ -95,7 +95,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 **2018-02-08** Richterin Dr. Grundmann (Landgericht TS) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 2018-01-03 in reverse to Dr. Grundmann anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX</sup> ](https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--Gabersee-20180103-BeschwerdeBeschlussBetreuungUnterbringung2Amtsgericht--ScanFAX.pdf) – due to her denial of filing my appeal per e-mail. She had has been unable to quit having enough information about the policeman perpetration since.
+> On 2018-01-03 in reverse to Dr. Grundmann, due to her denial of filing my appeal per e-mails, anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX.</sup> ](https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--Gabersee-20180103-BeschwerdeBeschlussBetreuungUnterbringung2Amtsgericht--ScanFAX.pdf) – She had has been unable to quit having enough information about the policeman perpetration since.
 
 **2018-03-02** Staatsanwältin Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« keine Erwähnung zum Polizei-Diebstahl_  
 **2018-03-29** Oberstaatsanwältin Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« keine Erwähnung zum Polizei-Diebstahl_
