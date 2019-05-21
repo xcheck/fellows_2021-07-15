@@ -1,8 +1,8 @@
 :arrow_lower_right: beteiligt Polizist Hr. N. Steinmetz, Rotkreuzler Hr. Grassler, Oberärztin S1 Gabersee Fr. Dr. med. Ulrike Adler <sup>adiós Geldbörse geklaut und weg – und kein Nachweis über den Verbleib der Dokumente.</sup>
 
-[ :arrow_right_hook: drop.in in Kenntnis von Personen und Instanzen ]($1846453)  
-[ :arrow_right_hook: drop.in Gedankenfetzen ]($1850418)  
-[ :arrow_right_hook: drop.in erweiterter Record ]($1850736)
+[ :arrow_right_hook: drop.in in Kenntnis von Personen und Instanzen ](https://gitlab.com/xcheck/fellows/snippets/1846453)  
+[ :arrow_right_hook: drop.in Gedankenfetzen ](https://gitlab.com/xcheck/fellows/snippets/1850418)  
+[ :arrow_right_hook: drop.in erweiterter Record ](https://gitlab.com/xcheck/fellows/snippets/1850736)
 
 <br>
 
