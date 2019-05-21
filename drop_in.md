@@ -23,7 +23,7 @@ Seit einem Autounfall in 2011 (wie polizeilich dokumentiert) ist die geschildert
 
 NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Verlustanzeige wegen Befangenheit und verweist auf Traunstein (wo man sich nicht zuständig sieht, zumal kein Nachweis über den Verbleib der Dokumente existiert). Hr. POM N. Steinmetz könnte sicher mehr dazu sagen. Von einem fünften Termin habe ich abgesehen.
 
-[pol28-mmailMelGeld2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171214-MeldungGeldboerse2InnSalzachKlinik/
+[pol28-mmailMelGeld2ISK]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171214-MeldungGeldboerse2InnSalzachKlinik/
 
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup> | konfisziert zum 2018-01-07
@@ -38,21 +38,21 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 
 {+(Kurzform)+}
 
-[pol28-mmailAnzPoli2AG]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
-[pol28-mmailRapBetr2LRA]: https://rollparc.com/include/0ffSite/IMG_20171220_162942461_Schwellwert127.png
-[pol28-mmailRapBetr2LRAScan]: https://rollparc.com/include/0ffSite/Protokoll--ColdRapportLRABetreuung-Wegfahrt-20171220Scan.pdf
-[pol28-mmailRapFami2RAin]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
-[pol28-twitterHTML]: https://rollparc.com/include/0ffSite/Twitter--HametnerUwe-20171223-Quotes/
-[pol28-mmailaPflegeset2ISK]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
+[pol28-mmailAnzPoli2AG]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
+[pol28-mmailRapBetr2LRA]: https://rollparc.com/drop.in/IMG_20171220_162942461_Schwellwert127.png
+[pol28-mmailRapBetr2LRAScan]: https://rollparc.com/drop.in/Protokoll--ColdRapportLRABetreuung-Wegfahrt-20171220Scan.pdf
+[pol28-mmailRapFami2RAin]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
+[pol28-twitterHTML]: https://rollparc.com/drop.in/Twitter--HametnerUwe-20171223-Quotes/
+[pol28-mmailaPflegeset2ISK]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
 
-[pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
+[pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
 [ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] plus [ :arrow_up_small: Anhang in Papier → Nachbarn/Stadt/Polizei <sup>als PDF</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang] _« nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt – mehr als nur unhaltbar mangels Beweisen_  
 
-[pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
-[pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/Fahrerlaubnis_2017-10-23_fo_°E-Mail_¬FeV-PamfleteAushang-GitlabFellows.pdf
+[pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
+[pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/Fahrerlaubnis_2017-10-23_fo_°E-Mail_¬FeV-PamfleteAushang-GitlabFellows.pdf
 
 
 :call_me_hand_tone1:
@@ -69,7 +69,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 ### Missachtung der Patientenverfügung _« Zwangsmedikation statt Selbstbestimmungsrecht_
 
 :arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Patientenverfügung vom Notar</sup>  
-[ :arrow_up_small: Notruf bezüglich Missachtung der Patientenverfügung! → Notar (ink. Tel), Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
+[ :arrow_up_small: Notruf bezüglich Missachtung der Patientenverfügung! → Notar (ink. Tel), Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
 
 
 :call_me_hand_tone3:
@@ -108,9 +108,9 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 <!--
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt~~_  
 -->
-**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_
+**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_
 
-**2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML Archiv per 2019-05-06</sup> ](https://rollparc.com/include/0ffSite/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_  
+**2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML Archiv per 2019-05-06</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_  
 **2019-04-21** [ :arrow_up_small: Enquête zur Patientenverfügung → www.test.de <sup>als Kommentar</sup> ](https://www.test.de/nutzerprofil/xcheck/) _« zum Special "Vorsorgevollmacht & Patientenverfügung So sorgen Sie rechtlich vor"_
 
 Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUwe)
