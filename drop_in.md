@@ -88,7 +88,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 **2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Denis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
 **2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_
 
-> Me, denoted at Police – first from **Ms. Notzke** – the doughter of the second caller Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
+> Me, denoted at Police – first from **Ms. Notzke** – the doughter of the second arrant liar Ms. Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
 
 [drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
 [drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
