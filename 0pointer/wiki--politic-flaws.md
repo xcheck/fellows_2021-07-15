@@ -5,4 +5,6 @@
 .**2019-05-22** \[lang-DE\] CO2-Steuer-Quatsch → Fein-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
 > google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung  
-> link… Studien Forschungen Quellnachweise
+> link… Studien Forschungen Quellnachweise  
+>  
+> Sturmunwetter \<\> Artensterben
