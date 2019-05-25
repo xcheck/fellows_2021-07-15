@@ -1,4 +1,4 @@
-# better ^read-the-code · provide example w/ source · rel \[ ord ^base \]
+# better <sup>read-the-code</sup> · provide example w/ source · rel \[ ord <sup>base</sup> \]
 
 #!/Rollout _« shebang desp. hashbang_  
 https://rollparc.com/Kontakt  
@@ -15,10 +15,19 @@ https://rollparc.com/Kontakt
 :leftwards_arrow_with_hook: :arrow_up_down:
 ```
 
-¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated ^foss_  
+¬ -eq negizer · not · anti · w/o _« -eq floss equals elevated <sup>foss</sup>_  
 
-[∵]( ink:mouse over ) _« needle on the record_ ^\[∵\]( ^ink:mouse ^over ^) _high^-lighter_  
+[∵]( ink:mouse over ) _« needle on the record_ <sup>\[∵\]( ink:mouse over )</sup> _high<sup>-lighter</sup>_  
 ∴ _« …resolves!_
+
+
+```
+Msg    …, E-Mail, Instant,
+Fax
+Tax    Kurier – amtlich
+Ask    Abgabe – persönlich
+Bid    Abholung – legitimiert direkt
+```
 
 
 ☏ ☎	Schauen, besprechen‥ ñ ˽  
