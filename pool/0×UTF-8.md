@@ -31,8 +31,9 @@ Tax    …, amtlich, professionell,
 Ask    Abgabe – persönlich
 Bid    Abholung – legitimiert direkt
 
---Scan Kopierer
 --Mint …, Screenshot, Print-to-file
+--Scan Kopierer
+--Foto Kamera
 ```
 
 
