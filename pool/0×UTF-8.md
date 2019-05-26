@@ -22,11 +22,17 @@ https://rollparc.com/Kontakt
 
 
 ```
-Msg    …, E-Mail, Instant,
-Fax
-Tax    Kurier – amtlich
+(…)--yyyymmdd-Tax-(…)--Scan.pdf
+(…)--yyyymmdd-Msg-(…)--Mint.pdf
+
+Msg    …, E-Mail, Instant, Browser
+Fax    …,
+Tax    …, amtlich, professionell,
 Ask    Abgabe – persönlich
 Bid    Abholung – legitimiert direkt
+
+--Scan Kopierer
+--Mint …, Screenshot, Print-to-file
 ```
 
 
