@@ -7,7 +7,7 @@
 
 > Capture the latter from the Washington Post explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about clima – exceptionally the Greta Thunberg country failed this vote.  
 >  
-> Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse aspects seem to trouble themselves as much as to strictly converse about clima only.
+> Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse if not distorted aspects seem to trouble themselves as much as to strictly converse about clima only.
 
 
 .**2019-05-22**  
