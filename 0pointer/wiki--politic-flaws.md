@@ -22,6 +22,6 @@
 
 
 **2019-04-12** Fr  
-.\[lang-en\] E-Autos still not ready – batteries of the future w/ silicon anode, sulphur cathode, none ~~rare-earth elements~~ <sup>5/2×power n 1/10×picker</sup>
+.\[lang-EN\] E-Autos still not ready – batteries of the future w/ silicon anode, sulphur cathode, none ~~rare-earth elements~~ <sup>5/2×power n 1/10×picker</sup>
 
-\[lang-de\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
+\[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
