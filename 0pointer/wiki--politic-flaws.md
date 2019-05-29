@@ -13,7 +13,7 @@
 [thepost20190527eu-political-space]: https://www.washingtonpost.com/opinions/2019/05/27/amid-fractures-europe-is-becoming-single-political-space/
 
 .**2019-05-22** Mi  
-.\[lang-DE\] CO2-Steuer-Quatsch → Fein-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
+.\[lang-DE\] CO2-Steuer-Quatsch → Fein-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee, _&nbsp;« don't confuse Rußpartikel. did we talk about climate. compare it with lung cancer. notorious._
 
 > google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung  
 > link… Studien Forschungen Quellnachweise  
