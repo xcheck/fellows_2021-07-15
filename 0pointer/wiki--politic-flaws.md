@@ -24,4 +24,8 @@
 **2019-04-12** Fr  
 .\[lang-EN\] E-Autos still not ready – batteries of the future w/ silicon anode, sulphur cathode, none ~~rare-earth elements~~ <sup>5/2×power n 1/10×picker</sup>
 
+> Better opt for photovoltaic battery storages, a if not the favour ready investment for your private domicile. Remind the conversation rate in price and pollution.
+
 \[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
+
+> Die klar bessere Option hier sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ist schiebegünstig zu KGV und CO2.
