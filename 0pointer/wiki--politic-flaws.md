@@ -28,4 +28,4 @@
 
 \[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
 
-> Die klar bessere Option hier sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ist schiebegünstig zu KGV und CO2.
+> Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO2.
