@@ -39,7 +39,7 @@ current status‥ [ :arrow_right_hook: drop.in ](./drop_in.md) _&nbsp;« Police 
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829) _&nbsp;« mit ref <sup>t-o-e</sup>_
+[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829)
 
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
