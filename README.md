@@ -23,7 +23,7 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
 
-current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Police Crime contagion **→ disclosure yet pending**_
+current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Police Crime contagion **{+→ disclosure yet pending+}**_
 
 | ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
