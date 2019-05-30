@@ -25,11 +25,13 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
 current status‥
 
-| ₁₁basis | subscription | project | rel |
+| ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
-| ☐ | invitee (private) :file_folder: | theme-of-elements | [ :arrow_right_hook: ∷ ](https://gitlab.com/xcheck/theme-of-elements/wikis/home) |
-| ☒ | pseudonym [kudos] :footprints: | fellows | [ :arrow_right_hook: gitlab.com/xcheck/fellows/wikis/home ](https://gitlab.com/xcheck/fellows/wikis/home) |
-| ☐ | anonym /link ex\ :bouquet: | ~~_levelling_~~ | [ :arrow_up_small: fb.com/groups/DiStammtisch/ ](https://www.facebook.com/groups/DiStammtisch/) _<sup>« sleep (!)</sup>_ |
+| ☒ | blog :footprints: | — \|me\| | [ :arrow_right_hook: www.rollator-parcours.com/de/ ](https://www.rollator-parcours.com/de/) |
+| ☒ | fellows :chestnut: |  pseudonym [kudos] | [ :arrow_right_hook: gitlab.com/xcheck/fellows/wikis/home ](https://gitlab.com/xcheck/fellows/wikis/home) |
+| ☐ | ~~_levelling_ :bouquet:~~ | anonym /link ex\ | [ :arrow_up_small: fb.com/groups/DiStammtisch/ ](https://www.facebook.com/groups/DiStammtisch/) _<sup>« sleep (!)</sup>_ |
+
+<!-- | ☐ | invitee (private) :file_folder: | theme-of-elements | [ :arrow_right_hook: ∷ ](https://gitlab.com/xcheck/theme-of-elements/wikis/home) | -->
 
 
 ### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakte
