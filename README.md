@@ -23,7 +23,7 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
 
-current status‥ [ :arrow_right_hook: drop.in ](./drop_in.md) _&nbsp;« Police Crime contagion **→ disclosure pending**_
+current status‥ [ :arrow_right_hook: drop.in ](./drop_in.md) _&nbsp;« Police Crime contagion **→ disclosure yet pending**_
 
 | ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
@@ -34,12 +34,14 @@ current status‥ [ :arrow_right_hook: drop.in ](./drop_in.md) _&nbsp;« Police 
 <!-- | ☐ | invitee (private) :file_folder: | theme-of-elements | [ :arrow_right_hook: ∷ ](https://gitlab.com/xcheck/theme-of-elements/wikis/home) | -->
 
 
-### Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakte
+<br>
+
+# Beschluss nach Bürgerliches Gesetzbuch (BGB) § 630g Einsichtnahme in die Patientenakte
 
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829)
+[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>**2016-02-15** Chromik</sup> ]($1680829)
 
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
