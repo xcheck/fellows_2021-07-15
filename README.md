@@ -9,7 +9,7 @@ Post your findings and thoughts <sup>Te das cuenta</sup>
 
 <br>
 
-# RE <sup>↲AD↵</sup> ME – macht die Akten öffentlich <sup>Unterlagen/Gutachten/Anzeigen/Beschwerden</sup>
+# RE <sup>↲AD↵</sup> ME – macht das Polizei-Verbrechen 2017-11-28 öffentlich <sup>Beschwerden/Anzeigen/Anklageverfahren/…</sup>
 
 Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
