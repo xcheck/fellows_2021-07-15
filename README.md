@@ -27,7 +27,7 @@ current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Pol
 
 | ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
-| ☒ | blog :footprints: | — | [ :arrow_up_small: www.rollator-parcours.com/de/ ](https://www.rollator-parcours.com/de/) |
+| ☒ | blog :footprints: | — \|me\| | [ :arrow_up_small: www.rollator-parcours.com/de/ ](https://www.rollator-parcours.com/de/) |
 | ☒ | fellows :chestnut: |  pseudonym [kudos] | [ :arrow_right_hook: gitlab.com/xcheck/fellows/wikis/home ](https://gitlab.com/xcheck/fellows/wikis/home) |
 | ☐ | ~~_levelling_ :bouquet:~~ | anonym /link ex\ | [ :arrow_up_small: fb.com/groups/DiStammtisch/ ](https://www.facebook.com/groups/DiStammtisch/) _<sup>« sleep (!)</sup>_ |
 
