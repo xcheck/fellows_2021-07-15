@@ -23,7 +23,7 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
 
-current status‥
+current status‥ [ :arrow_right_hook: drop.in ](./drop_in.md) _&nbsp;« Police Crime contagion **→ disclosure pending**_
 
 | ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
@@ -39,7 +39,7 @@ current status‥
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829) _« mit ref <sup>t-o-e</sup>_
+[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>2016-02-15 Chromik</sup> ]($1680829) _&nbsp;« mit ref <sup>t-o-e</sup>_
 
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
