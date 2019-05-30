@@ -23,6 +23,12 @@ Qua<sup>**simodo**</sup> nur halt rückwärts…
 | fm4 | f <sup>nu</sup> 4 | f ④ |
 
 
+### common lifetime scale :radio:
+
+- dope story `40` invest venture capital _&nbsp;« Voraussetzung bewiesen_  
+- meet results `70` reallign asset valuation _&nbsp;« Strategie umgewichten_
+
+
 ### Glossar :information_source:
 
 :arrow_right_hook: [ Symbole \(:pregnant_woman:\) — Zeichengebung ](./pool/0×UTF-8.md)
