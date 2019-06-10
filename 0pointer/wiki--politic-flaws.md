@@ -3,6 +3,12 @@
 `Date-Anchor Descending`
 
 
+**{+2019-06-10+}**{+ Mo+}  
+[lang-DE] **open private data**
+
+> den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen Daten geteilt und öffentlich integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.
+
+
 **2019-05-27** Mo  
 [lang-EN] E.U. Parliament 2019 election → Liberals and Greens **contra-rise** to stand the far-right, nativist, nationalist and populist partisans
 
@@ -11,6 +17,7 @@
 > Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse if not distorted aspects seem to trouble themselves as much as to strictly converse about climate only. Elements of life.
 
 [thepost20190527eu-political-space]: https://www.washingtonpost.com/opinions/2019/05/27/amid-fractures-europe-is-becoming-single-political-space/
+
 
 .**2019-05-22** Mi  
 .\[lang-DE\] CO2-Steuer-Quatsch → Fein-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
