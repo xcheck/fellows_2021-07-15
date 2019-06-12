@@ -3,10 +3,14 @@
 `Date-Anchor Descending`
 
 
+**2019-06-11** Di  
+[lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup>
+
+
 **{+2019-06-10+}**{+ Mo+}  
 [lang-DE] **open private data**
 
-> Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.
+> **Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.**
 
 
 **2019-05-27** Mo  
