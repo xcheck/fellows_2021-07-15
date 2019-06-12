@@ -14,7 +14,7 @@
 
 
 .**2019-06-05** Mi  
-.[lang-EN] ~~true Democracy~~ the women way – [ Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
+.[lang-EN] ~~true Democracy~~ the women way — [ Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
 
 
 **2019-05-27** Mo  
