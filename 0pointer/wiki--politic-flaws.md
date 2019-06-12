@@ -16,7 +16,7 @@
 **2019-05-27** Mo  
 [lang-EN] E.U. Parliament 2019 election → Liberals and Greens **contra-rise** to stand the far-right, nativist, nationalist and populist partisans
 
-> Capture the latter from the [ Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – exceptionally the Greta Thunberg country failed here and this vote.  
+> Capture the latter from the [ Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – especially the Greta Thunberg country failed here by their vote.  
 >  
 > Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse if not distorted aspects seem to trouble themselves as much as to strictly converse about climate only. Elements of life.
 
