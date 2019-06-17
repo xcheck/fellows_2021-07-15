@@ -28,9 +28,9 @@
 
 
 .**2019-05-22** Mi  
-.\[lang-DE\] CO2-Steuer-Quatsch → Fein-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
+.\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
-> **don't confuse Rußpartikel. did we talk about climate. compare it with lung cancer. notorious.**
+> **don't confuse Rußpartikel. did we talk about climate. compare nitrogen dioxide (NO₂) with stats on lung cancer. notorious.**
 
 > google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung  
 > link… Studien Forschungen Quellnachweise  
@@ -45,4 +45,4 @@
 
 \[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
 
-> Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO2.
+> Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
