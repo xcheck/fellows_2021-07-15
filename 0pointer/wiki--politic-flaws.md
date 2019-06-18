@@ -33,6 +33,8 @@
 .\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
 > **don't confuse Rußpartikel. did we talk about climate. compare nitrogen dioxide (NO₂) with stats on lung cancer. notorious.**
+>  
+> meanwhile in Mexico they tax sugared beverages, since carbonated beverages stands for clean/purify/cure
 
 > google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung  
 > link… Studien Forschungen Quellnachweise  
