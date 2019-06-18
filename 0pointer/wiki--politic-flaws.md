@@ -3,6 +3,16 @@
 `Date-Anchor Descending`
 
 
+<!--
+**2019-06-18** Di  
+[lang-DE] Mietpreisbremse/Mietwohnungsbau – USA zeigt langfristig Wohnungsnotstand (Umwandlung Eigentum) und Mietüberlauf (Wirtschaftszentren)
+
+> …unbezahlbar für zurückliegende Gebiete. Ausgleichssubventionen und Förderprogramme erlauben verschiedene Steuerungsmöglichkeiten.
+>  
+> https://www.washingtonpost.com/outlook/2019/06/17/why-rent-control-alone-cant-solve-expensive-housing-crisis/
+-->
+
+
 **2019-06-11** Di  
 [lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup>
 
