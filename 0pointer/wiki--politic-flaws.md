@@ -13,8 +13,8 @@
 > **Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.**
 
 
-**2019-06-05** Mi  
-[lang-EN] ~~true Democracy~~ the women way — [ Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
+.**2019-06-05** Mi  
+.[lang-EN] ~~true Democracy~~ the women way — [ Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
 
 > skip this and go gender independent (…) see link above
 
