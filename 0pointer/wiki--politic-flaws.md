@@ -4,8 +4,8 @@
 
 
 <!--
-**2019-06-18** Di  
-[lang-DE] Mietpreisbremse/Mietwohnungsbau – USA zeigt langfristig Wohnungsnotstand (Umwandlung Eigentum) und Mietüberlauf (Wirtschaftszentren)
+.**2019-06-18** Di  
+.[lang-DE] Mietpreisbremse/Mietwohnungsbau – USA zeigt langfristig Wohnungsnotstand (Umwandlung Eigentum) und Mietüberlauf (Wirtschaftszentren)
 
 > …unbezahlbar für zurückliegende Gebiete. Ausgleichssubventionen und Förderprogramme erlauben verschiedene Steuerungsmöglichkeiten.
 >  
@@ -32,9 +32,11 @@
 **2019-05-27** Mo  
 [lang-EN] E.U. Parliament 2019 election → Liberals and Greens **contra-rise** to stand the far-right, nativist, nationalist and populist partisans
 
-> Capture the latter from the [ Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – especially the Greta Thunberg country failed here by their losses in vote.  
+> Capture the latter from the [ Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – especially the Greta Thunberg country\* failed here by their losses in vote.  
 >  
 > Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse if not distorted aspects seem to trouble themselves (…) resulting to strictly converse about climate only. Elements of life.
+>  
+> \*Knit a Swedish match to my vote strategy in 2014 to stuck your own interests globally, while go global internally. Did not research this though.
 
 [thepost20190527eu-political-space]: https://www.washingtonpost.com/opinions/2019/05/27/amid-fractures-europe-is-becoming-single-political-space/
 
