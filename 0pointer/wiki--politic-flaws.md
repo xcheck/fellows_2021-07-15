@@ -4,6 +4,20 @@
 
 
 <!--
+.**2019-06-20** Do  
+.[lang-EN] Yad Vashem declines to name an alternative (…) for their reserved expression „KZ concentration camps“
+
+> [ your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
+>  
+> DHS ripped 1000s of children from their parents & put them in cages w inhumane conditions.
+>  
+> They call their cells “dog pounds” & “freezers.”
+>  
+> \*https://www.rt.com/usa/462252-yad-vashem-aoc-holocaust-response/
+-->
+
+
+<!--
 .**2019-06-18** Di  
 .[lang-DE] Mietpreisbremse/Mietwohnungsbau – USA zeigt langfristig Wohnungsnotstand (Umwandlung Eigentum) und Mietüberlauf (Wirtschaftszentren)
 
