@@ -3,9 +3,15 @@
 `Date-Anchor Descending`
 
 
+**2019-06-21** Fr  
+[lang-EN] Seehofer/Parzinger → if they weren't versus Verbesserungen, it would never have been gone so far, everything keeps as it is
+
+> **instead to improve** with your love adventure – **stark stay** with your ex
+
+
 <!--
-.**2019-06-20** Do  
-.[lang-EN] Yad Vashem declines to name an alternative (…) for their reserved expression „KZ concentration camps“
+**2019-06-20** Do  
+[lang-EN] Yad Vashem denies to name an alternative (…) for their holdback expression „KZ concentration camps“
 
 > [ your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
 >  
