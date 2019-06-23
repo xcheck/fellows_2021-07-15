@@ -3,6 +3,12 @@
 `Date-Anchor Descending`
 
 
+**2019-06-23** So  
+[lang-DE] Luxus-Schlitten ab jetzt Verschreibunspflichtig, nur per Zulassung vom Arzt (…) über 21-jährige müssen einen Anspruchsverzicht unterschreiben.
+
+> watch your back, if you want do be a high roller
+
+
 **2019-06-21** Fr  
 [lang-EN] Seehofer/Parzinger → if they weren't versus Verbesserungen, it would never have been gone so far, everything keeps as it is
 
