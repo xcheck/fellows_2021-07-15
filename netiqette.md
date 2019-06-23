@@ -18,9 +18,9 @@ Qua<sup>**simodo**</sup> nur halt rückwärts…
 
 | o :repeat_one: | r :checkered_flag: | f :leftwards_arrow_with_hook: |
 | --- | -- | -- |
-| f ᵐ4 | | [f]ₘ |
-| f <sup>m→</sup> 4 | f 4ₘ | |
-| fm4 | f <sup>nu</sup> 4 | f ④ |
+| ↑⁵ | | [f]ₘ |
+| f ᵐ<sup>→</sup>4 | f 4ₘ | |
+| fm4 | f ᵘᵑ 4 | f ④ |
 
 
 ### common lifetime scale :radio:
