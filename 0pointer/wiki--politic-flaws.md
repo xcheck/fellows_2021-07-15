@@ -7,6 +7,8 @@
 [lang-EN] Microsoft GitOS
 
 > the concept of Windows is broken beyond repair, cut-off and create the Git Operating System
+>  
+> refer [ :arrow_right_hook: Windows v ChromeOS – München's denial of Linux ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170) (translate yourself)
 
 
 **2019-06-23** So  
