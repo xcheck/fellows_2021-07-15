@@ -3,6 +3,12 @@
 `Date-Anchor Descending`
 
 
+**2019-06-24** Mo  
+[lang-EN] Microsoft GitOS
+
+> the concept of Windows is broken beyond repair, cut-off and create the Git Operating System
+
+
 **2019-06-23** So  
 [lang-DE] Luxus-Schlitten ab jetzt Verschreibunspflichtig, nur per Zulassung vom Arzt (…) über 21-jährige müssen einen Anspruchsverzicht unterschreiben.
 
