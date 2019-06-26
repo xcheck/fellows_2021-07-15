@@ -1,3 +1,0 @@
-<h1>html file w/ h1 brand</h1>
-<p>doyodo</p>
-<p style="background:Gainsboro;">colourish</p>
