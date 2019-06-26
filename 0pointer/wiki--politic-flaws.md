@@ -9,6 +9,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-06-26** Mi  
+[lang-EN] Facebook Libra – cryptocurrency
+
+> Skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Web Social or Common Democracy ](https://gitlab.com/xcheck/fellows/issues/2)
+
+
 **2019-06-24** Mo  
 [lang-EN] Microsoft GitOS
 
