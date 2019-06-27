@@ -9,6 +9,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-06-27** Do  
+[lang-EN] Climate-Tax Buzz CO₂
+
+> Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: unconditionally but open and transparent](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
+
+
 **2019-06-26** Mi  
 [lang-EN] Facebook Libra – cryptocurrency
 
