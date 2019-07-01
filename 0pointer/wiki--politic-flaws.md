@@ -9,6 +9,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-07-01** Mo  
+[lang-ES] Brasil Campeão – Video Game Competition
+
+> **progressão** por duas grupos pretendente mundial, exigente en superar, **próspero** decisão en qualquer meta → a) mundo facto physisk ~vs~ b) transformação de térreo virtual com adaptação virtuosa (the latter pythonic)
+
+
 **2019-06-27** Do  
 [lang-EN] Climate-Tax Buzz CO₂
 
