@@ -9,6 +9,16 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-07-02** Di  
+[lang-DE] All World Countries on wait 'cause of Germany
+
+> Tilt the **German intellectual right** on the **nash-porquería** and go public w/o stall, block out, disinformation, disruptiveness, decay, detour, indirection (…) using euphemism here. See previous entry from **2019-07-01** Mo.
+>  
+> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ Common Democracy Model ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
+>  
+> Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
+
+
 **2019-07-01** Mo  
 [lang-ES] Brasil Campeão – Video Game Competition
 
