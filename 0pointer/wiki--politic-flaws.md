@@ -15,7 +15,7 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > Tilt the **German intellectual right** on the **nash-porquería** and go public w/o stall, block out, disinformation, disruptiveness, decay, detour, indirection (…) using euphemism here. See previous entry from **2019-07-01** Mo.
 >  
-> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ Common Democracy Model ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
+> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy Model ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
 >  
 > Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
 -->
@@ -27,6 +27,8 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **progressão** por duas grupos pretendente mundial, exigente en superar, **próspero** decisão en qualquer meta → a) mundo facto physisk ~vs~ b) transformação de térreo virtual com adaptação virtuosa (the latter pythonic)
 >  
 > nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being specific, e.g.
+>  
+> [ Newton finally solved ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna
 
 
 **2019-06-27** Do  
@@ -98,7 +100,7 @@ PINNED -->
 
 
 .**2019-06-05** Mi  
-.[lang-EN] ~~true Democracy~~ the women way — [ Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
+.[lang-EN] ~~true Democracy~~ the women way — [ :arrow_right_hook: Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
 
 > skip this and go gender independent (…) see link above
 
