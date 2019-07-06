@@ -22,11 +22,11 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 **2019-07-01** Mo  
-[lang-ES] Brasil Campeão – Video Game Competition
+[lang-ES] Brasil Campeão – Video Game Competition <sup>nash-newton Malign-Mesh</sup>
 
 > **progressão** por duas grupos pretendente mundial, exigente en superar, **próspero** decisão en qualquer meta → a) mundo facto physisk ~vs~ b) transformação de térreo virtual com adaptação virtuosa (the latter pythonic)
 >  
-> nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being specific, e.g.
+> nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being **specific**, e.g.
 >  
 > [ Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna
 
