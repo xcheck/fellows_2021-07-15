@@ -169,4 +169,4 @@ PINNED -->
 >  
 > H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der Nordstreamgasleitung, letzteres ist ohnehin nicht wirtschaftlich mangels Wartbarkeit.
 > → Gaskraftwerke dezentral für Strom, können jederzeit Unterkapazitäten ausgleichen.
-> → Vehikel im Dauerbetrieb zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂.
+> → Vehikel im Dauerbetrieb zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
