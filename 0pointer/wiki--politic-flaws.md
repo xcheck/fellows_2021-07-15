@@ -157,6 +157,8 @@ PINNED -->
 >  
 > Sturmunwetter \<\> Artensterben
 
+> aeroplane contrail concerns – is subject of – long distance resolutions: long stator maglev (magnetic levitation) w/ EDS (electrodynamic suspension) up to future MDS (magnetodynamic suspension)
+
 
 **2019-04-12** Fr  
 .\[lang-EN\] E-Autos still not ready – batteries of the future w/ silicon anode, sulphur cathode, none ~~rare-earth elements~~ <sup>5/2×power n 1/10×picker</sup>
