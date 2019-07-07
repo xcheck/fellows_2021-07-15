@@ -10,9 +10,9 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 <!--
-2019-07-03 NOTIZBLOCK: Parteien == Handwerk == Bündnis (…) flat hierarchy w/ individual rate value
+2019-07-03 Mi NOTIZBLOCK: Parteien == Handwerk == Bündnis (…) flat hierarchy w/ individual rate value
 
-2019-07-06 plane – flat public organism → meta base as field of topic can float within a wider area bassinet
+2019-07-06 Sa plane – flat public organism → meta base as field of topic can float within a wider area bassinet
 Salzburg chat with asian Süßwasserperlen-Fierant (or rem the ancient Greeks)
 - us appreciating choosing an assistant w/ execution privilege (director comprehension)
 - an assistant w/ universal talent and skills in brighter amount of topics (generalist w/ some specialization)
@@ -23,7 +23,7 @@ Salzburg chat with asian Süßwasserperlen-Fierant (or rem the ancient Greeks)
 - keep in to fork, spin off, derive wider and more complex sophistications (combined meta)
 …uplearn from all derivates.
 
-2019-07-07 kiss – public private option
+2019-07-07 So kiss – public private option
 https://www.nytimes.com/2019/07/06/opinion/sunday/public-option.html
 - us having a base limited public offer
 - us enabling to fork, spin off, derive wider and more complex services (combined standards)
@@ -32,8 +32,21 @@ https://www.nytimes.com/2019/07/06/opinion/sunday/public-option.html
 
 
 <!--
-**2019-07-03** Mi  
+2019-07-03 Mi German dechiffre (MILCH==gut ? er=Mann : 0)
 
+4th of July
+·4 Kreuz. Krone. England → Tee mit MILCH
+·7 tea → sieve. sift. FILTER.
+
+7th of July
+·G
+·|
+·7 w/ German horizontal bar… ›que leche‹
+77 results in # which is Schwedische Gardinen is kind of prison is German Milch
+
+
+2019-07-03 Mi Definition für Freundschaft
+·URL plus keywords → ping mit Vorzügen → du entscheidest einfach unverbindlich
 -->
 
 
