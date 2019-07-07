@@ -10,6 +10,26 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 <!--
+2019-07-06 plane – flat public organism → meta base as field of topic can float within a wider area bassinet
+Salzburg chat with asian Süßwasserperlen-Fierant (or rem the ancient Greeks)
+- us appreciating choosing an assistant w/ execution privilege (director comprehension)
+- an assistant w/ universal talent and skills in brighter amount of topics (generalist w/ some specialization)
+- key in assistant to take all childs at hand to the fore (peer sparring)
+- key in childs have to be sovereign and self-relaint at earliest
+- key in superdecisions if a freez point cannot be achieved
+- keep in a small clear specific meta (our stellar)
+- keep in to fork, spin off, derive wider and more complex sophistications (combined meta)
+…uplearn from all derivates.
+
+2019-07-07 kiss – public private option
+https://www.nytimes.com/2019/07/06/opinion/sunday/public-option.html
+- us having a base limited public offer
+- us enabling to fork, spin off, derive wider and more complex services (combined standards)
+…uplearn from all success stories.
+-->
+
+
+<!--
 **2019-07-02** Di  
 [lang-EN] All World Countries on wait 'cause of Germany
 
