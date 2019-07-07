@@ -10,13 +10,15 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 <!--
+2019-07-03 NOTIZBLOCK: Parteien == Handwerk == Bündnis (…) flat hierarchy w/ individual rate value
+
 2019-07-06 plane – flat public organism → meta base as field of topic can float within a wider area bassinet
 Salzburg chat with asian Süßwasserperlen-Fierant (or rem the ancient Greeks)
 - us appreciating choosing an assistant w/ execution privilege (director comprehension)
 - an assistant w/ universal talent and skills in brighter amount of topics (generalist w/ some specialization)
 - key in assistant to take all childs at hand to the fore (peer sparring)
 - key in childs have to be sovereign and self-relaint at earliest
-- key in superdecisions if a freez point cannot be achieved
+- key in superdecisions if a freeze point cannot be achieved
 - keep in a small clear specific meta (our stellar)
 - keep in to fork, spin off, derive wider and more complex sophistications (combined meta)
 …uplearn from all derivates.
@@ -26,6 +28,12 @@ https://www.nytimes.com/2019/07/06/opinion/sunday/public-option.html
 - us having a base limited public offer
 - us enabling to fork, spin off, derive wider and more complex services (combined standards)
 …uplearn from all success stories.
+-->
+
+
+<!--
+**2019-07-03** Mi  
+
 -->
 
 
@@ -60,7 +68,7 @@ https://www.nytimes.com/2019/07/06/opinion/sunday/public-option.html
 **2019-06-26** Mi  
 [lang-EN] Facebook Libra – cryptocurrency
 
-> Skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Web Social or Common Democracy ](https://gitlab.com/xcheck/fellows/issues/2)
+> skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Web Social or Common Democracy ](https://gitlab.com/xcheck/fellows/issues/2)
 
 
 **2019-06-24** Mo  
@@ -158,3 +166,5 @@ PINNED -->
 \[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
 
 > Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
+>  
+> Für PKWs und Transporter und darüber eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der Nordstreamgasleitung – letzteres ohnehin nicht wirtschaftlich mangels Wartbarkeit. Gaskraftwerke können dezentral jederzeit Unterkapazitäten ausgleichen. Vehikel im Dauerbetrieb inklusive autonomen Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂
