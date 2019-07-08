@@ -17,7 +17,7 @@ Salzburg chat with asian Süßwasserperlen-Fierant (or rem the ancient Greeks)
 - us appreciating choosing an assistant w/ execution privilege (director comprehension)
 - an assistant w/ universal talent and skills in brighter amount of topics (generalist w/ some specialization)
 - key in assistant to take all childs at hand to the fore (peer sparring)
-- key in childs have to be sovereign and self-relaint at earliest
+- key in childs have to be sovereign and self-reliant at earliest
 - key in superdecisions if a freeze point cannot be achieved
 - keep in a small clear specific meta (our stellar)
 - keep in to fork, spin off, derive wider and more complex sophistications (combined meta)
@@ -170,7 +170,7 @@ PINNED -->
 >  
 > Sturmunwetter \<\> Artensterben
 
-> aeroplane contrail concerns – is subject of – long distance resolutions: long stator maglev (magnetic levitation) w/ EDS (electrodynamic suspension) up to future MDS (magnetodynamic suspension)
+> aeroplane **contrail concerns** – is subject of – long distance resolutions: long stator maglev (magnetic levitation) w/ EDS (electrodynamic suspension) up to future MDS (magnetodynamic suspension)… continues in DC direct-current power-grid backbones (Gleichstromtrassen-Basisnetz) appreciating e-device-requirements
 
 
 **2019-04-12** Fr  
