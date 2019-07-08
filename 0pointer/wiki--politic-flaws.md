@@ -160,6 +160,6 @@ PINNED -->
 
 > Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
 >  
-> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der Nordstreamgasleitung, letzteres ist ohnehin nicht wirtschaftlich mangels Wartbarkeit.
+> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der [ Nordstreamgasleitung](https://www.rt.com/business/463662-germany-needs-nord-stream-2/), letzteres ist ohnehin nicht wirtschaftlich mangels Wartbarkeit.
 > → Gaskraftwerke dezentral für Strom, können jederzeit Unterkapazitäten ausgleichen.
 > → Vehikel im Dauerbetrieb ([fernere Zukunft](http://www.globaltimes.cn/content/1157207.shtml)) zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
