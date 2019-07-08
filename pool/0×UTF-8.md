@@ -72,7 +72,7 @@ Bid    Abholung – legitimiert direkt
 
 ⛛    ⛰    ⚺   	⚻
 
-⟲	⟳	↶	↷	∿	ᵔ	ᵕ
+⟲	⟳	↶	↷	∿	ᵔ	ᵕ    ⌒
 
 ₕ	¼	½	¾	⁄	÷	×
 
