@@ -10,23 +10,6 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 <!--
-2019-07-04 Do Mobilien-Hausbau wie blöd (…) mit falschem Konzept
-
-
-Sanitär-Dock w/ Service… plane/sup/sub facility apart (access plug key)
-·
-· Kellermodul: fix base-you (origami concept)
-· Fertighaus: stellar adequate-you
-
-
-Postal-Dock w/ Service… core Mall/Kirche/Emma
-·
-· Drohnen-Quadrocopter-Träger (Transporter-Pickup)
-· Direkt-/Eilzustellung
--->
-
-
-<!--
 2019-07-03 Mi German dechiffre (MILCH==gut ? er=Mann : 0)
 
 4th of July
