@@ -12,9 +12,11 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 <!--
 2019-07-03 Mi German dechiffre (MILCH==gut ? er=Mann : 0)
 
-4th of July
+4th of July « MI6 explains MilkInFirst see NYT
 ·4 Kreuz. Krone. England → Tee mit MILCH
 ·7 tea → sieve. sift. FILTER.
+https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
+
 
 7th of July
 ·G
