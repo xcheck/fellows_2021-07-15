@@ -107,7 +107,9 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 **2019-06-11** Di  
-[lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup>
+[lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup> <!-- statt Kuka -->
+
+>  Strategisches Investment – [ Shanghai’s Abfall-Recycling-Verfahren ](http://www.globaltimes.cn/content/1157131.shtml) per KI-assistierter Sortierung
 
 
 <!-- PINNED
@@ -160,6 +162,6 @@ PINNED -->
 
 > Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
 >  
-> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der [ Nordstreamgasleitung](https://www.rt.com/business/463662-germany-needs-nord-stream-2/), letzteres ist ohnehin nicht wirtschaftlich mangels Wartbarkeit.
+> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der [ Nordstreamgasleitung, letzteres ist ohnehin nicht wirtschaftlich](https://www.rt.com/business/463662-germany-needs-nord-stream-2/) mangels Wartbarkeit.
 > → Gaskraftwerke dezentral für Strom, können jederzeit Unterkapazitäten ausgleichen.
 > → Vehikel im Dauerbetrieb ([fernere Zukunft](http://www.globaltimes.cn/content/1157207.shtml)) zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
