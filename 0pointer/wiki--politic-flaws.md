@@ -55,19 +55,19 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-27** Do  
 [lang-EN] Climate-Tax Buzz CO₂
 
-> Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: unconditionally but open and transparent](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
+> Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: Common-Democracy \(unconditionally but open and transparent\)](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
 
 
 **2019-06-26** Mi  
 [lang-EN] Facebook Libra – cryptocurrency
 
-> tl;dr: skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Web Social or Common Democracy ](https://gitlab.com/xcheck/fellows/issues/2)
+> tl;dr: skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Common-Democracy \(Web Social of sense Mesh Social\) ](https://gitlab.com/xcheck/fellows/issues/2)
 
 
 **2019-06-24** Mo  
 [lang-EN] Microsoft GitOS
 
-> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Windows v ChromeOS – München's denial of Linux ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
+> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows v ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
 
 
 **2019-06-23** So  
