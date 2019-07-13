@@ -41,7 +41,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community – trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
 
-> [ :arrow_right_hook: Huawei's Hongmeng OS is for IoT, Android remains first choice ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
+> [ Huawei's Hongmeng OS is for IoT, Android remains first choice ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
 -->
 
 
@@ -112,7 +112,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-11** Di  
 [lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup> <!-- statt Kuka -->
 
->  Strategisches Investment – [ Shanghai’s Abfall-Recycling-Verfahren ](http://www.globaltimes.cn/content/1157131.shtml) per KI-assistierter Sortierung
+>  Strategisches Investment – [ Shanghai’s Abfall-Recycling-Verfahren ](http://www.globaltimes.cn/content/1157131.shtml) per KI-assistierter Sortierung, bzw. gratis [ Beijing’s lernende Müll-Erkennung ](http://www.ecns.cn/news/cns-wire/2019-07-11/detail-ifzkzyey4241810.shtml)
 
 
 <!-- PINNED
