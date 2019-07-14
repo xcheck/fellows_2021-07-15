@@ -60,6 +60,8 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 > Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: Common-Democracy \(unconditionally but open and transparent\)](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
 
+> [ :arrow_up_small: Online porn ‘produces the same amount of carbon emissions as all the households in France’ ](https://www.rt.com/news/464109-porn-co2-emissions-report/)
+
 
 **2019-06-26** Mi  
 [lang-EN] Facebook Libra – cryptocurrency
