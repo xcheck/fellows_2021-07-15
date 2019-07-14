@@ -52,7 +52,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being **specific**, e.g.
 >  
-> [ Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna
+> [ :arrow_up_small: Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna
 
 
 **2019-06-27** Do  
@@ -89,7 +89,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-20** Do  
 [lang-EN] Yad Vashem denies to name an alternative (…) for their holdback expression „KZ concentration camps“
 
-> [ your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
+> [ :arrow_up_small: your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
 >  
 > DHS ripped 1000s of children from their parents & put them in cages w inhumane conditions.
 >  
@@ -112,7 +112,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-11** Di  
 [lang-DE] Platstik-Tüten-**Verbot** → Exakt **kontraproduktiv** bezüglich Hochsee-Deponierung unser aller Haushalt- und Gesamt<sup>müllablagerungen</sup> <!-- statt Kuka -->
 
->  Strategisches Investment – [ Shanghai’s Abfall-Recycling-Verfahren ](http://www.globaltimes.cn/content/1157131.shtml) per KI-assistierter Sortierung, bzw. gratis [ Beijing’s lernende Müll-Erkennung ](http://www.ecns.cn/news/cns-wire/2019-07-11/detail-ifzkzyey4241810.shtml)
+>  Strategisches Investment – [ :arrow_up_small: Shanghai’s Abfall-Recycling-Verfahren ](http://www.globaltimes.cn/content/1157131.shtml) per KI-assistierter Sortierung, bzw. gratis [ :arrow_up_small: Beijing’s lernende Müll-Erkennung ](http://www.ecns.cn/news/cns-wire/2019-07-11/detail-ifzkzyey4241810.shtml)
 
 
 <!-- PINNED
@@ -132,11 +132,11 @@ PINNED -->
 **2019-05-27** Mo  
 [lang-EN] E.U. Parliament 2019 election → Liberals and Greens **contra-rise** to stand the far-right, nativist, nationalist and populist partisans
 
-> Capture the latter from the [ Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – especially the Greta Thunberg country\* failed here by their losses in vote.  
+> Capture the latter from the [ :arrow_up_small: Washington Post ][thepost20190527eu-political-space] explaining the markable losses of the traditional center parties. Back oversea its an clueless talk about climate – especially the Greta Thunberg country\* failed here by their losses in vote.  
 >  
 > Furthermore I disagree w/ the simple proclamation of a leftist and rightist off center gain. A misinterpretation too. Short, the Greens cannot be ordinarily associated to the left, their diverse if not distorted aspects seem to trouble themselves (…) resulting to strictly converse about climate only. Elements of life.
 >  
-> \*Knit a Swedish match to my vote strategy in 2014 to stuck your own interests globally, while go global internally. Did not research this though.
+> \*knit a Swedish match to my vote strategy in 2014 to stuck your own interests globally, while go global internally. Did not research this though.
 
 [thepost20190527eu-political-space]: https://www.washingtonpost.com/opinions/2019/05/27/amid-fractures-europe-is-becoming-single-political-space/
 
@@ -144,7 +144,7 @@ PINNED -->
 .**2019-05-22** Mi  
 .\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
-> **don't confuse Rußpartikel. did we talk about climate. compare nitrogen dioxide (NO₂) with stats on lung cancer. notorious.**
+> **don't confuse Rußpartikel. did we talk about climate. compare nitrogen dioxide (NO₂) with stats on lung cancer argument for diesel. notorious.**
 >  
 > meanwhile in Mexico they tax sugared beverages, since carbonated beverages stands for clean/purify/cure
 
@@ -161,10 +161,10 @@ PINNED -->
 
 > Better opt for photovoltaic battery storages a, if not the, favour ready investment for your private domicile. Remind the conversation rate in price and pollution.
 
-\[lang-DE\] E-Autos sind noch nicht reif – [  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
+\[lang-DE\] E-Autos sind noch nicht reif – [ :arrow_up_small:  Akkus der Zukunf mit Siliziumanode/-kathode und ohne ~~seltene Erden~~ <sup>5/2×Energiedichte u. 1/10×Ladezeit</sup> ](https://www.uni-kiel.de/de/universitaet/detailansicht/news/096-batterien/#)
 
-> Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
+> Die klar bessere Empfehlung sind Photovoltaik-Batteriespeicher für private Haushalte [ :arrow_up_small: c't 2018-02-158 ](https://ct.de/yy1b). Der Abakus ordnet sich schiebegünstig zu KGV und CO₂.
 >  
-> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der [ Nordstreamgasleitung, letzteres ist ohnehin nicht wirtschaftlich](https://www.rt.com/business/463662-germany-needs-nord-stream-2/) mangels Wartbarkeit.
+> H₂-Auto Kontext: Für PKWs und Transporter und darüber hinaus eignet sich Methangas CH₄ aus Überkapazitäten regenerativen Stroms. Die Technik dazu existiert. Effizienzverluste sind ungleich Überkapazitäten. Das bestehende Erdgasnetz bietet ideale Speicherreserven. Solar-/Windgas statt der [ :arrow_up_small: Nordstreamgasleitung, letzteres ist ohnehin nicht wirtschaftlich](https://www.rt.com/business/463662-germany-needs-nord-stream-2/) mangels Wartbarkeit.
 > → Gaskraftwerke dezentral für Strom, können jederzeit Unterkapazitäten ausgleichen.
-> → Vehikel im Dauerbetrieb ([fernere Zukunft](http://www.globaltimes.cn/content/1157207.shtml)) zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
+> → Vehikel im Dauerbetrieb ([ :arrow_up_small: fernere Zukunft](http://www.globaltimes.cn/content/1157207.shtml)) zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
