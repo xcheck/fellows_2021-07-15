@@ -60,7 +60,8 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 > Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: Common-Democracy \(unconditionally but open and transparent\)](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
 
-> [ :arrow_up_small: Online porn ‘produces the same amount of carbon emissions as all the households in France’ ](https://www.rt.com/news/464109-porn-co2-emissions-report/)
+> [ :arrow_up_small: Online porn ‘produces the same amount of carbon emissions as all the households in France’ ](https://www.rt.com/news/464109-porn-co2-emissions-report/) (13 Jul, 2019)  
+> and the latter [ :arrow_up_small: YOUPORN UND XVIDEOS, 30 Prozent des Internet-Datentraffics sind Pornovideos ](https://www.golem.de/news/youporn-und-xvideos-30-prozent-des-internet-datentraffics-sind-pornovideos-1204-90994.html) (5. April 2012)
 
 
 **2019-06-26** Mi  
@@ -87,9 +88,10 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 > **instead to improve** with your love adventure – **stark stay** with your ex
 
 
-<!--
 **2019-06-20** Do  
-[lang-EN] Yad Vashem denies to name an alternative (…) for their holdback expression „KZ concentration camps“
+[lang-EN] BMW México (…) Volkswagen de México → German press black-list-since **concentration camp** terrorism on human rights
+
+Yad Vashem denies to name an alternative (…) for their holdback expression „KZ concentration camps“
 
 > [ :arrow_up_small: your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
 >  
@@ -97,8 +99,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > They call their cells “dog pounds” & “freezers.”
 >  
-> \*https://www.rt.com/usa/462252-yad-vashem-aoc-holocaust-response/
--->
+> \*https://www.rt.com/usa/462252-yad-vashem-aoc-holocaust-response/ _&nbsp;« here, my twitter signed comment as a matter (!) of fact, is hidden_
 
 
 <!--
