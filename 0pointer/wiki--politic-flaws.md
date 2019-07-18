@@ -9,6 +9,22 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-07-18** Do  
+[lang-DE] Menstruationstasse (nur in einer zerstörten welt kann eine 100% kontrolle garantiert werden)
+
+```
+Einfache Lösung (…) Hygienebewusstsein
+
+antibakteriell → nicht absorbend mit Material-Innenschicht-Verschluss aus PTFE (Polytetrafluorethen)
+tags → Wechsel ohne Bakterienstauung regelmäßig (!)
+abends → Reinigung mit CO₂ bzw. Salz
+nachts → raus
+```
+
+[ :arrow_up_small: Confirmado científicamente: la copa menstrual es eficaz y segura ](https://elpais.com/sociedad/2019/07/17/actualidad/1563354188_284626.html)  
+learn quantified self [ :arrow_up_small: A Better Way to Manage Your Period? Try the Menstrual Cup, Scientists Say ](https://www.nytimes.com/2019/07/16/health/menstrual-cup-periods-women.html)
+
+
 <!--
 2019-07-03 Mi German dechiffre (MILCH==gut ? er=Mann : 0)
 
