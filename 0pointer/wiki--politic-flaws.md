@@ -21,11 +21,11 @@ abends → Reinigung mit CO₂ bzw. Salz
 nachts → raus
 ```
 
-[ :arrow_up_small: Confirmado científicamente: la copa menstrual es eficaz y segura ](https://elpais.com/sociedad/2019/07/17/actualidad/1563354188_284626.html)  
-learn quantified self [ :arrow_up_small: A Better Way to Manage Your Period? Try the Menstrual Cup, Scientists Say ](https://www.nytimes.com/2019/07/16/health/menstrual-cup-periods-women.html)
+> [ :arrow_up_small: Confirmado científicamente: la copa menstrual es eficaz y segura ](https://elpais.com/sociedad/2019/07/17/actualidad/1563354188_284626.html)  
+> learn quantified self [ :arrow_up_small: A Better Way to Manage Your Period? Try the Menstrual Cup, Scientists Say ](https://www.nytimes.com/2019/07/16/health/menstrual-cup-periods-women.html)
 
 
-<!--
+<!-- to transort SKIP READING dis well-informed
 2019-07-03 Mi German dechiffre (MILCH==gut ? er=Mann : 0)
 
 4th of July « MI6 explains MilkInFirst see NYT
@@ -47,18 +47,18 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 -->
 
 
-<!--
 **2019-07-02** Di  
 [lang-EN] All World Countries on wait 'cause of Germany
 
 > Tilt the **German intellectual right** on the **nash-porquería** and go public w/o stall, block out, disinformation, disruptiveness, decay, detour, indirection (…) using euphemism here. See previous entry from **2019-07-01** Mo.
 >  
-> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy Model ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
+> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy (Organism-Model) ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
 >  
-> Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community – trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
+> Zircon ~vs~ Linux [ Android remains first choice (Huawei's Hongmeng OS is for IoT) ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
 
-> [ Huawei's Hongmeng OS is for IoT, Android remains first choice ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
--->
+> Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community – trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
+>  
+> **I suggest** my re-spin of the MIT License aka “intrinsic-with” aka “intrinsic-fair-use”, Creative Commons distorts in “dangerous” aka “not-for-use” aka “deprecated-since”.
 
 
 **2019-07-01** Mo  
@@ -89,7 +89,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-24** Mo  
 [lang-EN] Microsoft GitOS
 
-> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows v ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
+> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows ~vs~ ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
 
 
 **2019-06-23** So  
