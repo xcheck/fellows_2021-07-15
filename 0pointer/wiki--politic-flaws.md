@@ -68,7 +68,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being **specific**, e.g.
 >  
-> [ :arrow_up_small: Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna (cross-check the formula via simple Mathematica emulation)
+> [ :arrow_up_small: Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna (fetch the formula via simple Mathematica emulation)
 
 
 **2019-06-27** Do  
