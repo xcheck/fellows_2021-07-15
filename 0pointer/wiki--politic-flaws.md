@@ -9,6 +9,10 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
 
 
+**2019-07-21** So  
+[lang-US] forget listen Orwell (…) **read Dangerous ~ Radio** ~ LL Cool J
+
+
 **2019-07-18** Do  
 [lang-DE] Menstruationstasse (nur in einer zerstörten welt kann eine 100% kontrolle garantiert werden)
 
