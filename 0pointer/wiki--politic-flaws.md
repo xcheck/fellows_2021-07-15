@@ -1,3 +1,21 @@
+<!--
+2019-07-22 Mo  
+[lang-ES] polla con pollo cumple apollo 11
+-->
+
+<!--
+2019-07-21 So  
+[lang-DE] GERMAN Momentum zur Verhinderung (West-NAZI-Armee → zersetzt → kompromitiert Ost-Volks-Friedens-Revolution zur Aufrechterhaltung des Deutschen Di-Trivials nach Nash)
+
+> angle/axis/pivot source: GERMAN Syndicate – Syndicate Sensation/Experience/Commit/Passionism
+
+```
+¿trigger incertidumbre? ← audit ← watch
+interferences → constrain → visible → ¡marked vice-versa busted!
+```
+-->
+
+
 # Politic Flaws
 
 `Date-Anchor Descending`
@@ -7,10 +25,14 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 [lang-DE] **open private data**
 
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
+>  
+> Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 
 
 **2019-07-21** So  
 [lang-US] forget listen Orwell (…) **read Dangerous ~ Radio** ~ LL Cool J
+
+> Deutschland wählt die Angriffsziele – AWACS-Überwachungsflugzeuge – täte man sich dann intern einmischen. **S**timme·wichtig·wertig·**Selbst**·**I**nvest.
 
 
 **2019-07-18** Do  
@@ -143,6 +165,8 @@ Yad Vashem denies to name an alternative (…) for their holdback expression „
 [lang-DE] **open private data**
 
 > **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
+>  
+> Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 PINNED -->
 
 
