@@ -45,6 +45,8 @@ antibakteriell → nicht absorbend mit Material-Innenschicht-Verschluss aus PTFE
 tags → Wechsel ohne Bakterienstauung regelmäßig (!)
 abends → Reinigung mit CO₂ bzw. Salz
 nachts → raus
+
+NICHT VERWECHSELN mit Kugel-Deo auf Basis von CO₂-Crème
 ```
 
 > [ :arrow_up_small: Confirmado científicamente: la copa menstrual es eficaz y segura ](https://elpais.com/sociedad/2019/07/17/actualidad/1563354188_284626.html)  
