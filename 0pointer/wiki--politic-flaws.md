@@ -41,7 +41,7 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 ```
 Einfache Lösung (…) Hygienebewusstsein
 
-antibakteriell → nicht absorbend mit Material-Innenschicht-Verschluss aus PTFE (Polytetrafluorethen) aka „Swarovski Dotierung“
+antibakteriell → nicht absorbend mit Material-Innenschicht-Verschluss aus PTFE (Polytetrafluorethylen) aka „Swarovski Dotierung“
 tags → Wechsel ohne Bakterienstauung regelmäßig (!)
 abends → Reinigung mit CO₂ bzw. Salz
 nachts → raus
