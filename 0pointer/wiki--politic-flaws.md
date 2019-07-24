@@ -35,10 +35,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > just add some lines to appreciate evaluations of DI-Pawlow
 
 
-**2019-07-21** So  
+**2019-07-20** Sa <!-- imported from notizblock -->  
 [lang-US] forget listen Orwell (…) **read Dangerous ~ Radio** ~ LL Cool J
 
-> Deutschland wählt die Angriffsziele – AWACS-Überwachungsflugzeuge – täte man sich dann intern einmischen. **S**timme·wichtig·wertig·**Selbst**·**I**nvest.
++ Deutschland wählt die Angriffsziele – AWACS-Überwachungsflugzeuge – täte man sich dann (?) intern einmischen
++ AWACS → Germany defines itself as **the systemic** Uploadfilter Server-Side
++ Client-Side → **S**timme·wichtig·wertig·**Selbst**·**I**nvest (kein Lösch-Vergessen, Nash-NAZI aus und vorbei)
 
 
 **2019-07-18** Do  
@@ -90,7 +92,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > Zircon ~vs~ Linux [ Android remains first choice (Huawei's Hongmeng OS is for IoT) ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
 
-> Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community – trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
+> Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community (…) trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
 >  
 > **I suggest** my re-spin of the MIT License aka “intrinsic-with” aka “intrinsic-fair-use”, Creative Commons distorts in “dangerous” aka “not-for-use” aka “deprecated-since”.
 
