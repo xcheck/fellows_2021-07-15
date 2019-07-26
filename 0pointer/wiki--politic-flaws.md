@@ -94,7 +94,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 > Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community (…) trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
 >  
-> **I suggest** my re-spin of the MIT License aka “intrinsic-with” aka “intrinsic-fair-use”, Creative Commons distorts in “dangerous” aka “not-for-use” aka “deprecated-since”.
+> **I suggest** my re-spin of the MIT License aka “intrinsic-with” aka “intrinsic-fair-use” w/ vital-explicit \_GPL() api, Creative Commons distorts in “dangerous” aka “not-for-use” aka “deprecated-since”.
 
 
 **2019-07-01** Mo  
