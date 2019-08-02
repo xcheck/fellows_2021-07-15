@@ -201,11 +201,11 @@ PINNED -->
 .**2019-05-22** Mi  
 .\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
-> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Bessere Filter führen unumgänglich zu einem höheren Verbrauch.“_**
+> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Bessere Filter führen unumgänglich zu einem höheren Verbrauch. Oft ignoriert wird Brennwert/Volumen <> Liter.“_**
 >  
 > meanwhile in Mexico they tax sugared beverages, since carbonated beverages stands for clean/purify/cure
 
-> google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung  
+> google… Abgase KlimaErwärmung Waldrodungen Urbanisierung Asphaltierung [ :arrow_up_small: Anleitung-zur-Rettung-der-Welt ](https://interaktiv.derbund.ch/2019/75-ideen-den-klimawandel-zu-stoppen/)  
 > link… Studien Forschungen Quellnachweise  
 >  
 > Sturmunwetter \<\> Artensterben
