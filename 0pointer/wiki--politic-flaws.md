@@ -106,11 +106,11 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > [ :arrow_up_small: Newton finally solved – 2019-07-04 ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) – prova matemática de uma identidade maligna (fetch the formula via simple Mathematica emulation)
 
-> progress [ :arrow_up_small: **new turing test** ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/blob/master/README.md#new-turing-test)\*  
-> \*\) mis commentarios 11 y 12 en [ :arrow_up_small: (…) marcan el futuro de la inteligencia artificial ][elpaisCoherenceAI] – ausgelöst durch [ :arrow_up_small: Forbes-Nash/Ch.Inninger-Seibt (…) n-te Abmahnung vom 31.07.2019 ][NashInningerSeibt]
+> progress [ :arrow_up_small: **new turing test**][mentalcareNewTuringTest]\*  
+> \*\) mis commentarios 11 y 12 en [ :arrow_up_small: Los intereses comerciales marcan el futuro de la inteligencia artificial ][elpaisCoherenceAI]
 
+[mentalcareNewTuringTest]: https://gitlab.com/mentalcare/things-i-dont-want-to-forget/blob/master/README.md#new-turing-test
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
-[NashInningerSeibt]: https://www.rollator-parcours.com/de/img/20190731-Nash-Inninger-Seibt--20190731-MsgY5-MietwohnungAbmahnungNash--MintWebmail/
 
 
 **2019-06-27** Do  
