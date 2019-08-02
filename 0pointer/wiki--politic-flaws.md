@@ -90,7 +90,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 >  
 > From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy (Organism-Model) ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
 >  
-> Zircon ~vs~ Linux [ Android remains first choice (Huawei's Hongmeng OS is for IoT) ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
+> Zircon ~vs~ Linux [ :arrow_up_small: Android remains first choice (Huawei's Hongmeng OS is for IoT) ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
 
 > Red tape is also a **license treatment**, which is a current object to be answered externally from the Linux kernel community (…) trending Linux to the quasi little – by marking \_GPL() functions (…) trending that GNU GPL is not an ulceration, allowing to compile it with propritary code. I am not aware of how to prevent the license assimilation by replacing code continuously as it goes. Last another way to block and slowdown code evolution.
 >  
@@ -201,7 +201,7 @@ PINNED -->
 .**2019-05-22** Mi  
 .\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
-> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20)**
+> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Bessere Filter führen unumgänglich zu einem höheren Verbrauch.“_**
 >  
 > meanwhile in Mexico they tax sugared beverages, since carbonated beverages stands for clean/purify/cure
 
