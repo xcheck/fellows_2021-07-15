@@ -113,7 +113,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
 
 > otro método de prueba en acorde\* con cuántica [ :arrow_up_small: El nuevo viral es una ecuación matemática y generó una "grieta" (…) ][lanacionPruebaCuanto] _&nbsp;« afuera Deutschem-Nash recto verso_  
-> \*\) aún siguiendo la cuántica, pregunta si existe una formula más pythonic y menos entrópica
+> \*\) aún siguiendo la cuántica, pregunta si existe una formula más pythonic y menos entrópica _&nbsp;« ¡ojo el Pávlov!_
 
 [lanacionPruebaCuanto]: https://www.lanacion.com.ar/sociedad/el-nuevo-viral-es-ecuacion-matematica-genero-nid2273795
 
