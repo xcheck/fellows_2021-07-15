@@ -112,6 +112,10 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 [mentalcareNewTuringTest]: https://gitlab.com/mentalcare/things-i-dont-want-to-forget/blob/master/README.md#new-turing-test
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
 
+> otro método de prueba en acorde con cuántica [ :arrow_up_small: El nuevo viral es una ecuación matemática y generó una "grieta" (…) ][lanacionPruebaCuanto] _&nbsp;« afuera Deutschem-Nash recto verso_
+
+[lanacionPruebaCuanto]: https://www.lanacion.com.ar/sociedad/el-nuevo-viral-es-ecuacion-matematica-genero-nid2273795
+
 
 **2019-06-27** Do  
 [lang-EN] Climate-Tax Buzz CO₂
