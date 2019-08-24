@@ -1,4 +1,4 @@
-# Liste — Diskussionen per Kommenta
+# Liste — Diskussionen per Kommentar
 
 {-REBUILD-PENDING-}
 
