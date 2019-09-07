@@ -185,7 +185,7 @@ Yad Vashem denies to name an alternative (…) for their holdback expression „
 **{+2019-06-10+}**{+ Mo+}  
 [lang-DE] **open private data**
 
-> **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt das bösartige Attaken nur so ausgeschlossen werden können.+}**
+> **{+Den Geheimdiensten den Druck nehmen zum Ziel zu werden, indem die eigenen/privaten Daten geteilt und öffentlich-integer für jeden zugänglich sind. Der Fall Edward Snowden zeigt, dass bösartige Attaken nur so ausgeschlossen werden können.+}**
 >  
 > Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 PINNED -->
