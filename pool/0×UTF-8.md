@@ -31,7 +31,7 @@ ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 (…)--yyyymmdd-Ask-(…)--Mint.pdf
 
 Msg     …, E-Mail, Instant, Browser
-·
+
 Tax     3te, Weiterleitung, via mich
 Ask     Wurfblatt, Kunst, Kurioses
 Bid     Urkunde, Zertifikat, Scheine
@@ -39,7 +39,7 @@ Bid     Urkunde, Zertifikat, Scheine
 --Mint  …, Screenshot, Print-to-file
 --Scan  Kopierer
 --Foto  Kamera
-·
+
 --FaxAB Fehlübertragung
 --FaxAO o. Sendebestätigung
 --FaxAZ m. Sendebestätigung
