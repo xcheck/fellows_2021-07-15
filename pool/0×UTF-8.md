@@ -21,16 +21,18 @@ https://rollparc.com/Kontakt
 ∴ _« …resolves!_
 
 
-``
-ein: (…)-yyyymmdd-yMsg-(…)--MintWebmail/
-aus: (…)-yyyymmdd-MsgYn-(…)--Min Webmail/
+```
+in: yyyymmdd-(basis)--yyyymmdd-yMsg-(…)--MintWebmail/
+ou: yyyymmdd-(basis)--yyyymmdd-MsgYn-(…)--MintWebmail/
+in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(…)--MintWebmail/
+ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 
 (…)--yyyymmdd-Tax-(…)--Scan.pdf
 (…)--yyyymmdd-Msg-(…)--Mint.pdf
 
 Msg    …, E-Mail, Instant, Browser
 -Fax    …,
-Tax    …, amtlich, professionell,
+-Tax    …, amtlich, professionell,
 -Ask    Abgabe – persönlich
 -Bid    Abholung – legitimiert direkt
 
