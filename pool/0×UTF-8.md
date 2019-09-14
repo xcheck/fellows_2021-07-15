@@ -28,7 +28,7 @@ in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(…)--MintWebmail/
 ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 
 (…)--yyyymmdd-Tax-(…)--Scan.pdf
-(…)--yyyymmdd Ask-(…)--Mint.pdf
+(…)--yyyymmdd-Ask-(…)--Mint.pdf
 
 Msg     …, E-Mail, Instant, Browser
 ·
