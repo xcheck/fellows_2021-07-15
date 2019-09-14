@@ -32,7 +32,7 @@ ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 
 Msg    …, E-Mail, Instant, Browser
 -Fax    …,
--Tax    …, amtlich, professionell,
+Tax    3te, Weiterleitung, via mich
 Ask    Wurfblatt, Kunst, Kurioses
 Bid    Urkunde, Zertifikat, Scheine
 
