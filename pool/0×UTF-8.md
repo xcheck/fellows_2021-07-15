@@ -28,21 +28,21 @@ in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(…)--MintWebmail/
 ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 
 (…)--yyyymmdd-Tax-(…)--Scan.pdf
-(…)--yyyymmdd-Msg-(…)--Mint.pdf
+(…)--yyyymmdd Ask-(…)--Mint.pdf
 
-Msg    …, E-Mail, Instant, Browser
+Msg     …, E-Mail, Instant, Browser
+·
+Tax     3te, Weiterleitung, via mich
+Ask     Wurfblatt, Kunst, Kurioses
+Bid     Urkunde, Zertifikat, Scheine
 
-Tax    3te, Weiterleitung, via mich
-Ask    Wurfblatt, Kunst, Kurioses
-Bid    Urkunde, Zertifikat, Scheine
-
---Mint …, Screenshot, Print-to-file
---Scan Kopierer
---Foto Kamera
-
+--Mint  …, Screenshot, Print-to-file
+--Scan  Kopierer
+--Foto  Kamera
+·
 --FaxAB Fehlübertragung
---FaxAO 
---FaxAZ 
+--FaxAO o. Sendebestätigung
+--FaxAZ m. Sendebestätigung
 ```
 
 
