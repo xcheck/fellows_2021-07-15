@@ -33,8 +33,8 @@ ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
 Msg    …, E-Mail, Instant, Browser
 -Fax    …,
 -Tax    …, amtlich, professionell,
--Ask    Abgabe – persönlich
--Bid    Abholung – legitimiert direkt
+-Ask    
+-Bid    Urkunde, Zertifikat, Scheine
 
 --Mint …, Screenshot, Print-to-file
 --Scan Kopierer
