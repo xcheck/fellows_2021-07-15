@@ -22,10 +22,10 @@ https://rollparc.com/Kontakt
 
 
 ```
-in: yyyymmdd-(basis)--yyyymmdd-yMsg-(…)--MintWebmail/
-ou: yyyymmdd-(basis)--yyyymmdd-MsgYn-(…)--MintWebmail/
-in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(…)--MintWebmail/
-ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(…)--Min Webmail/
+in: yyyymmdd-(basis)--yyyymmdd-yMsg-(subject)--MintWebmail/
+ou: yyyymmdd-(basis)--yyyymmdd-MsgYn-(subject)--MintWebmail/
+in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(subject)--MintWebmail/
+ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(subject)--Min Webmail/
 
 (…)-(…)--yyyymmdd-Tax-(…)--Scan.pdf
 (…)--(…)-yyyymmdd-Ask-(…)--Mint.pdf
