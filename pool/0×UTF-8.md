@@ -3,6 +3,9 @@
 #!/Rollout _« shebang desp. hashbang_  
 https://rollparc.com/Kontakt  
 
+[ :arrow_up_small: home/hu/html.html ](https://www.rollator-parcours.com/home/hu/html.html)  
+<a target="_blank" href="https://gitlab.com/help/user/markdown.md">:arrow_up_small: <b><i>.md</i></b> CommonMark specification &brvbar; gitlab</a>  
+<a target="_blank" href="https://github.com/mermaidjs/mermaid-gitbook/blob/master/content/flowchart.md">:arrow_up_small: <b><i>\`\`\`mermaid</i></b> Flowchart syntax &brvbar; github</a>
 
 :eject:  
 :arrow_up_small: :link: LⁱⁿK ∷ _« leave profile ↷ outra (regular link)_  
