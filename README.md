@@ -46,6 +46,6 @@ current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Pol
 ---
 **[ :leftwards_arrow_with_hook: README ](./README.md)**
 
-[ :arrow_right_hook: drop.in ](./drop_in.md) _« Incident w/ Police in 2017_
+[ :arrow_right_hook: drop.in ](./drop_in.md) _« Incident in 2017 due to Police_
 
 [ :arrow_right_hook: netiqette ](./netiqette.md)
