@@ -121,6 +121,6 @@ Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUw
 ---
 [ :arrow_right_hook: README ](./README.md)
 
-**[ :leftwards_arrow_with_hook: drop.in ](./drop_in.md) _« Incident in 2017_**
+**[ :leftwards_arrow_with_hook: drop.in ](./drop_in.md) _« Incident w/ Police in 2017_**
 
 [ :arrow_right_hook: netiqette ](./netiqette.md)
