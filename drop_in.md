@@ -6,7 +6,7 @@
 
 <br>
 
-# Incident in 2017 _« Polizei-Niederschlag, Polizei-Diebstahl und in Folge Abtransport und Zwangsmedikation… Verfahren schwebend._
+# Vorfall in 2017 _« Polizei-Niederschlag, Polizei-Diebstahl und in Folge Abtransport und Zwangsmedikation… Verfahren schwebend._
 
 Am 28.11.2017 kam es zu einem Polizeiverbrechen — gegen mich — nach Beschwerde von Nachbarin Fr. Karin Allegrini über zu laute Musik. Die Musik war aktuell auf Aus und in der Hand hielt ich einen Stock zwecks Rückengymnastik. Die Bitte um ein Gespräch wie Mediation wurde mit meiner Niederschlagung etc. beantwortet.
 
@@ -121,6 +121,6 @@ Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUw
 ---
 [ :arrow_right_hook: README ](./README.md)
 
-**[ :leftwards_arrow_with_hook: drop.in ](./drop_in.md) _« Incident in 2017 due to Police_**
+**[ :leftwards_arrow_with_hook: drop.in ](./drop_in.md) _« Vorfall in 2017 per Polizei_**
 
 [ :arrow_right_hook: netiqette ](./netiqette.md)
