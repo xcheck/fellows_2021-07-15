@@ -37,6 +37,6 @@ Qua<sup>**simodo**</sup> nur halt rückwärts…
 ---
 [ :arrow_right_hook: README ](./README.md)
 
-[ :arrow_right_hook: drop.in ](./drop_in.md) _« Incident in 2017 due to Police_
+[ :arrow_right_hook: drop.in ](./drop_in.md) _« Vorfall in 2017 per Polizei_
 
 **[ :leftwards_arrow_with_hook: netiqette ](./netiqette.md)**
