@@ -25,12 +25,11 @@ https://rollparc.com/Kontakt
 
 
 ```
-in: yyyymmdd-(basis)--yyyymmdd-yMsg-(subject)--MintWebmail/
-ou: yyyymmdd-(basis)--yyyymmdd-MsgYn-(subject)--MintWebmail/
-in: yyyymmdd--(distinct)-yyyymmdd-yMsg-(subject)--MintWebmail/
-ou: yyyymmdd--(distinct)-yyyymmdd-MsgYn-(subject)--Min Webmail/
+io: yyyymmdd´basis´--00000000-(SUBJECT).txt
+in: yyyymmdd´basis´--yyyymmdd´distinct´-(addressor)--yMsg-(subject)--MintWebmail/
+ou: yyyymmdd´basis´--yyyymmdd´distinct´-(addressor)--MsgYn-(subject)--MintWebmail/
 
-(…)-(…)--yyyymmdd-Tax-(…)--Scan.pdf
+(…)-(…)--yyyymmdd-yTaxYn-(…)--Scan.pdf
 (…)--(…)-yyyymmdd-Ask-(…)--Mint.pdf
 
 Msg     …, E-Mail, Instant, Browser
