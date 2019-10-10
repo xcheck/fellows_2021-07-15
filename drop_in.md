@@ -95,7 +95,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 **2018-02-08** Richterin <!-- C. für Cornelia¿ --> Dr. C. Grundmann (Landgericht TS) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 2018-01-03 in reverse to Dr. C. Grundmann, due to her denial for filing my appeal per e-mails, anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX.</sup> ](https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--20180103-AmtsgerichtTS--MsgY-BeschwerdeBetreuungUnterbringung--ScanFaxOK.pdf) (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
+> On 2018-01-03 in reverse to Dr. C. Grundmann, due to her denial for filing my appeal per e-mails, anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX.</sup> ](https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--20180103-AmtsgerichtTS--MsgY-BeschwerdeBetreuungUnterbringung-Vorenthaltung-der-Anklage--ScanFaxOK.pdf) (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
 
 **2018-03-02** Staatsanwältin <!-- B. für Barbara¿ --> B. Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_  
 **2018-03-29** Oberstaatsanwältin <!-- K. für Kristina? --> K. Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_
