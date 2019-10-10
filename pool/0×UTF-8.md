@@ -34,6 +34,9 @@ ou: yyyymmdd´basis´--yyyymmdd´distinct´-(addressor)--MsgYn-(subject)--MintWe
 
 Msg     …, E-Mail, Instant, Browser
 
+…YMsgY…  « contract with
+…yMsgy…  « agreement from
+
 Tax     3te, Weiterleitung, via mich
 Ask     Wurfblatt, Kunst, Kurioses
 Bid     Urkunde, Zertifikat, Scheine
