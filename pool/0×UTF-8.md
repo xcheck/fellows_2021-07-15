@@ -37,7 +37,7 @@ Msg     …, E-Mail, Instant, Browser
 …yMsgy…  « agreement from
 …YMsgY…  « contract with
 
-Tax     3te, Weiterleitung, via mich
+Tax     3te, Weiterleitung, via mich  « results most likely in yTaxY
 Ask     Wurfblatt, Kunst, Kurioses
 Bid     Urkunde, Zertifikat, Scheine
 
