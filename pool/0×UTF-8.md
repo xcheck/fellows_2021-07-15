@@ -45,7 +45,8 @@ Bid     Urkunde, Zertifikat, Scheine
 --Scan  Kopierer
 --Foto  Kamera
 
---FaxAO o. Sendebestätigung
+--FaxA o. Sendebestätigung
+--FaxB i. Bestätigung
 --FaxOK m. Sendebestätigung
 --FaxKo m. Fehlübertragung
 ```
