@@ -1,4 +1,4 @@
-## pool directory
+## fellows/pool repository files directory
 
 _resort & refactoring_
 
