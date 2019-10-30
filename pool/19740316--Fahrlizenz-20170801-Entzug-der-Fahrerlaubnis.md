@@ -9,27 +9,33 @@ rename/reference and [ :arrow_up_small: migrate documents ](https://drive.google
 
 + `_rsync/19740316--Fahrlizenz-20170801-Entzug-der-Fahrerlaubnis/`
 
+_new file names:_
+
 ```
 20170801--20170627-LandratsamtTS--yMsg-AnhoerungEntzugFahrerlaubnis--Scan.pdf
-←   Fahrerlaubnis 2017-06-27 in ¹ Scan ¬FeV AnhörungGelegenheit.pdf
-
 20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxO.pdf
-→   20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf
-←   Fahrerlaubnis 2017-07-04 fo ²FAX ¬FeV.pdf
-
+↑   20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf
 20170801--20170705-LandratsamtTS--yBid-BescheidEntzugFahrerlaubnis--Scan.pdf
-←   Fahrerlaubnis 2017-07-05 in ¹07-06 Scan ¬FeV 1wBescheid {Ca}.pdf
-
-20170801--20170713-PolizeiTraunreut--yMsg-ProtokollAbgabeFahrlizenz-freiwillig--Scan.pdf  « Abgabe ←
-←   Fahrerlaubnis 2017-07-13 in ¹ Scan ¬FeV LizenzÜbergabe Polizei-Traunreut.pdf
-
+20170801--20170713-PolizeiTraunreut--yMsg-ProtokollAbgabeFahrlizenz-freiwillig--Scan.pdf  « AbgabeFahrlizenz ←
 20170801--20170717-LandratsamtTS--yMsg-HinweisZwangsgeld-VorlageFahrlizenz--Scan.pdf
-←   Fahrerlaubnis 2017-07-17 in ¹07-26 Scan ¬FeV Zwangsgeld.pdf
-
 20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxO.pdf
-→   20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf
-←   Fahrerlaubnis 2017-08-01 fo ²FAX ¬FeV Widerspruch.pdf
+↑   20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf
 ```
+
+_new-old map:_
+
+| **new** file name | **old** file name
+| :--- | :---
+| 20170801--20170627-LandratsamtTS--yMsg-AnhoerungEntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-06-27 in ¹ Scan ¬FeV AnhörungGelegenheit.pdf
+| 20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxO.pdf | Fahrerlaubnis 2017-07-04 fo ²FAX ¬FeV.pdf
+| 20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf | 
+| 20170801--20170705-LandratsamtTS--yBid-BescheidEntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-07-05 in ¹07-06 Scan ¬FeV 1wBescheid {Ca}.pdf
+| 20170801--20170713-PolizeiTraunreut--yMsg-Protokoll{+AbgabeFahrlizenz+}-freiwillig--Scan.pdf | Fahrerlaubnis 2017-07-13 in ¹ Scan ¬FeV LizenzÜbergabe Polizei-Traunreut.pdf
+| 20170801--20170717-LandratsamtTS--yMsg-HinweisZwangsgeld-VorlageFahrlizenz--Scan.pdf | Fahrerlaubnis 2017-07-17 in ¹07-26 Scan ¬FeV Zwangsgeld.pdf
+| 20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxO.pdf | Fahrerlaubnis 2017-08-01 fo ²FAX ¬FeV Widerspruch.pdf
+| 20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf | 
+
+_old file names:_
 
 ```
 Fahrerlaubnis 2017-08-02 in ¹ Scan ¬FeV ReWiderspruch SpiegelKanal.pdf
