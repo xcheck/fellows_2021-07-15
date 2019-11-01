@@ -12,19 +12,19 @@ _new file names:_ `_rsync/citizenship/19740316--Fahrlizenz-20170801-Entzug-der-F
 ```
 20170801--20170627-LandratsamtTS--yMsg-AnhoerungEntzugFahrerlaubnis--Scan.pdf
 20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxO.pdf
-↑   20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf
+…   20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf
 20170801--20170705-LandratsamtTS--yBid-BescheidEntzugFahrerlaubnis-mit-Gebuehrenpflicht--Scan.pdf
 20170801--20170713-PolizeiTraunreut--yMsg-ProtokollAbgabeFahrlizenz-freiwillig--Scan.pdf  « AbgabeFahrlizenz ←
 20170801--20170717-LandratsamtTS--yMsg-HinweisFristVorlageFahrlizenz-sonst-Zwangsgeld--Scan.pdf
 20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxO.pdf
-↑   20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf
+…   20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf
 20170801--20170802-LandratsamtTS--yMsg-Nachfrage-da-Widerspruch-ohne-Unterschrift--Scan.pdf
 20170801--20170814-LandratsamtTS--yMsg-Nachfrage-da-Widerspruch-mit-ausstehender-Begruendung--Scan.pdf
 20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxO.pdf
-↑   20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxQ.pdf
+…   20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxQ.pdf
 20170801--20170831-LandratsamtTS--yBid-MahnungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf
 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxO.pdf
-↑   20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf
+…   20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf
 ```
 
 _new-old map:_
