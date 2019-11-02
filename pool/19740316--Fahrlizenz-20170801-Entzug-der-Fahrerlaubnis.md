@@ -5,6 +5,8 @@ _resort & refactoring_ &nbsp;« ’2017-08-01 `_rsync/citizenship/19740316--Fahr
 [ :arrow_up_small: Microsoft OneDrive _selected_ **Files Backup** ](https://1drv.ms/f/s!Aq_PeSmrJqGAhGqz8hjDQTaP2nmN)  
 [ :arrow_up_small: Google Drive _selected_ **Files Backup** ](https://drive.google.com/open?id=1cJHKHjY4krjxGk1EpNPin5ShNxyifH6N) _&nbsp; go: \_rsync › citizenship › 19740316--Fahrlizenz-20170801-Entzug-der-Fahrerlaubnis_
 
+### false diagnosis and examination from the beginning
+
 _new file names:_
 
 ```
