@@ -1,4 +1,4 @@
-## fellows/pool repository files directory
+## fellows/pool repository files
 
 _resort & refactoring_ &nbsp;« ’2017-08-01
 
