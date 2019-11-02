@@ -12,19 +12,23 @@ _new file names:_ `_rsync/citizenship/19740316--Fahrlizenz-20170801-Entzug-der-F
 ```
 20170801--20170627-LandratsamtTS--yMsg-AnhoerungEntzugFahrerlaubnis--Scan.pdf
 20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxO.pdf
-…   20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf
+20170801--20170704-LandratsamtTS--MsgY-AussageEntzugFahrerlaubnis--FaxQ.pdf  ✓
 20170801--20170705-LandratsamtTS--yBid-BescheidEntzugFahrerlaubnis-mit-Gebuehrenpflicht--Scan.pdf
 20170801--20170713-PolizeiTraunreut--yMsg-ProtokollAbgabeFahrlizenz-freiwillig--Scan.pdf  « AbgabeFahrlizenz ←
 20170801--20170717-LandratsamtTS--yMsg-HinweisFristVorlageFahrlizenz-sonst-Zwangsgeld--Scan.pdf
 20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxO.pdf
-…   20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf
+20170801--20170801-LandratsamtTS--BidY-WiderspruchBescheidEntzugFahrerlaubnis--FaxQ.pdf  ✓
 20170801--20170802-LandratsamtTS--yMsg-Nachfrage-da-Widerspruch-ohne-Unterschrift--Scan.pdf
 20170801--20170814-LandratsamtTS--yMsg-Nachfrage-da-Widerspruch-mit-ausstehender-Begruendung--Scan.pdf
 20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxO.pdf
-…   20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxQ.pdf
+20170801--20170821-LandratsamtTS--MsgY-AnfrageAbschriftenAkten-fuer-Begruendung-vom-Widerspruch--FaxQ.pdf  ✓
 20170801--20170831-LandratsamtTS--yBid-MahnungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf
 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxO.pdf
-…   20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf
+20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf  ✓
+20170801--20170929-LandratsamtTS--yBid-RegierungVorlageWiderspruch--Scan.pdf
+20170801--20171005-FinanzamtTS--yBid-AnkuendigungVollstreckungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf
+20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxO.pdf
+20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxQ.pdf  ✓
 ```
 
 _new-old map:_
@@ -46,6 +50,10 @@ _new-old map:_
 | 20170801--20170831-LandratsamtTS--yBid-MahnungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-08-31 in ¹09-04 Scan ¬FeV MahnungGebührProaktiv.pdf
 | 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxO.pdf | Fahrerlaubnis 2017-09-06 fo ²FAX ¬FeV Widerspruch MahnungGebührVorab.pdf
 | 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf | 
+| 20170801--20170929-LandratsamtTS--yBid-RegierungVorlageWiderspruch--Scan.pdf | Fahrerlaubnis 2017-09-29 in ¹10-04 Scan ¬FeV ReWiderspruch-℆-Regierung.pdf
+| 20170801--20171005-FinanzamtTS--yBid-AnkuendigungVollstreckungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-10-05 in ¹10-07 Scan ¬FeV VollstreckungZwangsgeld Finanzamt.pdf
+| 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxO.pdf | Fahrerlaubnis 2017-10-09 fo ²FAX ¬FeV-WiderspruchSuccFinanzamt-StreamPointPortal.pdf
+| 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxQ.pdf | 
 
 _old file names:_
 
