@@ -25,10 +25,12 @@ _new file names:_ `_rsync/citizenship/19740316--Fahrlizenz-20170801-Entzug-der-F
 20170801--20170831-LandratsamtTS--yBid-MahnungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf
 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxO.pdf
 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf  ✓
-20170801--20170929-LandratsamtTS--yBid-RegierungVorlageWiderspruch--Scan.pdf
+20170801--20170929-LandratsamtTS--yBid-RegierungVorlage-WiderspruchEntzugFahrerlaubnis--Scan.pdf
 20170801--20171005-FinanzamtTS--yBid-AnkuendigungVollstreckungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf
 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxO.pdf
 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxQ.pdf  ✓
+20170801--20171012-RegierungOberbayern--yBid-ZurueckweisungWiderspruchBescheid20170705-da-Widerspruch-ohne-Begruendung--Scan.pdf
+20170801--20171013-RegierungOberbayern--yBid-KostenrechnungWiderspruchBescheid20170705--Scan.pdf
 ```
 
 _new-old map:_
@@ -50,11 +52,13 @@ _new-old map:_
 | 20170801--20170831-LandratsamtTS--yBid-MahnungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-08-31 in ¹09-04 Scan ¬FeV MahnungGebührProaktiv.pdf
 | 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxO.pdf | Fahrerlaubnis 2017-09-06 fo ²FAX ¬FeV Widerspruch MahnungGebührVorab.pdf
 | 20170801--20170906-LandratsamtTS--BidY-WiderspruchMahnungGebuehrenpflicht-EntzugFahrerlaubnis--FaxQ.pdf | 
-| 20170801--20170929-LandratsamtTS--yBid-RegierungVorlageWiderspruch--Scan.pdf | Fahrerlaubnis 2017-09-29 in ¹10-04 Scan ¬FeV ReWiderspruch-℆-Regierung.pdf
+| 20170801--20170929-LandratsamtTS--yBid-RegierungVorlage-WiderspruchEntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-09-29 in ¹10-04 Scan ¬FeV ReWiderspruch-℆-Regierung.pdf
 | 20170801--20171005-FinanzamtTS--yBid-AnkuendigungVollstreckungGebuehrenpflicht-EntzugFahrerlaubnis--Scan.pdf | Fahrerlaubnis 2017-10-05 in ¹10-07 Scan ¬FeV VollstreckungZwangsgeld Finanzamt.pdf
 | 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxO.pdf | Fahrerlaubnis 2017-10-09 fo ²FAX ¬FeV-WiderspruchSuccFinanzamt-StreamPointPortal.pdf
 | 20170801--20171009-LandratsamtTS--BidY-FinanzamtWiderspruchVollstreckungFormfehler-StreamPointPortal--FaxQ.pdf | 
-
+| | Fahrerlaubnis 2017-10-12 in ¹10-13 Scan ¬FeV ¬WiderspruchBescheid-℆-RAeRegierung.pdf
+| 20170801--20171012-RegierungOberbayern--yBid-ZurueckweisungWiderspruchBescheid20170705-da-Widerspruch-ohne-Begruendung--Scan.pdf | Fahrerlaubnis 2017-10-13 in ¹10-16 Scan ¬FeV ¬WiderspruchRechnung-℆-ReRegierung.pdf
+| 20170801--20171013-RegierungOberbayern--yBid-KostenrechnungWiderspruchBescheid20170705--Scan.pdf | Fahrerlaubnis 2017-10-13 in ¹10-16 Scan ¬FeV ¬WiderspruchRechnung-℆-ReRegierung.pdf
 _old file names:_
 
 ```
