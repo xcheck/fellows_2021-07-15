@@ -212,7 +212,7 @@ PINNED -->
 .**2019-05-22** Mi  
 .\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
 
-> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Tank-Szenario vs. Anwendung vs. Lichthupe vs. Verbrauch. Oft ignoriert wird Brennwert/Volumen <> Liter.“_**
+> **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Tank-Szenario vs. Anwendung vs. Lichthupe vs. Verbrauch (Lang-/Kurzstrecke). Oft ignoriert wird Brennwert/Volumen <> Liter.“_**
 >  
 > meanwhile in Mexico they tax sugared beverages, since carbonated beverages stands for clean/purify/cure
 
