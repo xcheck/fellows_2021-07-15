@@ -29,6 +29,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 
 
+**2019-11-15** Fr  
+[lang-DE] **Agiles Management** – mit Windows und SAP
+
+> Es scheitert am deutschen denken: „Logik-Bruch“ &nbsp;\_
+
+
 .**2019-07-24** Mi  
 .[lang-DE] **KI med. Arzt** – Eid des Hippokrates
 
