@@ -32,6 +32,10 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 **2019-11-15** Fr  
 [lang-DE] **Agiles Management** – mit Windows und SAP
 
+<!--
+Agile … flat, labeled, collections, ← fluid metas, float/division, indermediary execution right
+-->
+
 > Es scheitert am deutschen denken: „Logik-Bruch“ &nbsp;\_
 
 
