@@ -162,11 +162,11 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 
 **2019-06-20** Do  
-[lang-EN] BMW México (…) Volkswagen de México → German press black-list-since **concentration camp** terrorism on human rights
+[lang-EN] BMW México (…) Volkswagen de México → German press black-list-since topic: **concentration camp** terrorism on human rights
 
 Yad Vashem denies to name an alternative (…) for their holdback expression „KZ concentration camps“
 
-> [ :arrow_up_small: your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps euphorism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
+> [ :arrow_up_small: your tweet disinfo ](https://twitter.com/yadvashem/status/1141267813249835008?s=20) by mixup… DEATH CAMPS aka inner goal of NAZI camps. AOC does not refer to the German concentration camps ~~euphorism~~ euphemism. can we put this to domestic terrorism? the Israeli Holocaust museum* should be more concise and less verunglimpfen. alert it as KZ death camps. re-contact at any time. sync diffsync.
 >  
 > DHS ripped 1000s of children from their parents & put them in cages w inhumane conditions.
 >  
