@@ -39,20 +39,19 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 {+(Kurzform)+}
 
 [pol28-mmailAnzPoli2AG]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171217-AnzeigePolizeiniederschlag2Amtsgericht/
-[pol28-mmailRapBetr2LRA]: https://rollparc.com/drop.in/IMG_20171220_162942461_Schwellwert127.png
-[pol28-mmailRapBetr2LRAScan]: https://rollparc.com/drop.in/Protokoll--ColdRapportLRABetreuung-Wegfahrt-20171220Scan.pdf
+[pol28-mmailRapBetr2LRA]: https://1drv.ms/u/s!Aq_PeSmrJqGAhmuz8hjDQTaP2nmN "IMG_20171220_162942461_Schwellwert127.png"
+[pol28-mmailRapBetr2LRAScan]: https://1drv.ms/b/s!Aq_PeSmrJqGAhniz8hjDQTaP2nmN "Protokoll--ColdRapportLRABetreuung-Wegfahrt-20171220Scan.pdf"
 [pol28-mmailRapFami2RAin]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171222-RapportFamilienrecht2RAin/
 [pol28-twitterHTML]: https://rollparc.com/drop.in/Twitter--HametnerUwe-20171223-Quotes/
 [pol28-mmailaPflegeset2ISK]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171224-VerwehrtPflegeset2InnSalzachKlinik/
 
-[pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe
+[pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe/
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
 [ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] _« plus Flyer in Papier → Nachbarn+Haus/Stadt/Polizei – nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt – mehr als nur unhaltbar mangels Beweisen_  
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
-[pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListeAnhang]:  https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/ATTACH/Fahrerlaubnis%202017-10-23%20fo%20°E-Mail%20¬FeV-PamfleteAushang-GitlabFellows.pdf
 
 
 :call_me_hand_tone1:
@@ -90,12 +89,12 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 > Me, denoted at Police – first from **Ms. Marina Notzke** – the doughter of the second caller Ms. Karin Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
 
-[drop_farceproto]: https://rollparc.com/drop.in/Polizeibericht-20171128-Eberl-20180118Holl.pdf
-[drop_in]: https://rollparc.com/drop.in/Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf
+[drop_farceproto]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnGz8hjDQTaP2nmN "Polizeibericht-20171128-Eberl-20180118Holl.pdf"
+[drop_in]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnaz8hjDQTaP2nmN "Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf"
 
 **2018-02-08** Richterin <!-- C. für Cornelia¿ --> Dr. C. Grundmann (Landgericht TS) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>one HTML archive on 2017-12-17</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>via FAX</sup>](https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--20180103-AmtsgerichtTS--MsgY-BeschwerdeBetreuungUnterbringung-Vorenthaltung-der-Anklage--ScanFaxOK.pdf). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
+> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>one HTML archive on 2017-12-17</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>via FAX</sup>](https://1drv.ms/b/s!Aq_PeSmrJqGAg3Oz8hjDQTaP2nmN "20171128--20180103-AmtsgerichtTS--BidY-BeschwerdeBeschlussBetreuungUnterbringung-da-Anklage-vorenthalten--ScanFaxOK.pdf"). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
 
 **2018-03-02** Staatsanwältin <!-- B. für Barbara¿ --> B. Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_  
 **2018-03-29** Oberstaatsanwältin <!-- K. für Kristina? --> K. Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_
