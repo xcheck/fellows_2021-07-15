@@ -28,13 +28,13 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 
 ##### …aus der Geschlossenen online connected seit 2017-12-08 <sup>Handy</sup> plus erweitert ab 2017-12-22 <sup>Netbook</sup> | konfisziert zum 2018-01-07
 
-[ :arrow_up_small: Polizeiniederschlag, Polizeidiebstahl zur Anzeige → Amtsgericht TS, ~~Polizei-Wasserburg,~~ ISK-Wasserburg, Cc Hias Florian Karin <sup>als HTML-Archiv per 2017-12-17 (E-Mail)</sup> ][pol28-mmailAnzPoli2AG]  
+[ :arrow_up_small: Polizeiniederschlag, Polizeidiebstahl zur Anzeige → Amtsgericht TS, ~~Polizei-Wasserburg,~~ ISK-Wasserburg, Cc Hias Florian Karin <sup>als HTML-Archiv (E-Mail) per 2017-12-17</sup> ][pol28-mmailAnzPoli2AG]  
 [ :arrow_up_small: Polizeiniederschlag… cold rapport Hr. Wegfahrt → dito LRA TS Betreuung, Amtsgericht TS, Cc Florian Karin <sup>als PNG-Foto per 2017-12-20</sup> ][pol28-mmailRapBetr2LRA] bzw. [ :arrow_up_small: meine Gesprächsnotiz <sup>als PDF-Scan</sup> ][pol28-mmailRapBetr2LRAScan]  
-[ :arrow_up_small: Polizeiniederschlag… cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht TS, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-22 (E-Mail)</sup> ][pol28-mmailRapFami2RAin]  
+[ :arrow_up_small: Polizeiniederschlag… cold rapport Fr. Ehrlicher → dito RAin Familienrecht, Amtsgericht TS, Cc Florian Karin <sup>als HTML-Archiv (E-Mail) per 2017-12-22</sup> ][pol28-mmailRapFami2RAin]  
 [ :arrow_up_small: Polizeiniederschlag… in der Geschlossenen → Twitter <sup>als HTML-Archiv in \[2017-12-09; 2017-12-23\]</sup> ][pol28-twitterHTML] _« Markus mit aggressivem Verhalten im Affekt_  
-[ :arrow_up_small: Polizeiniederschlag… ¬Pflegeset → ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2017-12-24 (E-Mail)</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
+[ :arrow_up_small: Polizeiniederschlag… ¬Pflegeset → ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv (E-Mail) per 2017-12-24</sup> ][pol28-mmailaPflegeset2ISK] _« der Pfleger Daniel möchte gern_  
 
-[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv per 2017-12-25 (E-Mail)</sup> ][pol28-mmailRundmailAufruf2Kontakte]
+[ :arrow_up_small: Rundmail zu Polizeiniederschlag ff. Aufruf/Hilfe/Information → Kontakte <sup>als HTML-Archiv (E-Mail) per 2017-12-25</sup> ][pol28-mmailRundmailAufruf2Kontakte]
 
 {+(Kurzform)+}
 
@@ -49,7 +49,7 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
-[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv per 2017-10-23 (E-Mail)</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] _« plus Flyer in Papier → Nachbarn+Haus/Stadt/Polizei – nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt – mehr als nur unhaltbar mangels Beweisen_  
+[ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv (E-Mail) per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] _« plus Flyer in Papier → Nachbarn+Haus/Stadt/Polizei – nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt – mehr als nur unhaltbar mangels Beweisen_  
 
 [pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171023-RundschreibenGespraechsaufruf2WohnsitzListe/
 
@@ -68,7 +68,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 ### Missachtung der Patientenverfügung _« Zwangsmedikation statt Selbstbestimmungsrecht_
 
 :arrow_lower_right: jetzt <sup>seit 2017-12-29</sup> mit Zwangsmedikation <sup>trotz Patientenverfügung vom Notar</sup>  
-[ :arrow_up_small: Notruf bezüglich Missachtung der Patientenverfügung! → Notar (ink. Tel), Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv per 2018-01-02 (E-Mail)</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
+[ :arrow_up_small: Notruf bezüglich Missachtung der Patientenverfügung! → Notar (ink. Tel), Amtsgericht TS, ISK-Wasserburg, Cc Florian Karin <sup>als HTML-Archiv (E-Mail) per 2018-01-02</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20180102-MissachtungPatientenverfuegung2NotarCC/)
 
 
 :call_me_hand_tone3:
@@ -94,7 +94,7 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 **2018-02-08** Richterin <!-- C. für Cornelia¿ --> Dr. C. Grundmann (Landgericht TS) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>obiges HTML-Archive per 2017-12-17 (E-Mail)</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX</sup>](https://1drv.ms/b/s!Aq_PeSmrJqGAg3Oz8hjDQTaP2nmN "20171128--20180103-AmtsgerichtTS--BidY-BeschwerdeBeschlussBetreuungUnterbringung-da-Anklage-vorenthalten--ScanFaxOK.pdf"). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
+> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>obiges HTML-Archiv (E-Mail) per 2017-12-17</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX</sup>](https://1drv.ms/b/s!Aq_PeSmrJqGAg3Oz8hjDQTaP2nmN "20171128--20180103-AmtsgerichtTS--BidY-BeschwerdeBeschlussBetreuungUnterbringung-da-Anklage-vorenthalten--ScanFaxOK.pdf"). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
 
 **2018-03-02** Staatsanwältin <!-- B. für Barbara¿ --> B. Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_  
 **2018-03-29** Oberstaatsanwältin <!-- K. für Kristina? --> K. Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_
@@ -107,11 +107,11 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 <!--
 **2019-03-12** Ablehnung von Kanzlei Tschofen II (RA Julian Praun) FA Strafrecht·Mietrecht·usw. _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt~~_  
 -->
-**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML Archiv per 2019-03-26 (E-Mail)</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_
+**2019-03-12** [ :arrow_up_small: Terminanfrage bei Kanzlei Dr. Walter Appel, FA Strafrecht <sup>als HTML-Archiv (E-Mail) per 2019-03-26</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190326-RechtswegInninger2Appel/) _« ~~Rechtsverfahren gegen Vermieterin Inninger-Seibt – Ticker~~_
 
 > …**es bleibt nur**, das Anklageverfahren also **das Verbrechen öffentlich zu machen**.
 
-**2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML Archiv per 2019-05-06 (E-Mail)</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_  
+**2019-04-18** [ :arrow_up_small: Enquête zur Patientenverfügung → LRA TS Betreuung, Notar <sup>als HTML-Archiv (E-Mail) per 2019-05-06</sup> ](https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20190506-EnquetePatientenverfuegung2LandratsamtNotar/) _« Patientenverfügung unwirksam in Deutschland !_  
 **2019-04-21** [ :arrow_up_small: Enquête zur Patientenverfügung → www.test.de <sup>als Kommentar</sup> ](https://www.test.de/nutzerprofil/xcheck/) _« zum Special "Vorsorgevollmacht & Patientenverfügung So sorgen Sie rechtlich vor"_
 
 Anderes und Dies auf [ :arrow_up_small: Twitter ](https://twitter.com/HametnerUwe)
