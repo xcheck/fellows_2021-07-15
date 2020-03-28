@@ -4,6 +4,7 @@
 [ :arrow_right_hook: drop.in Gedankenfetzen ](https://gitlab.com/xcheck/fellows/snippets/1850418)  
 [ :arrow_right_hook: drop.in erweiterter Record ](https://gitlab.com/xcheck/fellows/snippets/1850736)
 
+
 <br>
 
 # Vorfall in 2017 _« Polizei-Niederschlag, Polizei-Diebstahl und in Folge Abtransport und Zwangsmedikation… Verfahren schwebend._
@@ -47,6 +48,7 @@ NB. Die Polizeistation Traunreut verweigert, die Geldbörse betreffend, eine Ver
 
 [pol28-mmailRundmailAufruf2Kontakte]: https://rollparc.com/drop.in/MobileWebmail--HametnerUwe-20171225-RundmailAufrufHilfeInformation2KontakteListe/
 
+
 ##### …siehe auch mein Gesprächsaufruf vom 2017-10-23 im Vorfeld
 
 [ :arrow_up_small: Rundschreiben zum Gesprächsaufruf → Verwaltung/Kontakte <sup>als HTML-Archiv (E-Mail) per 2017-10-23</sup> ][pol28-mmailRundschreibenGespraechsaufruf2WohnsitzListe] _« plus Flyer in Papier → Nachbarn+Haus/Stadt/Polizei – nach durch und durch falschem Schreiben von meiner Vermieterin Christine Inninger-Seibt – mehr als nur unhaltbar mangels Beweisen_  
@@ -84,17 +86,18 @@ Eine Verneinung und Richtigstellung wurde erstellt… die Lügen haben ein Eigen
 
 …in der Geschlossenen **offline seit 07.01.2018** da Handy und Netbook vom Personal konfisziert.
 
-**2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][drop_farceproto] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Denis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
-**2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][drop_in] _« FAX-Versand verzögert bis zum 25.01. vom Personal_
+**2018-01-18** [ :arrow_up_small: Polizeiprotokoll <sup>als PDF-Scan</sup> ][police_protocol] _« FAX-Eingang an ISK-Wasserburg von Zwangs-Betreuer Denis Holl (eingesetzt ab 15.12.2017 bis 27.11.2018)_  
+**2018-01-21** [ :arrow_up_small: Meine Polizeiprotokoll-Stellungnahme → Landgericht TS <sup>als PDF-Scan</sup> ][police_protocol_ex] _« FAX-Versand verzögert bis zum 25.01. vom Personal_
 
 > Me, denoted at Police – first from **Ms. Marina Notzke** – the doughter of the second caller Ms. Karin Allegrini … as by all indications. This information was missing. Read and confirm yourself. {+Today 2019-04-29+}.
 
-[drop_farceproto]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnGz8hjDQTaP2nmN "Polizeibericht-20171128-Eberl-20180118Holl.pdf"
-[drop_in]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnaz8hjDQTaP2nmN "Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf"
+[police_protocol]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnGz8hjDQTaP2nmN "Polizeibericht-20171128-Eberl-20180118Holl.pdf"
+[police_protocol_ex]: https://1drv.ms/b/s!Aq_PeSmrJqGAhnaz8hjDQTaP2nmN "Polizeiniederschlagung-20171128-StellungnahmeHametnerUwe-20180121.pdf"
+
 
 **2018-02-08** Richterin <!-- C. für Cornelia¿ --> Dr. C. Grundmann (Landgericht TS) ignoriert Polizeiniederschlagung, Polizeidiebstahl und beschließt die Zwangsmedikation nach "Dr. med. Nocebo" _« Notruf beim Notar bezüglich Missachtung der Patientenverfügung! vom Stationstelefon im Beisein vom Personal_
 
-> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>obiges HTML-Archiv (E-Mail) per 2017-12-17</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX</sup>](https://1drv.ms/b/s!Aq_PeSmrJqGAg3Oz8hjDQTaP2nmN "20171128--20180103-AmtsgerichtTS--BidY-BeschwerdeBeschlussBetreuungUnterbringung-da-Anklage-vorenthalten--ScanFaxOK.pdf"). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
+> On 2018-01-03 in reverse to Dr. C. Grundmann and due to her denial for filing [ :arrow_up_small: my appeal via e-mails <sup>obiges HTML-Archiv (E-Mail) per 2017-12-17</sup>][pol28-mmailAnzPoli2AG], anew I did submit [ :arrow_up_small: my policeman & lawsuit appeal <sup>per FAX</sup>](https://1drv.ms/b/s!Aq_PeSmrJqGAg3Oz8hjDQTaP2nmN "20180103-AmtsgerichtTS--BidY-BeschwerdeBeschlussBetreuungUnterbringung-da-Anklage-vorenthalten--ScanFaxOK.pdf"). (…) She has had been unable to reject having enough intake respecting the policeman delinquency since.
 
 **2018-03-02** Staatsanwältin <!-- B. für Barbara¿ --> B. Dallmayer (Traunstein): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_  
 **2018-03-29** Oberstaatsanwältin <!-- K. für Kristina? --> K. Greim (München): Ermittlungen eingestellt gegen Polizist POM N. Steinmetz _« kein Nachgang zum Polizei-Diebstahl_
