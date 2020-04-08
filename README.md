@@ -17,7 +17,7 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 [ :arrow_up_small: Versteckte Botschaften <sup>ISBN 978-3-95788-103-8</sup> ][steganographie]  
 
 
-[netupload]: https://www.rollator-parcours.com/include/0ffSite/fritzerPointRoute-Online-Zähler.csv
+[netupload]: https://1drv.ms/u/s!Aq_PeSmrJqGAhn6z8hjDQTaP2nmN "fritzerPointRoute-Online-Zähler.csv"
 [pamflete]: https://gitlab.com/xcheck/fellows/snippets/1680925
 [hypnose]: https://www.piper.de/buecher/du-wirst-tun-was-ich-will-isbn-978-3-492-30410-8
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
