@@ -144,7 +144,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 
 **2019-06-24** Mo  
-[lang-EN] Microsoft GitOS
+[lang-EN] Microsoft GitOS – kinda self-inherited recompilation
 
 > tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows ~vs~ ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
 
