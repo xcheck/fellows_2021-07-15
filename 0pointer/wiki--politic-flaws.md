@@ -34,6 +34,10 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > [ :arrow_up_small: AMD Joins The Academy Software Foundation, **Open Shading Language** Becomes Hosted Project &brvbar; Phoronix ](https://phoronix.com/scan.php?page=news_item&px=AMD-Academy-Software-OSL)
 
+[lang-EN] **AI photogrammetry** – Open Shading Language
+
+> learn to put polygon, REM to drilldown 
+
 
 **2019-11-15** Fr  
 [lang-DE] **Agiles Management** – mit Windows und SAP
