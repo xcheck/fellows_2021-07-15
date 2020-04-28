@@ -36,7 +36,7 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 [lang-EN] **AI photogrammetry** – Open Shading Language
 
-> learn to put polygon, REM to drilldown 
+> learn to put polygon, recreate object, associate tag, REM to drilldown 
 
 
 **2019-11-15** Fr  
