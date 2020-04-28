@@ -29,6 +29,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 
 
+**2020-04-28** Di  
+[lang-DE] **KI Fotogrammetrie** – Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup>
+
+> [ :arrow_up_small: AMD Joins The Academy Software Foundation, **Open Shading Language** Becomes Hosted Project &brvbar; Phoronix ](https://phoronix.com/scan.php?page=news_item&px=AMD-Academy-Software-OSL)
+
+
 **2019-11-15** Fr  
 [lang-DE] **Agiles Management** – mit Windows und SAP
 
