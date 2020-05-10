@@ -29,6 +29,12 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > Quantenverschlüsselung: Ideale Linien-Punkte für Elliptische Kurven sind per KI leicht zu ermitteln. Lineare-Methoden sind für Quantencomputer unlösbar (…) hier empfiehlt sich der entfernte Gadgetaufruf statt Bruteforce-Attacken (das macht jeden Geheimdienst zum lukrativen Ziel).
 
 
+**2020-05-10** So  
+.[lang-EN] **Coronavirus vaccine** – [ :arrow_up_small: inactivate sample culture ](https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide#Sterilization_of_biomedical_materials)  
+
+> accelerate immunoglobulin autoproduction… focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](https://rollparc.com/femcup)
+
+
 **2020-04-28** Di  
 [lang-DE] **KI Fotogrammetrie** – Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup>
 
