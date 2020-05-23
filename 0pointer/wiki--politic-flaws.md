@@ -126,7 +126,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-07-01** Mo  
 [lang-ES] Brasil Campeão – Video Game Competition <sup>nash-newton Malign-Mesh</sup>
 
-> **progressão** por duas grupos pretendente mundial, exigente en superar, **próspero** decisão en qualquer meta → a) mundo facto physisk ~vs~ b) transformação de térreo virtual com adaptação virtuosa (the latter pythonic)
+> **progressão** por duas grupos pretendente mundial, exigente en superar, **próspero** decisão en qualquer meta → a) mundo facto physisk ~vs~ b) transformação de térreo virtual com adaptação virtuosa (the latter pythonic i.e. matrix shift cheat)
 >  
 > nash-porquería o nash-equilibrio-**disinfo** → survival of the malicious by opt-out an assassin crash taking the other inklusively (…) you solus on the benefit of the mal (…) punish discrepancy, opacity in being **specific**, e.g.
 >  
