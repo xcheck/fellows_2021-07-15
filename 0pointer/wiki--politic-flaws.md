@@ -30,7 +30,8 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 
 **2020-05-10** So  
-.[lang-EN] **Coronavirus vaccine** – [ :arrow_up_small: inactivate sample culture (sCO₂) ](https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide#Sterilization_of_biomedical_materials) – Gauck-Luftschutzjungle  
+.[lang-DE] **Coronavirusimpfung retard** – darknet-, deepweb-neuland ??  
+[lang-EN] **Coronavirus vaccine** – [ :arrow_up_small: inactivate sample culture (sCO₂) ](https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide#Sterilization_of_biomedical_materials) [ :arrow_up_small: T-Cell Cloning fairy tale ](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=t+cell+cloning+fairy+tale) – Gauck-Luftschutzjungle  
 
 > accelerate immunoglobulin autoproduction… ‥focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](https://rollparc.com/femcup)
 
