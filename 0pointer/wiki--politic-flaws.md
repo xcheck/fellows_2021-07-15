@@ -236,8 +236,8 @@ PINNED -->
 [thepost20190527eu-political-space]: https://www.washingtonpost.com/opinions/2019/05/27/amid-fractures-europe-is-becoming-single-political-space/
 
 
-.**2019-05-22** Mi  
-.\[lang-DE\] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee,
+**2019-05-22** Mi  
+[lang-DE] CO₂-Steuer-Quatsch → Nano-Partikel u. Fein-Staub → Saurer Regen, Schwarzer Schnee, &nbsp;{-¬Wind-Solar-METHANGAS (CH₄): Laser-Zündung-}
 
 > **don't confuse Rußpartikel. notorious. did we talk about climate. compare nitrogen dioxide (NO₂) to stats on lung cancer {+fairytale for DIESEL+} (…) which confirms [ :arrow_up_small: Ende für DIESEL sofort! ](https://twitter.com/HametnerUwe/status/1114507480330063879?s=20) _&nbsp;« GERMANY: „Tank-Szenario vs. Anwendung vs. Lichthupe vs. Verbrauch (Lang-/Kurzstrecke). Oft ignoriert wird Brennwert/Volumen <> Liter.“_**
 >  
