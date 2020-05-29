@@ -9,9 +9,10 @@
 
 > angle/axis/pivot source: GERMAN Syndicate – Syndicate Sensation/Experience/Commit/Passionism
 
-```
+``` demux current
 ¿trigger incertidumbre? ← audit ← watch
 interferences → constrain → visible → ¡marked vice-versa busted!
+trace hotspots: layer/slot/interface ~vs~ core/fundamentals <resp> time/history/context ~vs~ principles|objectives|rudiments
 ```
 -->
 
