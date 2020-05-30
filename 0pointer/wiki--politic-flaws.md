@@ -14,6 +14,10 @@
 interferences → constrain → visible → ¡marked vice-versa busted!
 trace hotspots: layer/slot/interface ~vs~ core/fundamentals <resp> time/history/context ~vs~ principles|objectives|rudiments
 ```
+
+more  
+2020-04-28 [lang-EN] **AI photogrammetry "learn to put polygon, "  
+2019-07-24 [lang-DE] **KI med. Arzt "**Mathematische Arithmetik"  
 -->
 
 
@@ -60,7 +64,20 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 .**2019-07-24** Mi  
 .[lang-DE] **KI med. Arzt** – Eid des Hippokrates
 
-> just add some lines to appreciate evaluations of DI-Pawlow
+> just add some lines to appreciate evaluations of DI-Pawlow w/ health track
+
+> **Mathematische Arithmetik**  
+> Es wäre hilfreich mathematische Ausdrücke zu entwickeln, die die Bildsprache der Quantenmechanik  
+> a) einfach,  
+> b) intuitiv,  
+> c) minimal entropisch  
+> wiederspiegeln. Auch eine Bottom-Up Methode würde die Wissenschaft hier fördern.  
+>  
+> **Verständnis-Axiome**  
+> überprüfen n. 2 Factor Decisions  
+> [x] Standard-Ergebnis stimmig/real  
+> [x] Standard-Ergebn. harmonisch/pythonic  
+> [x] Standard-Ergebn. nähern/recurse  
 
 
 **2019-07-20** Sa <!-- imported from notizblock -->  
