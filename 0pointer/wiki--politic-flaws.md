@@ -66,18 +66,18 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 
 > just add some lines to appreciate evaluations of DI-Pawlow w/ health track
 
-> **Mathematische Arithmetik**  
+> **Mathematische Arithmetik** &nbsp;[ :arrow_right_hook: Innerster Kreis…? ](https://gitlab.com/xcheck/fellows/-/wikis/religionen#intelligenz) [ :arrow_right_hook: was wertig und was wichtig ](https://gitlab.com/xcheck/fellows/-/issues/3#note_200949569)  
 > Es wäre hilfreich mathematische Ausdrücke zu entwickeln, die die Bildsprache der Quantenmechanik  
 > a) einfach,  
 > b) intuitiv,  
 > c) minimal entropisch  
 > wiederspiegeln. Auch eine Bottom-Up Methode würde die Wissenschaft hier fördern.  
 >  
-> **Verständnis-Axiome**  
+> **Verständnis-Axiome** &nbsp;`Realraum``Bildwert`  
 > überprüfen n. 2 Factor Decisions  
-> [x] Standard-Ergebnis stimmig/real  
-> [x] Standard-Ergebn. harmonisch/pythonic  
-> [x] Standard-Ergebn. nähern/recurse  
+> [x] Standard-Ergebnis stimmig/real &nbsp;`③`  
+> [x] Standard-Ergebn. harmonisch/pythonic &nbsp;`② pythonic — simple, intuitive, non-entropy · PAVLÓV-free and NASH-hardened`  
+> [x] Standard-Ergebn. nähern/recurse &nbsp;`①`  
 
 
 **2019-07-20** Sa <!-- imported from notizblock -->  
