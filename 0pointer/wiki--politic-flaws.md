@@ -66,7 +66,7 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 
 > just add some lines to appreciate evaluations of DI-Pawlow w/ health track
 
-> **Mathematische Arithmetik** &nbsp;[ :arrow_right_hook: Innerster Kreis…? ](https://gitlab.com/xcheck/fellows/-/wikis/religionen#intelligenz) [ :arrow_right_hook: was wertig und was wichtig ](https://gitlab.com/xcheck/fellows/-/issues/3#note_200949569)  
+> **Mathematische Arithmetik** &nbsp;[ :arrow_right_hook: Innerster Kreis…? ](https://gitlab.com/xcheck/fellows/-/wikis/religionen#intelligenz) [ :arrow_right_hook: was wertig und was wichtig ](https://gitlab.com/xcheck/fellows/-/issues/3#note_200949569) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md)  
 > Es wäre hilfreich mathematische Ausdrücke zu entwickeln, die die Bildsprache der Quantenmechanik  
 > a) einfach,  
 > b) intuitiv,  
