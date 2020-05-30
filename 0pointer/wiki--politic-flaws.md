@@ -40,7 +40,7 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > accelerate immunoglobulin autoproduction… ‥focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](https://rollparc.com/femcup)
 
-> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md)
+> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md) _&nbsp;« entropy density (not border)_
 
 
 **2020-04-28** Di  
