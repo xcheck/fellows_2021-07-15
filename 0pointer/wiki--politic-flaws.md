@@ -42,6 +42,8 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md) _&nbsp;« entropy density (not border)_
 
+> [.:arrow_up_small: Hahnemann (* 10. April 1755) ](https://de.wikipedia.org/wiki/Samuel_Hahnemann) kämpft für’s **impfen** mit [ :arrow_up_small: Globuli ](https://de.wikipedia.org/wiki/Globuli) **klein dosiert, über zwei Wochen, trocken**
+
 
 **2020-04-28** Di  
 [lang-DE] **KI Fotogrammetrie** – Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup>
