@@ -44,6 +44,7 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > [.:arrow_up_small: Hahnemann (* 10. April 1755) ](https://de.wikipedia.org/wiki/Samuel_Hahnemann) kämpft für’s **impfen** mit [ :arrow_up_small: Globuli ](https://de.wikipedia.org/wiki/Globuli) **klein dosiert, über zwei Wochen, trocken**
 
+> [ :arrow_up_small: quantum-inspired optical sensor ](https://phys.org/news/2020-06-physicists-quantum-inspired-optical-sensor.html) in place for on air {+virus mutual genome detection+}
 
 **2020-04-28** Di  
 [lang-DE] **KI Fotogrammetrie** – Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup>
