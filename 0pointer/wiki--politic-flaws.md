@@ -40,10 +40,8 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > accelerate immunoglobulin autoproduction… ‥focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](https://rollparc.com/femcup)
 
-> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md) _&nbsp;« entropy density (not border)_
-
-> [.:arrow_up_small: Hahnemann (* 10. April 1755) ](https://de.wikipedia.org/wiki/Samuel_Hahnemann) kämpft für’s **impfen** mit [ :arrow_up_small: Globuli ](https://de.wikipedia.org/wiki/Globuli) **klein dosiert, über zwei Wochen, trocken**
-
+> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md) _&nbsp;« entropy density (not border)_  
+> [.:arrow_up_small: Hahnemann (* 10. April 1755) ](https://de.wikipedia.org/wiki/Samuel_Hahnemann) kämpft für’s **impfen** mit [ :arrow_up_small: Globuli ](https://de.wikipedia.org/wiki/Globuli) **klein dosiert, über zwei Wochen, trocken**  
 > [ :arrow_up_small: quantum-inspired optical sensor ](https://phys.org/news/2020-06-physicists-quantum-inspired-optical-sensor.html) in place for on air {+virus mutual genome detection+}
 
 **2020-04-28** Di  
@@ -53,7 +51,9 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 [lang-EN] **AI photogrammetry** – Open Shading Language <!-- 6th Project, Academy Software Foundation -->
 
-> learn to put polygon, recreate object, associate tag, REM to drilldown w/ interference chain constraint-texture-map
+> learn to put polygon, recreate object, **associate tag**, REM to drilldown w/ interference chain constraint-texture-map
+
+> detect deepfakes with qualified **associate tag** intelligence and [ :arrow_up_small: texture-dense aberration ](https://arstechnica.com/information-technology/2020/06/deepfakes-arent-very-good-nor-are-the-tools-to-detect-them/)
 
 
 **2019-11-15** Fr  
