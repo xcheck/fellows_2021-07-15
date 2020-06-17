@@ -55,6 +55,8 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 
 > detect deepfakes with qualified **associate tag** intelligence and [ :arrow_up_small: texture-dense aberration ](https://arstechnica.com/information-technology/2020/06/deepfakes-arent-very-good-nor-are-the-tools-to-detect-them/)
 
+> associate tag →<sup>object-**sub** </sup>texture-base-most →<sup>object-**sup-n** </sup>texture-part-diff
+
 
 **2019-11-15** Fr  
 [lang-DE] **Agiles Management** – mit Windows und SAP
