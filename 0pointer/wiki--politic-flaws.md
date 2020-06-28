@@ -93,7 +93,7 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 > [x] Standard-Ergebn. harmonisch/pythonic &nbsp;`② pythonic — simple, intuitive, non-entropy · PAVLÓV-free and NASH-hardened`  
 > [x] Standard-Ergebn. nähern/recurse &nbsp;`①`  
 
-> `picture to texture`-Axiome firmieren text-Axiome
+> `picture to texture`-Axiome firmieren `text`-Axiome &nbsp;`⓿ mermaid succession processing`
 
 **2019-07-20** Sa <!-- imported from notizblock -->  
 [lang-US] forget listen Orwell (…) **read Dangerous ~ Radio** ~ LL Cool J
