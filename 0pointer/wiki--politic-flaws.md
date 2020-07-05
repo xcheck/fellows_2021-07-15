@@ -60,10 +60,11 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > associate tag →<sup>object-**sub** </sup>texture-base-most →<sup>object-**sup-n** </sup>texture-part-diff  
 > _\_bruteforce.backtransform block.group.chapter family.coherence best/most_  
 > _\_use neurologic to find the optimal texture-map, next fetch the formula with Mathematica_  
-> _\_base this source for varied fractals and variant chaos theory instead of neurologic_  
+> _\_**base** this source for varied fractals and variant chaos theory instead of neurologic_  
 > lang-DE… &nbsp;a) 3d Bauklötze &nbsp;b) 2d Gekritzel ← ohne a) bleibt nurmehr Meta-Flickwerk  
 > lang-DE… &nbsp;5²=4²+3²&nbsp;↹ &nbsp;Spracheₘ ˽ Bild ˽ Spracheₙ  
-> lang-DE… &nbsp;4²+<i>i</i>3² ≠ √(4²+<i>j</i>3²) &nbsp;↹ &nbsp;Komplex ≠ Kreis
+> lang-DE… &nbsp;4²+<i>i</i>3² ≠ √(4²+<i>j</i>3²) &nbsp;↹ &nbsp;Komplex ≠ Kreis  
+> _\_create book export on human coherent experience **base** w/ mermaid picture chain_
 
 
 **2019-11-15** Fr  
