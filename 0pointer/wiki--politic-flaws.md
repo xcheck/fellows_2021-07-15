@@ -97,6 +97,20 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 
 > `picture to texture`-Axiome firmieren `text`-Axiome &nbsp;`⓿ mermaid succession processing`
 
+<br>  
+<details>
+<summary>open/close follow-up «extra details»</summary>
+
+✁  
+{-health-} – KI med. Arzt: Long time [intravenous therapy](https://en.wikipedia.org/wiki/Intravenous_therapy) (lung implosion) attributes to quantify **volume and periods,** an AI feed with sensors (A flood is an overflow of water).  
+[Coronavirus en Estados Unidos | Mayra Ramírez, la joven que se convirtió en la primera persona del país en recibir un trasplante doble de pulmón por covid-19 - BBC News Mundo](https://www.bbc.com/mundo/noticias-53659530)  
+
+health – **Nearby Share**: meet track G/maps/timeline “chats by chance” moving bluːtuːθ mesh
+
+</details>
+<br>
+
+
 **2019-07-20** Sa <!-- imported from notizblock -->  
 [lang-US] forget listen Orwell (…) **read Dangerous ~ Radio** ~ LL Cool J
 
