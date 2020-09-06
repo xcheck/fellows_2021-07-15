@@ -300,3 +300,20 @@ PINNED -->
 > → Vehikel im Dauerbetrieb ([ :arrow_up_small: fernere Zukunft](http://www.globaltimes.cn/content/1157207.shtml)) zB. voll autonome Taxis fahren besser mit Brennsoffzellen dh. Wasserstoff H₂. Wasserstoff diffundiert in null komma nichts, Materialprobleme und das lebensferne nicht praktikable Handling für den typischen Verbraucher außen vor gelassen.
 
 > Geschlossener Kreislauf Brennstoffzelle geloest [ :arrow_up_small: chinos resuelven problemas del hidrógeno para el coche eléctrico: logran producirlo in situ y en tiempo real ](https://www.xataka.com/vehiculos/cientificos-chinos-resuelven-uno-problemas-hidrogeno-para-coche-electrico-logran-producirlo-in-situ-tiempo-real) \(31 Enero 2020\)
+
+<br>  
+<details>
+<summary>open/close follow-up «extra details»</summary>
+
+✁  
+{-health-} – sodium / methane battery: **active self-hosted vital AI function**, only sophistication is to know the state of use “A key problem for some of the most promising cathode materials **is that a layer of inactive sodium** crystals builds up at the surface of the cathode, stopping the flow of sodium ions and, consequently, killing the battery.”  
+{+see ff+} **field the** standby temperature  
+https://news.wsu.edu/2020/06/01/researchers-develop-viable-sodium-battery/  
+https://scitechdaily.com/new-class-of-semiconducting-entropy-stabilized-materials-discovered/  
+{+vs ff+} robust and **closed median size range** {+cycle by CH₄+}  
+https://www.motorpasion.com/tecnologia/desarrollan-espana-motor-combustion-limpio-como-uno-electrico-promete-cero-emisiones-contaminantes  
+
+{-rustika-} – Lada: Chassis als stehende Basis und gemeinsamer Standard. Intérieur und Haube auf github bzw. gitlab nach Beispiel onshape **als freie n-Beteiligung zur Vorstellung**  
+https://www.hibridosyelectricos.com/articulo/mercado/zetta-coche-electrico-mas-barato-mundo/20200803150903037100.html  
+
+</details>
