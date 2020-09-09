@@ -66,6 +66,28 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 > lang-DE… &nbsp;4²+<i>i</i>3² ≠ √(4²+<i>j</i>3²) &nbsp;↹ &nbsp;Komplex ≠ Kreis  
 > _\_create book export on human coherent experience **base** w/ mermaid picture chain_
 
+<br>  
+<details>
+<summary>open/close follow-up «extra details»</summary>
+
+✁  
+**best-found(i)**: 5bit:28₁₀˽toomuch - 3D/4D | 5D/ - inna/world | universe/all - 32bit:^2*gₙ/^2*gₘ  
+
+starfish: 5d\[t\] compare dark-irreversible  
+3 spaces  
+1 £ to commons of (succession t)  
+{+1 #+} to singular off (breaking t choosing the only option that does not exist)  
+
+{+1 #+} to singular off (breaking t… _Das hätte sich eh alles so ergeben_ ‥physics say the contrary  
+12 - Deutsches kaputt distort **weksparen**  
+
+**dark-irreversible**: Angenommen, Bild und Unbewusstsein sind kaputt zerstört. Es bleibt eine Pseudo Ratio des Gegenüber per Scheinverbindung und verschränkungsspiegeln. Kann der Zombie dann jemals einen Punkt tiefer als - **dark-irreversible** - erreichen? Falls dies für **Nicht-Mehr-Existent** hier unmöglich ist, sind alle **Kosten ausschließlich von der Gesamtheit** zu tragen, ein anderes Wort dazu ist Schuld und deren Bewältigung.  
+
+{-internal-}: reads like the easiest way to search extraterrestrials is to scan about di-mad-irreversible interferences patterns structures a node point of all life and backmirror say in re  
+
+</details>
+<br>
+
 
 **2019-11-15** Fr  
 [lang-DE] **Agiles Management** – mit Windows und SAP
