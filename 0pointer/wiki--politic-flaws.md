@@ -85,6 +85,10 @@ starfish: 5d\[t\] compare dark-irreversible
 
 {-internal-}: reads like the easiest way to search extraterrestrials is to scan about di-mad-irreversible interferences patterns structures a node point of all life and backmirror say in re  
 
+**exvert-convert**: Angenommen dark-irreversible, ohne eigen Licht im **singul&auml;r wek**, zeigen irgendein **verschr&auml;nk aber falsch** mangels Unbewusstsein d.h. resultierender Pseudo Ratio `k&ouml;nnen &ldquo;Singul&auml;r Gesetze&rdquo; einheitlich **f&uuml;r alles** d.h. zur Beschreibung von Zombie gefunden werden? Eine eigen L&ouml;sungs-Funktion scheint kaputt, alles l&auml;uft **unidirekt zirkular**. Excon zu Excon verlangen nach einer besonderen Betrachtung. Eventuell lassen sich hieraus Erkenntnisse zwischen Negativ und Diapositiv gewinnen. BUZZ broken t
+
+{-internal-}: _broken t, invert holos_
+
 </details>
 <br>
 
