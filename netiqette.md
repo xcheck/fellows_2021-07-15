@@ -31,12 +31,12 @@ Qua<sup>**simodo**</sup> nur halt rückwärts…
 
 ### Glossar :information_source:
 
-:arrow_right_hook: [ Symbole \(:pregnant_woman:\) — Zeichengebung ](./pool/0×UTF-8.md)
+:arrow_right_hook: [ Symbole \(:pregnant_woman:\) — Zeichengebung ](/pool/0×UTF-8.md)
 
 
 ---
-[ :arrow_right_hook: README ](./README.md)
+[ :arrow_right_hook: README ](/README.md)
 
-[ :arrow_right_hook: drop.in ](./drop_in.md) _« Vorfall in 2017 per Polizei_
+[ :arrow_right_hook: drop.in ](/drop_in.md) _« Vorfall in 2017 per Polizei_
 
-**[ :leftwards_arrow_with_hook: netiqette ](./netiqette.md)**
+**[ :leftwards_arrow_with_hook: netiqette ](/netiqette.md)**
