@@ -38,9 +38,9 @@ _{+PINNED +}_**{+2019-06-10+}**{+ Mo+}
 .[lang-DE] **Coronavirusimpfung retard** – darknet-, deepweb-neuland ??  
 [lang-EN] **Coronavirus vaccine** – [ :arrow_up_small: inactivate sample culture (sCO₂) ](https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide#Sterilization_of_biomedical_materials) [ :arrow_up_small: T-Cell Cloning fairy tale ](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=t+cell+cloning+fairy+tale) – Gauck-Luftschutzjungle  
 
-> accelerate immunoglobulin autoproduction… ‥focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](https://rollparc.com/femcup)
+> accelerate immunoglobulin autoproduction… ‥focus for [ :arrow_up_small: \[goal\] menstrual cup priming … \`self-cleaning\` ](http://rollparc.com/femcup)
 
-> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md) _&nbsp;« entropy density (not border)_
+> “supercritical” **i.e. subcritical** negatives [ :arrow_up_small: Viskosität erhöht per Falsch  ](https://derstandard.at/permalink/p/1044797559) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/main/README.md) _&nbsp;« entropy density (not border)_
 >  
 > [.:arrow_up_small: Hahnemann (* 10. April 1755) ](https://de.wikipedia.org/wiki/Samuel_Hahnemann) kämpft für’s **impfen** mit [ :arrow_up_small: Globuli ](https://de.wikipedia.org/wiki/Globuli) **klein dosiert, über zwei Wochen, trocken**
 >  
@@ -108,7 +108,7 @@ Agile … flat, labeled, collections, ← fluid metas, float/division, indermedi
 
 > just add some lines to appreciate evaluations of DI-Pawlow w/ health track
 
-> **Mathematische Arithmetik** &nbsp;[ :arrow_right_hook: Innerster Kreis…? ](https://gitlab.com/xcheck/fellows/-/wikis/religionen#intelligenz) [ :arrow_right_hook: was wertig und was wichtig ](https://gitlab.com/xcheck/fellows/-/issues/3#note_200949569) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/master/README.md)  
+> **Mathematische Arithmetik** &nbsp;[ :arrow_right_hook: Innerster Kreis…? ](https://gitlab.com/xcheck/fellows/-/wikis/religionen#intelligenz) [ :arrow_right_hook: was wertig und was wichtig ](https://gitlab.com/xcheck/fellows/-/issues/3#note_200949569) [ :left_right_arrow: …README ](https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/main/README.md)  
 > Es wäre hilfreich mathematische Ausdrücke zu entwickeln, die die Bildsprache der Quantenmechanik  
 > a) einfach,  
 > b) intuitiv,  
@@ -190,7 +190,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 
 > Tilt the **German intellectual right** on the **nash-porquería** and go public w/o stall, block out, disinformation, disruptiveness, decay, detour, indirection (…) using euphemism here. See previous entry from **2019-07-01** Mo.
 >  
-> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy (Organism-Model) ](https://gitlab.com/xcheck/fellows/issues/2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
+> From the little (…) Google and its upcoming Fuchsia OS sources a real-time kernel called Zircon w/ almost **none method to wait or hold or batch** the processing. This describes a **flat origamigram** organization hierarchy which perfectly maps the [ :arrow_right_hook: Common Democracy (Organism-Model) ](#2) but – as we sick – nor the German **red tape** authority infrastructure, neither the German private sector, does map it.
 >  
 > Zircon ~vs~ Linux [ :arrow_up_small: Android remains first choice (Huawei's Hongmeng OS is for IoT) ](http://www.ecns.cn/news/sci-tech/2019-07-13/detail-ifzkzyey4242758.shtml)
 
@@ -211,7 +211,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 > progress [ :left_right_arrow: **new turing test**][mentalcareNewTuringTest]\*  
 > \*\) mis commentarios 11 y 12 en [ :arrow_up_small: Los intereses comerciales marcan el futuro de la inteligencia artificial ][elpaisCoherenceAI]
 
-[mentalcareNewTuringTest]: https://gitlab.com/mentalcare/things-i-dont-want-to-forget/blob/master/README.md#new-turing-test
+[mentalcareNewTuringTest]: https://gitlab.com/mentalcare/things-i-dont-want-to-forget/-/blob/main/README.md#new-turing-test
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
 
 > otro método de prueba en acorde\* con cuántica [ :arrow_up_small: El nuevo viral es una ecuación matemática y generó una "grieta" (…) ][lanacionPruebaCuanto] _&nbsp;« afuera Deutschem-Nash recto verso_  
@@ -223,7 +223,7 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-27** Do  
 [lang-EN] Climate-Tax Buzz CO₂
 
-> Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: Common-Democracy \(unconditionally but open and transparent\)](https://gitlab.com/xcheck/fellows/issues/2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
+> Reconsider OPEC to climate-tax their gasoline → and reinvest this patrimony [ :arrow_right_hook: Common-Democracy \(unconditionally but open and transparent\)](#2). Could turn out to see where assistance is more needed than in the E.U. even geographically. See previous entry from **2019-05-22** Mi.
 
 > [ :arrow_up_small: Online porn ‘produces the same amount of carbon emissions as all the households in France’ ](https://www.rt.com/news/464109-porn-co2-emissions-report/) (13 Jul, 2019)  
 > and the latter [ :arrow_up_small: YOUPORN UND XVIDEOS, 30 Prozent des Internet-Datentraffics sind Pornovideos ](https://www.golem.de/news/youporn-und-xvideos-30-prozent-des-internet-datentraffics-sind-pornovideos-1204-90994.html) (5. April 2012)
@@ -232,13 +232,13 @@ https://www.nytimes.com/2019/07/08/world/europe/alex-morgan-tea-milk.html
 **2019-06-26** Mi  
 [lang-EN] Facebook Libra – cryptocurrency
 
-> tl;dr: skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Common-Democracy \(Web Social of sense Mesh Social\) ](https://gitlab.com/xcheck/fellows/issues/2) w/ attach [ :arrow_up_small: commodity analysis ](https://twitter.com/HametnerUwe/status/1115232014230274050?s=20)
+> tl;dr: skip discussing that FB Libra isn't a cryptocurrency at all → if such a currency is linked to a stock basket say MSCI World All Countries, by effectively being owner and shareholder, this results again in a greater “Common Consense” described as [ :arrow_right_hook: Common-Democracy \(Web Social of sense Mesh Social\) ](#2) w/ attach [ :arrow_up_small: commodity analysis ](https://twitter.com/HametnerUwe/status/1115232014230274050?s=20)
 
 
 **2019-06-24** Mo  
 [lang-EN] Microsoft GitOS – kinda self-inherited recompilation
 
-> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows ~vs~ ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/issues/2#note_161063170)
+> tl;dr: the concept of Windows is broken beyond repair, cut-off and create the Git Operating System. Details translate yourself [ :arrow_right_hook: Common-Democracy \(Windows ~vs~ ChromeOS – München's denial of Linux\) ](https://gitlab.com/xcheck/fellows/-/issues/2#note_161063170)
 
 
 **2019-06-23** So  
@@ -294,7 +294,7 @@ PINNED -->
 
 
 .**2019-06-05** Mi  
-.[lang-EN] ~~true Democracy~~ the women way — [ :arrow_right_hook: Embarrassing evidence against the Bring-To-Light heritage democracy ](https://gitlab.com/xcheck/fellows/issues/6)
+.[lang-EN] ~~true Democracy~~ the women way — [ :arrow_right_hook: Embarrassing evidence against the Bring-To-Light heritage democracy ](#6)
 
 > skip this and go gender independent (…) see link above
 
