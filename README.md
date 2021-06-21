@@ -18,20 +18,20 @@ Volksweisheit: „In der Regel besteht der Ausnahmezustand.”
 
 
 [netupload]: https://1drv.ms/u/s!Aq_PeSmrJqGAhn6z8hjDQTaP2nmN "fritzerPointRoute-Online-Zähler.csv"
-[pamflete]: https://gitlab.com/xcheck/fellows/snippets/1680925
+[pamflete]: https://gitlab.com/xcheck/fellows/-/snippets/1680925
 [hypnose]: https://www.piper.de/buecher/du-wirst-tun-was-ich-will-isbn-978-3-492-30410-8
 [steganographie]: https://www.dpunkt.de/buecher/12500/9783957881038-versteckte-botschaften-(telepolis).html
 
 
-current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Police Crime contagion **{+→ disclosure yet pending+}**_
+current status‥ [ :arrow_right_hook: **drop.in** ](/drop_in.md) _&nbsp;« Police Crime contagion **{+→ disclosure yet pending+}**_
 
 | ₁₁basis | project | subscription | rel |
 | --- | -- | -- | --|
-| ☒ | blog :footprints: | — \|me\| | [ :arrow_up_small: www.rollator-parcours.com/de/ ](https://www.rollator-parcours.com/de/) |
+| ☒ | blog :footprints: | — \|me\| | [ :arrow_up_small: www.rollator-parcours.com/de/ ](http://www.rollator-parcours.com/de/) |
 | ☒ | fellows :chestnut: |  pseudonym [kudos] | [ :arrow_right_hook: gitlab.com/xcheck/fellows/-/wikis/home ](https://gitlab.com/xcheck/fellows/-/wikis/home) |
-| ☐ | ~~_levelling_ :bouquet:~~ | anonym /link ex\ | [ :arrow_up_small: fb.com/groups/DiStammtisch/ ](https://www.facebook.com/groups/DiStammtisch/) _<sup>« sleep (!)</sup>_ |
+| ☐ | ~~_levelling_ :bouquet:~~ | anonym /link ex\ | [ :arrow_up_small: fb.com/groups/DiStammtisch/ ](https://www.facebook.com/groups/DiStammtisch/) _<sup>« s'pool</sup>_ |
 
-<!-- | ☐ | invitee (private) :file_folder: | theme-of-elements | [ :left_right_arrow: ∷ ](https://gitlab.com/xcheck/theme-of-elements/wikis/home) | -->
+<!-- | ☐ | invitee (private) :file_folder: | theme-of-elements | [ :left_right_arrow: ∷ ](https://gitlab.com/xcheck/theme-of-elements/-/wikis/home) | -->
 
 
 <br>
@@ -41,11 +41,11 @@ current status‥ [ :arrow_right_hook: **drop.in** ](./drop_in.md) _&nbsp;« Pol
 1.  Die Beklagte hat die Kosten des Rechtsstreits zu tragen.
 2.  Der Streitwert wird auf 1.000,00 :euro: festgesetzt.
 
-[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>**2016-02-15** Chromik</sup> ]($1680829)
+[ :arrow_right_hook: Az.: 8 C 2603/15 – Amtsgericht Rosenheim <sup>**2016-02-15** Chromik</sup> ](https://gitlab.com/xcheck/fellows/-/snippets/1680829)
 
 ---
-**[ :leftwards_arrow_with_hook: README ](./README.md)**
+**[ :leftwards_arrow_with_hook: README ](/README.md)**
 
-[ :arrow_right_hook: drop.in ](./drop_in.md) _« Vorfall in 2017 per Polizei_
+[ :arrow_right_hook: drop.in ](/drop_in.md) _« Vorfall in 2017 per Polizei_
 
-[ :arrow_right_hook: netiqette ](./netiqette.md)
+[ :arrow_right_hook: netiqette ](/netiqette.md)
